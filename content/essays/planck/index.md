@@ -1,7 +1,7 @@
 ---
 title: Planck 公式在历史上是怎么诞生的
 date: "2025-07-04"
-tags: ["Math"]
+tags: ["Physics"]
 authors: ["hzqtljh"]
 draft: false
 ---

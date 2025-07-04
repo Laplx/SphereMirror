@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Information on 球面镜</title>
-    <link>http://localhost:1313/SphereMirror/tags/information/</link>
+    <link>https://laplx.github.io/SphereMirror/tags/information/</link>
     <description>Recent content in Information on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/information/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/information/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Regression on Channel</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/24.04.26/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/24.04.26/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.04.26/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/24.04.26/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;回归在信道上 
     &lt;div id=&#34;回归在信道上&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -30,15 +30,15 @@
 &lt;p&gt;我们假想我们做的回归 \(Y\) 对 \(X\) 其实由一个高斯信道 \(X\rightarrow Y\) 把控。如果事实上机制就是这样，那么估计的信道容量会趋向真实值 \(\hat{C}\rightarrow C=-\frac{1}{2}\ln(1-R^2)\)，这也是最大可能达到的码率——这里就有事了，我们正是依靠\(X\)的行为传递的信息去判别\(Y\)​。&lt;/p&gt;
 &lt;p&gt;若连续变量 \(X\) 确实按照高斯分布，那么理论上我们能无限量的发出信息；但这并没有用，鉴于信道的限制，我们相当于以至少存在 \(D_{min}=\sigma_X^2(1-R^2)\) 的均方误差进行测量。（\(R(D)=\frac{1}{2}\ln\frac{\sigma_X^2}{D}&amp;lt;C\)）&lt;/p&gt;
 &lt;p&gt;如果形式的分组（就像处理微分熵那样），那么我们有 \(\lfloor \frac{1}{\sqrt{1-R^2}}\rfloor\) units。于是相关系数 \(R\ge \frac{\sqrt{3}}{2}=0.866\) 尚才1个bit的定性判断。否则在样本量趋向于无穷时候，结果落在典型集中的概率会趋向于0，亦即此时用以预测其实跟打奖没什么区别呃呃。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.04.26/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/24.04.26/featured.png" />
     </item>
     
     <item>
       <title>Theory of Theory</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.10.20/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.10.20/</link>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.10.20/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.10.20/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;理论的理论 
     &lt;div id=&#34;理论的理论&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -54,15 +54,15 @@
 \mathcal{X} \rightarrow X \rightarrow \boxed{\mathbb{T}} \rightarrow Y \rightarrow \mathcal{Y}
 $$&lt;/p&gt;
 &lt;p&gt;\(\mathcal{X} \rightarrow X\) 和 \(\mathcal{Y} \rightarrow Y\) 都是概念化 Conceptualize 的过程。\(\mathcal{X}\) 和 \(\mathcal{Y}\) 是现实世界的对象或情形，\(X\) 和 \(Y\) 是我们理论的输入和输出。（注意\(X\)可以不仅仅是某个数值变量“政府年度固定投资额”，还可以是“财政政策不变”这样更为抽象的输入或问询。）科学理论的核心是相关与因果。仅相关的关联性可以做到预测，而因果性（并不是一个容易论断的东西）可以做控制和应用。中间的模型机制 Laws or Theorems \(T\) 和概念 Concepts \(C\) 组成了一个完整的理论 \(\mathbb{T}={T_1,\cdots,T_i,C_1,\cdots,C_j}\) 。每个定理（或定理的一部分）都可以写成 \(c = T(c_1,\cdots,c_n)\)，其中 \(c\) 是 \(C\) 的具象输入。我们这里缺少了几个理论里常见的模块，但其实已经纳入机制 \(T\) 内了，包括假设 Assumption 和公理 Axiom ——一种未经验证的假定的\(C\)之间的关联性；引理 Lemma 和推论 Corollary ——也是定理们特定的同义重复。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.10.20/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.10.20/featured.png" />
     </item>
     
     <item>
       <title>The Limit of Handwritting</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.09.29/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.09.29/</link>
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.09.29/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.09.29/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;书写有极限吗 
     &lt;div id=&#34;书写有极限吗&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -92,15 +92,15 @@ $$&lt;/p&gt;
 &amp;amp; 2.\ Smoothness: There\ is\ no\ sharp\ angles\ and\ writter&amp;rsquo;s\ acceleration\ can\ be\ infinity.
 \end{align}
 $$&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.09.29/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.09.29/featured.png" />
     </item>
     
     <item>
       <title>Semantic Information</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.07.14/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.07.14/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.07.14/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.07.14/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;语义信息量 
     &lt;div id=&#34;语义信息量&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -127,7 +127,7 @@ I(而它不是红色) &amp;gt; 0
 \end{aligned}
 \right.
 $$&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.07.14/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.07.14/featured.png" />
     </item>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frivolity on 球面镜</title>
-    <link>http://localhost:1313/SphereMirror/tags/frivolity/</link>
+    <link>https://laplx.github.io/SphereMirror/tags/frivolity/</link>
     <description>Recent content in Frivolity on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/frivolity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/frivolity/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Theory of lazing in military training</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.09.01/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.09.01/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.09.01/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.09.01/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;军训偷懒学 
     &lt;div id=&#34;军训偷懒学&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -77,7 +77,7 @@ sort the theta intervals by the left side and then exam if there is overlapping 
 func countangle(): # 计算在指定范围内的区间们的总长
 calculate the length of each interval and add then together.
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;（可以预见，在具有一定人数且人靠内部的情况下，偷偷动动手是大概率不会发现的。一般教官要求的参数：\(h=l=75cm\)（左右转后一致），\(l-d = 10cm\ 即\ d=65cm\)。为了方便继续研究，\((x,y)\) 用以表示相对人中心一定偏移处的动作影响，如左手在腿边拨动手指应取 \((-32.5,0)\)）&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.09.01/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.09.01/featured.png" />
     </item>
     
   </channel>

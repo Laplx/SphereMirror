@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computation on 球面镜</title>
-    <link>http://localhost:1313/SphereMirror/tags/computation/</link>
+    <link>https://laplx.github.io/SphereMirror/tags/computation/</link>
     <description>Recent content in Computation on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/computation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/computation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Infinite Turing Machine</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/24.01.26/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/24.01.26/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.01.26/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/24.01.26/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;无限图灵机 
     &lt;div id=&#34;无限图灵机&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -45,7 +45,7 @@
 &lt;p&gt;&lt;strong&gt;Church-Turing Thesis:&lt;/strong&gt; A function can be calculated by an effective method if and only if it is computable by a Turing machine.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dual Church-Turing Thesis:&lt;/strong&gt; A relation can be understanded by an effective way if and only if it is realized by a infinite Turing machine.&lt;/p&gt;
 &lt;p&gt;\(RE\) 表示全部图灵可识别语言（Chomsky 形式语法 type-0），\(TE\) 表示 Turing Emergenable（大概需要一个自然语言的语法层级），全部图灵可涌现识别的语言。对应通用图灵机 \(\mathcal{U}\) 的为通用无限图灵机 \(\tilde{\mathcal{U}}\)。（由于至少一种图灵机 \(M_\infty\) 有无限个，我们需要指明输入参数、算法指派的模式作为在无穷网络上的输入。）不仅 \( \tilde{\mathcal{U}} = F(\mathcal{U})\)，\(\mathcal{U} = F(\tilde{\mathcal{U}})\)​ 亦成立。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.01.26/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/24.01.26/featured.png" />
     </item>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Color on 球面镜</title>
-    <link>http://localhost:1313/SphereMirror/tags/color/</link>
+    <link>https://laplx.github.io/SphereMirror/tags/color/</link>
     <description>Recent content in Color on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/color/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/color/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>色彩科学</title>
-      <link>http://localhost:1313/SphereMirror/notes/color-science/</link>
+      <link>https://laplx.github.io/SphereMirror/notes/color-science/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/notes/color-science/</guid>
+      <guid>https://laplx.github.io/SphereMirror/notes/color-science/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;Luminance 
     &lt;div id=&#34;luminance&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -70,7 +70,7 @@
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;对于光亮度感知，显然看起来不可能（同功率下）各个波长都一样。因此我们实验测定了明视觉亮度函数（视效函数）\(V(\lambda)\)，在 \(2\degree\)视角、明视觉条件下平均人眼匹配不同波长光的明暗感觉得到。这个函数在约 555nm 处取到最大视效 \(V_m = V(555\text{ nm}) = 683 \text{ lm/W}\)（故人眼对绿光最敏感）；如果我们除以 \(V_m\)，将该点置一就得到我们常用的视见函数，仍记作 \(V(\lambda)\)（自然可见是否带这个常数因子不重要，后面自行知道即可）。（暗视觉 \(V&amp;rsquo;_m = V&amp;rsquo;(507\text{ nm}) = 1700 \text{ lm/W}\)）&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/color-science/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/notes/color-science/featured.png" />
     </item>
     
   </channel>

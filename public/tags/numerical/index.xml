@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Numerical on 球面镜</title>
-    <link>http://localhost:1313/SphereMirror/tags/numerical/</link>
+    <link>https://laplx.github.io/SphereMirror/tags/numerical/</link>
     <description>Recent content in Numerical on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/numerical/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/numerical/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>共轭梯度法（CG Method）</title>
-      <link>http://localhost:1313/SphereMirror/notes/numerical/cg/</link>
+      <link>https://laplx.github.io/SphereMirror/notes/numerical/cg/</link>
       <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/notes/numerical/cg/</guid>
+      <guid>https://laplx.github.io/SphereMirror/notes/numerical/cg/</guid>
       <description>&lt;p&gt;
 
 如果初始点的选择不好或者函数行为不好时，最速下降法可能并不理想。我们先从几何和直觉上展示共轭梯度法，同时可以在后文理清数学逻辑后再来看看这两张图。&lt;/p&gt;
@@ -42,7 +42,7 @@
 $$&lt;/p&gt;
 &lt;p&gt;假装我们能获取每一步的搜索方向 \(p_i\)，那么由精确线搜索知 \(p_i \perp -\nabla f_{i+1}\)，其中 \(\nabla f_{i+1} := \nabla f(x_{i+1})\)，且 \(x_i = x_0 + \sum_{j=0}^{i-1}\alpha_j p_j\)，\(\alpha_i\) 记步长。&lt;/p&gt;
 &lt;p&gt;同时我们可以直接得到一个关于搜索步长的表达式，对 \(f(x_i + \alpha_i p_i) = g(\alpha_i),\ g^\prime (\alpha_i) = 0\) 得到&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/numerical/cg/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/notes/numerical/cg/featured.png" />
     </item>
     
   </channel>

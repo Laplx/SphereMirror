@@ -11,7 +11,7 @@ description: "关于本网站"
 
 ## 编写工具
 
-本站使用了 Hugo & Blowfish 创作并借助 Blowfish-Linter 自动匹配格式。详情参见：
+本站使用了 [Hugo](https://gohugo.io) & [Blowfish](https://blowfish.page) 创作并借助 Blowfish-Linter 自动匹配格式。详情参见：
 
 {{< github repo="Laplx/Blowfish-Linter" >}}
 

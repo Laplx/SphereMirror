@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Narration on 球面镜</title>
-    <link>http://localhost:1313/SphereMirror/tags/narration/</link>
+    <link>https://laplx.github.io/SphereMirror/tags/narration/</link>
     <description>Recent content in Narration on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/narration/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/narration/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How Wenzhou Develops</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/24.02.02/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/24.02.02/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.02.02/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/24.02.02/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;温州，如何介绍你？ 
     &lt;div id=&#34;温州如何介绍你&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -29,7 +29,7 @@
 &lt;p&gt;我之前有想给家乡作个小介绍。但作为一个城市名的“温州”，它在指什么？我应该说些什么呢？是这片土地区划上历来发生的故事、社会和人们吗？对于一个生长在其他地方风物里的人，他能从一个与之无甚关系的城市中看到什么？&lt;/p&gt;
 &lt;p&gt;如果这是一个城市推荐短篇，我们会想要尽量包罗万象的展现它的方方面面，那么历史、政治、经济、文化、风俗、饮食、地理、名人名胜等都应分点展开简述。但我想聚焦在一些让温州成为当下人们口中的“温州”的东西——一部关于温州的现代的发展史。&lt;/p&gt;
 
-&lt;h4 class=&#34;relative group&#34;&gt;山水，人间 
+&lt;h3 class=&#34;relative group&#34;&gt;山水，人间 
     &lt;div id=&#34;山水人间&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
@@ -37,7 +37,7 @@
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%b1%b1%e6%b0%b4%e4%ba%ba%e9%97%b4&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h4&gt;
+&lt;/h3&gt;
 &lt;p&gt;介绍的起点从名字开始。温州的温，正得名自“温润”之意，冬无严寒夏无酷暑（虽然确实十来年才下一次雪，但夏天我觉得挺热的）；简称“瓯”，古有“瓯越国”“东瓯国”。“瓯”字大概来源于方言的“岙”，这就不得不提到一些东南沿海地名的常用字了，例如岙、澳、埠、垟等；其中澳义同岙，指山间平地或海边港湾，地形表现为三面被山丘包夹，一面向平原或者近海敞开。（丘陵山地的岙，因为耕地面积较多且肥力较强，往往形成村落。）&lt;/p&gt;
 &lt;p&gt;如果要概括温州的景观，“山水诗画”恐怕非常合适（尽管不少城市都可以如此概括）。&lt;/p&gt;
 &lt;p&gt;这里的山水，不单单是旅游的去处，而是山城相拥、陆海交融，作为构成温州肌理的主要部分、无处不在的。东南丘陵延绵不断在东海及海峡之滨，其中的雁荡山脉，从北雁荡山至南雁荡山，横贯了温州南北。瓯江、飞云江、鳌江三条水流从其中发源并入海，它们产生了三片温州主要的城镇——瓯江的市区，江北部是永嘉和乐清，北雁荡的山峦奇耸，向南则有吹台山和大罗山；两座大山的南部是瑞安市区、飞云江和平阳；再向南跨过棋盘山和古盘山，是鳌江和龙港，由此向南至浙闽边境的山脉为止。东部面向茫茫东海，有洞头列岛、南麂列岛等大量岛屿散布；西部则是绵叠高耸的群山，泰顺和文成两个山区县海拔均在六百米以上。&lt;/p&gt;
@@ -56,7 +56,7 @@
 &lt;p&gt;正好对地域问题说两句。我想地域的讨论要存在，那么必须存在并接受集体特征的刻板印象。刻板印象由一些元素共同构筑，它放大媒体报道的那些极值并将其固化下来；而这个最猛烈的形成期正是大规模的人口迁移期，如90年代、杭州的2015年之后。温州的“血汗工厂”、“精明奸商”，乃至浙江的小商品、小老板、互联网等关键要素都以此形成，并开始在网络上游走争论，不断得到强化。&lt;/p&gt;
 &lt;p&gt;远离中心城市群、位于台海前线、地理封闭、土地贫瘠，几个因素共同导致了温州处于政策边缘的位置。国家的长三角建设和海西建设的众多文件里，处在交界地带的温州反复出现又消失，可见一斑；从建国到改开前，温州获得的投资尚不及宁波的四分之一。这一空白留待当地的人在改开后野蛮生长，拼命弥补。&lt;/p&gt;
 
-&lt;h4 class=&#34;relative group&#34;&gt;小商品，大市场 
+&lt;h3 class=&#34;relative group&#34;&gt;小商品，大市场 
     &lt;div id=&#34;小商品大市场&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
@@ -64,13 +64,13 @@
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%b0%8f%e5%95%86%e5%93%81%e5%a4%a7%e5%b8%82%e5%9c%ba&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h4&gt;
+&lt;/h3&gt;
 &lt;p&gt;“小商品，大市场”由曾三访温州的费孝通先生提出，即“温州模式”（此外还有“苏南模式”“珠三角模式”）。这一经验在80年代掀起了全国关注和学习的热潮，前往温州的车一度被各地官员考察团队买到供不应求。模式被描述为家庭生产、专业市场、无为政府。前店后厂成为了街头标配，带着制品到各地扩展市场的传销员人数庞大。&lt;/p&gt;
 &lt;p&gt;改开的春风袭来，民间的势头生发迅猛，自下而上，地方亦予以了肯定与支持；就这样鹿城区颁出了中国第一张个体工商业营业执照。温州走上了个体私营、股份合作制经济的发展道路。&lt;/p&gt;
 &lt;p&gt;浙江的许多县域、村镇都凭借专业化的特色产业集群发展，温州当时有诸如桥头纽扣、永强阀门、塘下汽摩配、柳市低压电器、萧江塑编……因此涌现了所谓“中国鞋都”“中国泵阀之都”“中国纽扣之都”“中国汽摩配之都”等等一众招牌（现在来看几乎都是盛名之下，其实难副了）。&lt;/p&gt;
 &lt;p&gt;举个例子，原本进口单价至少4元的电子打火器，温州工坊自制最初只需2元左右，规模生产后价格进一步降到0.3元以下。（入世第一案即发生在此，2002年欧盟对中国出口的打火机进行反倾销立案调查，但最终官司取得胜利，温州烟具行业协会这一民间团体功不可没——尽管没阻止住欧盟两年后再次通过）&lt;/p&gt;
 &lt;p&gt;考虑到当时的环境，姓资姓社等争论不休（基本要到94年十四届三中全会才尘埃落定），这些种种仍然过于超前或“资本主义”了。与“傻子瓜子”类似（傻子瓜子雇佣了百来名员工，被当作资本主义典型告到邓那里，最终拍板放过），“八大王”事件（包括五金大王胡金林在内的八位个私经济领头人以“投机倒把罪”被捕，沉重打击兴起的家庭工业，后平反）也是一场思想上的风波，温州模式的一次破壳。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.02.02/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/24.02.02/featured.jpg" />
     </item>
     
   </channel>

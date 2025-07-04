@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hzqtljh on 球面镜</title>
-    <link>http://localhost:1313/SphereMirror/authors/hzqtljh/</link>
+    <link>https://laplx.github.io/SphereMirror/authors/hzqtljh/</link>
     <description>Recent content in hzqtljh on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/authors/hzqtljh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/authors/hzqtljh/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Planck 公式在历史上是怎么诞生的</title>
-      <link>http://localhost:1313/SphereMirror/essays/planck/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/planck/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/planck/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/planck/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;Wein：热力学结合实验定律猜测 
     &lt;div id=&#34;wein热力学结合实验定律猜测&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -50,15 +50,15 @@ $$&lt;/p&gt;
     
 &lt;/h3&gt;
 &lt;p&gt;1900，Rayleigh 不满 Wein 的结果没有电磁相关基础，考虑一个电磁方腔，内部所有允许的电磁驻波构成了一系列振子，某个频率附近的振子数 \(\frac{8\pi}{c^3} V \nu^{2} d \nu\)。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/planck/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/planck/featured.png" />
     </item>
     
     <item>
       <title>十字路口的选择</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/rglights/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/rglights/</link>
       <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/rglights/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/rglights/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;最简单的模型 
     &lt;div id=&#34;最简单的模型&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -77,15 +77,15 @@ x + y + z = n
 \end{array}
 $$&lt;/p&gt;
 &lt;p&gt;是一组不定方程。C(1， -2， 1)&lt;!-- raw HTML omitted --&gt;T&lt;!-- raw HTML omitted --&gt; 是齐次方程的通解。我们希望总共的等待时间 \(T = x + y\) 最小，就是希望 z 最大，x 最大，y 最小，得到一个显然但不是那么有用的结论：我们应该优先选择左转或右转，尽量减少直行。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/rglights/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/rglights/featured.png" />
     </item>
     
     <item>
       <title>Stokes 公式</title>
-      <link>http://localhost:1313/SphereMirror/notes/stokes/</link>
+      <link>https://laplx.github.io/SphereMirror/notes/stokes/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/notes/stokes/</guid>
+      <guid>https://laplx.github.io/SphereMirror/notes/stokes/</guid>
       <description>&lt;p&gt;
 
 假设某界面上下有四束平面电磁波，介质 1 中入射与出射电磁波为 \(\vec{E}_{1}, \vec{E}_{1}^{\prime}\)，介质 2 中入射与出射电磁波为 \(\vec{E}_{2}, \vec{E}_{2}^{\prime}\)。&lt;/p&gt;
@@ -110,15 +110,15 @@ $$&lt;/p&gt;
 \vec{E}_{2}^{\prime} = \mathrm{Re}{( \vec{E}_{2}^{\prime} e^{ i \vec{k}_{2}^{\prime} \cdot \vec{r} - i \omega t } )}
 \end{array}
 $$&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/stokes/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/notes/stokes/featured.png" />
     </item>
     
     <item>
       <title>量子力学的形式理论</title>
-      <link>http://localhost:1313/SphereMirror/notes/quantum_form/</link>
+      <link>https://laplx.github.io/SphereMirror/notes/quantum_form/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/notes/quantum_form/</guid>
+      <guid>https://laplx.github.io/SphereMirror/notes/quantum_form/</guid>
       <description>&lt;p&gt;
 
 系统的运动状态&lt;strong&gt;由 Hilbert 空间（所有平方可积函数构成的线性空间）中的一个矢量 \(\ket{ \mathfrak{I} }\) 描述&lt;/strong&gt;。&lt;/p&gt;
@@ -131,7 +131,7 @@ $$&lt;/p&gt;</description>
 &lt;p&gt;$$
 \ket{ \mathfrak{I} } = \sum_{a} \ket{a} \braket{ a | \mathfrak{I} }
 $$&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/quantum_form/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/notes/quantum_form/featured.png" />
     </item>
     
   </channel>

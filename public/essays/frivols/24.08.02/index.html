@@ -4,7 +4,7 @@
   dir="ltr"
   class="scroll-smooth"
   data-default-appearance="light"
-  data-auto-appearance="true"><head><script src="/SphereMirror/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=SphereMirror/livereload" data-no-instant defer></script>
+  data-auto-appearance="true"><head>
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="zh-cn" />
@@ -19,7 +19,7 @@
   <meta name="keywords" content="Game, Math, Galois, " />
   
   
-  <link rel="canonical" href="http://localhost:1313/SphereMirror/essays/frivols/24.08.02/" />
+  <link rel="canonical" href="https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/" />
   
   
   
@@ -73,7 +73,7 @@
   
   
   
-  <meta property="og:url" content="http://localhost:1313/SphereMirror/essays/frivols/24.08.02/">
+  <meta property="og:url" content="https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/">
   <meta property="og:site_name" content="球面镜">
   <meta property="og:title" content="Attempts at Symmetry in Game">
   <meta property="og:description" content="关于对称性的类比尝试 #讨论的对象仍然是博弈。起因是我看到国自然基金的 Fundamental Research 发了一篇用群论研究博弈论当中对称性的文章1，小吃一惊，原来已经有一少部分人关注这个想法了，于是连忙把自己许久以前想过的冷饭翻出来硬炒。
@@ -86,11 +86,11 @@
     <meta property="article:tag" content="Game">
     <meta property="article:tag" content="Math">
     <meta property="article:tag" content="Galois">
-    <meta property="og:image" content="http://localhost:1313/SphereMirror/essays/frivols/24.08.02/featured.png">
+    <meta property="og:image" content="https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/featured.png">
 
   
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="http://localhost:1313/SphereMirror/essays/frivols/24.08.02/featured.png">
+  <meta name="twitter:image" content="https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/featured.png">
   <meta name="twitter:title" content="Attempts at Symmetry in Game">
   <meta name="twitter:description" content="关于对称性的类比尝试 #讨论的对象仍然是博弈。起因是我看到国自然基金的 Fundamental Research 发了一篇用群论研究博弈论当中对称性的文章1，小吃一惊，原来已经有一少部分人关注这个想法了，于是连忙把自己许久以前想过的冷饭翻出来硬炒。
 我将引入准则 \(C(G,\tau): \mathbb{S} \rightarrow 2^{\mathbb{S}}\)，为一集值函数，以表示在给定某一策略下在某节点该参与者认可的最优策略集合（常见有 \((r)\)、\((rB)\) 等，具体前摇可参考我的 Game Theory 笔记）。其在策略空间 \(\mathbb{S}\) 上作用的稳定集 equilirium 即 \(\Pi_C={S\in \mathbb{S}|S\in C(G,\tau;S),\forall \tau \in \mathscr{T}}\)。我们还可以对准则函数进行一系列变换，以方便各方面如对动态博弈的研究；常用的算子包括均衡算子 \(\Pi/\text{Eq}\)、上/下序贯算子（分别向下/上节点至支付/根节点取交集）\(\text{S}^\text{q}iC(G,\tau)=\bigcup\limits{\tau’\in\tilde{\tau},\rho(\tau’)=i}C(G,\tau’),\text{S}{\text{q}i}C(G,\tau)=\bigcup\limits{\tau\in\tilde{\tau’},\rho(\tau’)=i}C(G,\tau’)\)、一致算子（严格序贯）\(\zeta_i=\text{S}^\text{q}i \text{S}{\text{q}i}, \zeta=\zeta_1\cdots\zeta_m\)、排除算子 \(\delta\)（剔去某些选择最优的可能性）、边缘算子 \(\partial\)（取像单纯复形的边界）。\(\zeta C\) 一定是序贯/一致准则。特别提及一致反应准则（总准则） \(\mathscr{R}C=\bigoplus\limits_{i\in{1,\cdots,m}}p_i\cdot\zeta C\)（\(p_i\) 为对参与者 \(i\) 策略子空间的投影），接下来的 \(C\) 均指总准则。依照其像的关系和操作我们还可称 \(C_1\subset C_2\) 若 \(\forall S, C_1(G,S)\subset C_2(G,S)\)，即 \(C_1\) 是 \(C_2\) 的精炼；合并（且/或）准则 \(C_1\cup C_2\)、\(C_1\cap C_2\)（或写 \(C_1C_2\)），且有 \(\Pi_{C_1\cap C_2}=\Pi_{C_1}\cap \Pi_{C_2}\) 等；同胚准则 \(C_1(G_1)\cong C_2(G_2)\) 若 \(\exists \text{ homeo. }\phi :\mathbb{S}_1\rightarrow \mathbb{S}2\)\(\text{ s.t. }\forall S_1,\phi|{C_1(G_1,S_1)}\text{ is a homeo. onto }C_2(G_2,\phi(S_1))\)。注意准则同样可被视为算子，作用于平凡算子 \((1)\) 上（\(\Pi_1=\mathbb{S}\)），再如 \(rC\) 即表示对原本的 \(C\) 取符合纳什理性选择的交集。">
@@ -106,7 +106,7 @@
     
     "abstract": "\u003ch3 class=\u0022relative group\u0022\u003e关于对称性的类比尝试 \r\n    \u003cdiv id=\u0022关于对称性的类比尝试\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\r\n    \r\n    \u003cspan\r\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100\u0022\u003e\r\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#%e5%85%b3%e4%ba%8e%e5%af%b9%e7%a7%b0%e6%80%a7%e7%9a%84%e7%b1%bb%e6%af%94%e5%b0%9d%e8%af%95\u0022 aria-label=\u0022锚点\u0022\u003e#\u003c\/a\u003e\r\n    \u003c\/span\u003e        \r\n    \r\n\u003c\/h3\u003e\r\n\u003cp\u003e讨论的对象仍然是博弈。起因是我看到国自然基金的 Fundamental Research 发了一篇用群论研究博弈论当中对称性的文章\u003csup id=\u0022fnref:1\u0022\u003e\u003ca href=\u0022#fn:1\u0022 class=\u0022footnote-ref\u0022 role=\u0022doc-noteref\u0022\u003e1\u003c\/a\u003e\u003c\/sup\u003e，小吃一惊，原来已经有一少部分人关注这个想法了，于是连忙把自己许久以前想过的冷饭翻出来硬炒。\u003c\/p\u003e\n\u003cp\u003e我将引入准则 \\(C(G,\\tau): \\mathbb{S} \\rightarrow 2^{\\mathbb{S}}\\)，为一集值函数，以表示在给定某一策略下在某节点该参与者认可的最优策略集合（常见有 \\((r)\\)、\\((rB)\\) 等，具体前摇可参考我的 Game Theory 笔记）。其在策略空间 \\(\\mathbb{S}\\) 上作用的稳定集 equilirium 即 \\(\\Pi_C={S\\in \\mathbb{S}|S\\in C(G,\\tau;S),\\forall \\tau \\in \\mathscr{T}}\\)。我们还可以对准则函数进行一系列变换，以方便各方面如对动态博弈的研究；常用的算子包括均衡算子 \\(\\Pi\/\\text{Eq}\\)、上\/下序贯算子（分别向下\/上节点至支付\/根节点取交集）\\(\\text{S}^\\text{q}\u003cem\u003eiC(G,\\tau)=\\bigcup\\limits\u003c\/em\u003e{\\tau\u0026rsquo;\\in\\tilde{\\tau},\\rho(\\tau\u0026rsquo;)=i}C(G,\\tau\u0026rsquo;),\\text{S}\u003cem\u003e{\\text{q}i}C(G,\\tau)=\\bigcup\\limits\u003c\/em\u003e{\\tau\\in\\tilde{\\tau\u0026rsquo;},\\rho(\\tau\u0026rsquo;)=i}C(G,\\tau\u0026rsquo;)\\)、一致算子（严格序贯）\\(\\zeta_i=\\text{S}^\\text{q}\u003cem\u003ei \\text{S}\u003c\/em\u003e{\\text{q}i}, \\zeta=\\zeta_1\\cdots\\zeta_m\\)、排除算子 \\(\\delta\\)（剔去某些选择最优的可能性）、边缘算子 \\(\\partial\\)（取像单纯复形的边界）。\\(\\zeta C\\) 一定是序贯\/一致准则。特别提及一致反应准则（总准则） \\(\\mathscr{R}C=\\bigoplus\\limits_{i\\in{1,\\cdots,m}}p_i\\cdot\\zeta C\\)（\\(p_i\\) 为对参与者 \\(i\\) 策略子空间的投影），接下来的 \\(C\\) 均指总准则。依照其像的关系和操作我们还可称 \\(C_1\\subset C_2\\) 若 \\(\\forall S, C_1(G,S)\\subset C_2(G,S)\\)，即 \\(C_1\\) 是 \\(C_2\\) 的精炼；合并（且\/或）准则 \\(C_1\\cup C_2\\)、\\(C_1\\cap C_2\\)（或写 \\(C_1C_2\\)），且有 \\(\\Pi_{C_1\\cap C_2}=\\Pi_{C_1}\\cap \\Pi_{C_2}\\) 等；同胚准则 \\(C_1(G_1)\\cong C_2(G_2)\\) 若 \\(\\exists \\text{ homeo. }\\phi :\\mathbb{S}_1\\rightarrow \\mathbb{S}\u003cem\u003e2\\)\\(\\text{ s.t. }\\forall S_1,\\phi|\u003c\/em\u003e{C_1(G_1,S_1)}\\text{ is a homeo. onto }C_2(G_2,\\phi(S_1))\\)。注意准则同样可被视为算子，作用于平凡算子 \\((1)\\) 上（\\(\\Pi_1=\\mathbb{S}\\)），再如 \\(rC\\) 即表示对原本的 \\(C\\) 取符合纳什理性选择的交集。\u003c\/p\u003e",
     "inLanguage": "zh-cn",
-    "url" : "http:\/\/localhost:1313\/SphereMirror\/essays\/frivols\/24.08.02\/",
+    "url" : "https:\/\/laplx.github.io\/SphereMirror\/essays\/frivols\/24.08.02\/",
     "author" : {
       "@type": "Person",
       "name": "SphereMirror"
@@ -1251,7 +1251,7 @@ $$</p>
       <a
         
         class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
-        H. Chen
+        Laplx
       </a>
     
     
@@ -1263,7 +1263,7 @@ $$</p>
           
             <a
               class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
-              href="laplx@foxmail.com"
+              href="mailto:laplx@foxmail.com"
               target="_blank"
               aria-label="Email"
               rel="me noopener noreferrer"
@@ -1426,13 +1426,18 @@ $$</p>
 
         
   
-  <section class="flex flex-row flex-wrap justify-center pt-4 text-xl">
+  <section class="flex flex-row flex-wrap justify-center items-center pt-4 text-xl">
+    
+    <span class="mr-2 text-sm text-neutral-500 dark:text-neutral-400">
+      📤 Share
+    </span>
+
     
       
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="mailto:?body=http://localhost:1313/SphereMirror/essays/frivols/24.08.02/&amp;subject=Attempts%20at%20Symmetry%20in%20Game"
+          href="mailto:?body=https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/&amp;subject=Attempts%20at%20Symmetry%20in%20Game"
           title="通过电子邮件发送"
           aria-label="通过电子邮件发送">
           
@@ -1450,7 +1455,7 @@ $$</p>
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://twitter.com/intent/tweet/?url=http://localhost:1313/SphereMirror/essays/frivols/24.08.02/&amp;text=Attempts%20at%20Symmetry%20in%20Game"
+          href="https://twitter.com/intent/tweet/?url=https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/&amp;text=Attempts%20at%20Symmetry%20in%20Game"
           title="分享到 Twitter"
           aria-label="分享到 Twitter">
           
@@ -1467,7 +1472,7 @@ $$</p>
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/SphereMirror/essays/frivols/24.08.02/&amp;quote=Attempts%20at%20Symmetry%20in%20Game"
+          href="https://www.facebook.com/sharer/sharer.php?u=https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/&amp;quote=Attempts%20at%20Symmetry%20in%20Game"
           title="分享到 Facebook"
           aria-label="分享到 Facebook">
           
@@ -1485,7 +1490,7 @@ $$</p>
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://t.me/share/url?url=http://localhost:1313/SphereMirror/essays/frivols/24.08.02/&amp;resubmit=true&amp;title=Attempts%20at%20Symmetry%20in%20Game"
+          href="https://t.me/share/url?url=https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/&amp;resubmit=true&amp;title=Attempts%20at%20Symmetry%20in%20Game"
           title=""
           aria-label="">
           
@@ -1503,7 +1508,7 @@ $$</p>
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://reddit.com/submit/?url=http://localhost:1313/SphereMirror/essays/frivols/24.08.02/&amp;resubmit=true&amp;title=Attempts%20at%20Symmetry%20in%20Game"
+          href="https://reddit.com/submit/?url=https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/&amp;resubmit=true&amp;title=Attempts%20at%20Symmetry%20in%20Game"
           title="提交到 Reddit"
           aria-label="提交到 Reddit">
           
@@ -1521,7 +1526,7 @@ $$</p>
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://api.whatsapp.com/send?text=http://localhost:1313/SphereMirror/essays/frivols/24.08.02/&amp;resubmit=true&amp;title=Attempts%20at%20Symmetry%20in%20Game"
+          href="https://api.whatsapp.com/send?text=https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/&amp;resubmit=true&amp;title=Attempts%20at%20Symmetry%20in%20Game"
           title=""
           aria-label="">
           
@@ -1539,7 +1544,7 @@ $$</p>
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/SphereMirror/essays/frivols/24.08.02/&amp;title=Attempts%20at%20Symmetry%20in%20Game"
+          href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/&amp;title=Attempts%20at%20Symmetry%20in%20Game"
           title="分享到 LinkedIn"
           aria-label="分享到 LinkedIn">
           
@@ -1557,7 +1562,7 @@ $$</p>
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://bsky.app/intent/compose?text=Attempts%20at%20Symmetry%20in%20Game&#43;http://localhost:1313/SphereMirror/essays/frivols/24.08.02/"
+          href="https://bsky.app/intent/compose?text=Attempts%20at%20Symmetry%20in%20Game&#43;https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/"
           title=""
           aria-label="">
           
@@ -1574,7 +1579,7 @@ $$</p>
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://pinterest.com/pin/create/bookmarklet/?url=http://localhost:1313/SphereMirror/essays/frivols/24.08.02/&amp;description=Attempts%20at%20Symmetry%20in%20Game"
+          href="https://pinterest.com/pin/create/bookmarklet/?url=https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/&amp;description=Attempts%20at%20Symmetry%20in%20Game"
           title="钉到 Pinterest"
           aria-label="钉到 Pinterest">
           
@@ -1592,7 +1597,7 @@ $$</p>
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://line.me/R/share?text=http://localhost:1313/SphereMirror/essays/frivols/24.08.02/%20Attempts%20at%20Symmetry%20in%20Game"
+          href="https://line.me/R/share?text=https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/%20Attempts%20at%20Symmetry%20in%20Game"
           title="分享到 LINE"
           aria-label="分享到 LINE">
           
@@ -2265,7 +2270,7 @@ gitalk.render('gitalk-container')
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-index-500"
-  data-url="http://localhost:1313/SphereMirror/">
+  data-url="https://laplx.github.io/SphereMirror/">
   <div
     id="search-modal"
     class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800">

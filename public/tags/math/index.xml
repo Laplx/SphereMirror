@@ -2,91 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math on 球面镜</title>
-    <link>http://localhost:1313/SphereMirror/tags/math/</link>
+    <link>https://laplx.github.io/SphereMirror/tags/math/</link>
     <description>Recent content in Math on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/math/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Planck 公式在历史上是怎么诞生的</title>
-      <link>http://localhost:1313/SphereMirror/essays/planck/</link>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/planck/</guid>
-      <description>&lt;h3 class=&#34;relative group&#34;&gt;Wein：热力学结合实验定律猜测 
-    &lt;div id=&#34;wein热力学结合实验定律猜测&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#wein%e7%83%ad%e5%8a%9b%e5%ad%a6%e7%bb%93%e5%90%88%e5%ae%9e%e9%aa%8c%e5%ae%9a%e5%be%8b%e7%8c%9c%e6%b5%8b&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h3&gt;
-&lt;p&gt;1896，Wien 考虑缓慢膨胀的球体中的单频平衡辐射场，由多普勒效应&lt;/p&gt;
-&lt;p&gt;$$
-\nu / T = Const
-$$&lt;/p&gt;
-&lt;p&gt;结合 Stefan-Boltzmann 的结果，平衡辐射场的能谱应为&lt;/p&gt;
-&lt;p&gt;$$
-u d\nu = \nu^{3} f(\nu/T)
-$$&lt;/p&gt;
-&lt;p&gt;结合实验规律，猜测未知函数为指数形式&lt;/p&gt;
-&lt;p&gt;$$
-u d\nu = c_{1} \nu^{3} e^{ - c_{2} \nu / T }
-$$&lt;/p&gt;
-&lt;p&gt;这个公式对实验的符合结果不错，替代了之前一系列猜的公式。&lt;/p&gt;
-
-&lt;h3 class=&#34;relative group&#34;&gt;Rayleigh：从电磁和统计的理论出发 
-    &lt;div id=&#34;rayleigh从电磁和统计的理论出发&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#rayleigh%e4%bb%8e%e7%94%b5%e7%a3%81%e5%92%8c%e7%bb%9f%e8%ae%a1%e7%9a%84%e7%90%86%e8%ae%ba%e5%87%ba%e5%8f%91&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h3&gt;
-&lt;p&gt;1900，Rayleigh 不满 Wein 的结果没有电磁相关基础，考虑一个电磁方腔，内部所有允许的电磁驻波构成了一系列振子，某个频率附近的振子数 \(\frac{8\pi}{c^3} V \nu^{2} d \nu\)。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/planck/featured.png" />
-    </item>
+    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/math/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>实分析（上）</title>
-      <link>http://localhost:1313/SphereMirror/notes/real-analysis/part1/</link>
+      <link>https://laplx.github.io/SphereMirror/notes/real-analysis/part1/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/notes/real-analysis/part1/</guid>
+      <guid>https://laplx.github.io/SphereMirror/notes/real-analysis/part1/</guid>
       <description>&lt;p&gt;
 
 $$
 \int f d\mu
 $$&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/real-analysis/part1/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/notes/real-analysis/part1/featured.png" />
     </item>
     
     <item>
       <title>随机分析（上）</title>
-      <link>http://localhost:1313/SphereMirror/notes/stochastic-analysis/part1/</link>
+      <link>https://laplx.github.io/SphereMirror/notes/stochastic-analysis/part1/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/notes/stochastic-analysis/part1/</guid>
+      <guid>https://laplx.github.io/SphereMirror/notes/stochastic-analysis/part1/</guid>
       <description>&lt;p&gt;
 
 $$
 F. \langle M\rangle
 $$&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/stochastic-analysis/part1/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/notes/stochastic-analysis/part1/featured.png" />
     </item>
     
     <item>
       <title>色彩科学</title>
-      <link>http://localhost:1313/SphereMirror/notes/color-science/</link>
+      <link>https://laplx.github.io/SphereMirror/notes/color-science/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/notes/color-science/</guid>
+      <guid>https://laplx.github.io/SphereMirror/notes/color-science/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;Luminance 
     &lt;div id=&#34;luminance&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -140,15 +98,15 @@ $$&lt;/p&gt;</description>
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;对于光亮度感知，显然看起来不可能（同功率下）各个波长都一样。因此我们实验测定了明视觉亮度函数（视效函数）\(V(\lambda)\)，在 \(2\degree\)视角、明视觉条件下平均人眼匹配不同波长光的明暗感觉得到。这个函数在约 555nm 处取到最大视效 \(V_m = V(555\text{ nm}) = 683 \text{ lm/W}\)（故人眼对绿光最敏感）；如果我们除以 \(V_m\)，将该点置一就得到我们常用的视见函数，仍记作 \(V(\lambda)\)（自然可见是否带这个常数因子不重要，后面自行知道即可）。（暗视觉 \(V&amp;rsquo;_m = V&amp;rsquo;(507\text{ nm}) = 1700 \text{ lm/W}\)）&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/color-science/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/notes/color-science/featured.png" />
     </item>
     
     <item>
       <title>共轭梯度法（CG Method）</title>
-      <link>http://localhost:1313/SphereMirror/notes/numerical/cg/</link>
+      <link>https://laplx.github.io/SphereMirror/notes/numerical/cg/</link>
       <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/notes/numerical/cg/</guid>
+      <guid>https://laplx.github.io/SphereMirror/notes/numerical/cg/</guid>
       <description>&lt;p&gt;
 
 如果初始点的选择不好或者函数行为不好时，最速下降法可能并不理想。我们先从几何和直觉上展示共轭梯度法，同时可以在后文理清数学逻辑后再来看看这两张图。&lt;/p&gt;
@@ -174,15 +132,15 @@ $$&lt;/p&gt;</description>
 $$&lt;/p&gt;
 &lt;p&gt;假装我们能获取每一步的搜索方向 \(p_i\)，那么由精确线搜索知 \(p_i \perp -\nabla f_{i+1}\)，其中 \(\nabla f_{i+1} := \nabla f(x_{i+1})\)，且 \(x_i = x_0 + \sum_{j=0}^{i-1}\alpha_j p_j\)，\(\alpha_i\) 记步长。&lt;/p&gt;
 &lt;p&gt;同时我们可以直接得到一个关于搜索步长的表达式，对 \(f(x_i + \alpha_i p_i) = g(\alpha_i),\ g^\prime (\alpha_i) = 0\) 得到&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/numerical/cg/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/notes/numerical/cg/featured.png" />
     </item>
     
     <item>
       <title>Attempts at Symmetry in Game</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/24.08.02/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.08.02/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;关于对称性的类比尝试 
     &lt;div id=&#34;关于对称性的类比尝试&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -194,15 +152,15 @@ $$&lt;/p&gt;
 &lt;/h3&gt;
 &lt;p&gt;讨论的对象仍然是博弈。起因是我看到国自然基金的 Fundamental Research 发了一篇用群论研究博弈论当中对称性的文章&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;，小吃一惊，原来已经有一少部分人关注这个想法了，于是连忙把自己许久以前想过的冷饭翻出来硬炒。&lt;/p&gt;
 &lt;p&gt;我将引入准则 \(C(G,\tau): \mathbb{S} \rightarrow 2^{\mathbb{S}}\)，为一集值函数，以表示在给定某一策略下在某节点该参与者认可的最优策略集合（常见有 \((r)\)、\((rB)\) 等，具体前摇可参考我的 Game Theory 笔记）。其在策略空间 \(\mathbb{S}\) 上作用的稳定集 equilirium 即 \(\Pi_C={S\in \mathbb{S}|S\in C(G,\tau;S),\forall \tau \in \mathscr{T}}\)。我们还可以对准则函数进行一系列变换，以方便各方面如对动态博弈的研究；常用的算子包括均衡算子 \(\Pi/\text{Eq}\)、上/下序贯算子（分别向下/上节点至支付/根节点取交集）\(\text{S}^\text{q}&lt;em&gt;iC(G,\tau)=\bigcup\limits&lt;/em&gt;{\tau&amp;rsquo;\in\tilde{\tau},\rho(\tau&amp;rsquo;)=i}C(G,\tau&amp;rsquo;),\text{S}&lt;em&gt;{\text{q}i}C(G,\tau)=\bigcup\limits&lt;/em&gt;{\tau\in\tilde{\tau&amp;rsquo;},\rho(\tau&amp;rsquo;)=i}C(G,\tau&amp;rsquo;)\)、一致算子（严格序贯）\(\zeta_i=\text{S}^\text{q}&lt;em&gt;i \text{S}&lt;/em&gt;{\text{q}i}, \zeta=\zeta_1\cdots\zeta_m\)、排除算子 \(\delta\)（剔去某些选择最优的可能性）、边缘算子 \(\partial\)（取像单纯复形的边界）。\(\zeta C\) 一定是序贯/一致准则。特别提及一致反应准则（总准则） \(\mathscr{R}C=\bigoplus\limits_{i\in{1,\cdots,m}}p_i\cdot\zeta C\)（\(p_i\) 为对参与者 \(i\) 策略子空间的投影），接下来的 \(C\) 均指总准则。依照其像的关系和操作我们还可称 \(C_1\subset C_2\) 若 \(\forall S, C_1(G,S)\subset C_2(G,S)\)，即 \(C_1\) 是 \(C_2\) 的精炼；合并（且/或）准则 \(C_1\cup C_2\)、\(C_1\cap C_2\)（或写 \(C_1C_2\)），且有 \(\Pi_{C_1\cap C_2}=\Pi_{C_1}\cap \Pi_{C_2}\) 等；同胚准则 \(C_1(G_1)\cong C_2(G_2)\) 若 \(\exists \text{ homeo. }\phi :\mathbb{S}_1\rightarrow \mathbb{S}&lt;em&gt;2\)\(\text{ s.t. }\forall S_1,\phi|&lt;/em&gt;{C_1(G_1,S_1)}\text{ is a homeo. onto }C_2(G_2,\phi(S_1))\)。注意准则同样可被视为算子，作用于平凡算子 \((1)\) 上（\(\Pi_1=\mathbb{S}\)），再如 \(rC\) 即表示对原本的 \(C\) 取符合纳什理性选择的交集。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.08.02/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/featured.png" />
     </item>
     
     <item>
       <title>Astrofinance</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/24.01.19/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/24.01.19/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.01.19/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/24.01.19/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;天体金融学 
     &lt;div id=&#34;天体金融学&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -233,15 +191,15 @@ $$&lt;/p&gt;
 &lt;p&gt;既然物理定律在所有参考系皆等价成立，不妨猜想所有星球都有相近的生产能力和无风险利率 \(r\) 。即使我们的证券等金融手段为本星结算，套利也会出现：（\(T = 2*8.6/0.6 = 28.67\)）&lt;/p&gt;
 &lt;p&gt;我们在 Rover 出发时在 Earth 买入并在 Rover 卖出等额的零息债，无论我本人跟随 Rover 还是留在 Earth，在其回来的时候必然存在 \(e^{rT}\) 和 \(e^{r\frac{T}{\gamma}}\) 的差别。&lt;/p&gt;
 &lt;p&gt;解决方法可以是考虑货币的作用。我们假设存在美元 USD 和琉球美元 RVD。其汇率 \(e\) 在不同时刻会不同，以使上述利差为 0。具体来说，应有 \(\frac{e_t}{e_0} = e^{-r(1-\frac{1}{\gamma})}\)，\(e_t\) 为 \(t\) 时刻美元的间接汇率。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.01.19/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/24.01.19/featured.png" />
     </item>
     
     <item>
       <title>Theory about Making Friends</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.12.29/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.12.29/</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.12.29/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.12.29/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;交友论 
     &lt;div id=&#34;交友论&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -257,15 +215,15 @@ $$&lt;/p&gt;
 &lt;p&gt;\(\theta_{ji}\) 表示 \(j\) 对 \(i\) 的亲密度。想了想我觉得不应直接假设 \(\theta_{ji} = \theta_{ij}\)，很可能双方对友谊的认知存在偏差。但或许对于情商高的人，他们能够更快的意识到差距并调整 \(\left \vert \theta_{ji} - \theta_{ij} \right \vert\) 趋于 0。\(\theta\) 取决于双方对友谊付出的成本多少，及环境外生的互动系数 \(\mu_{ij} = \mu_{ji}\)（不同来源性质的好友天生会产生亲密度的差别，比如中学里和同班同学的关系自然会高于一般的非同班同学）。而在某些特殊函数形式下可以造成 \(\theta_{ji} = \theta_{ij}\) ——接下来为了简单的解析结果，我们令 \(\theta_{ji}(C_{ji},C_{ij},\mu_{ji}) = \mu_{ji} C_{ji} C_{ij}\)。&lt;/p&gt;
 &lt;p&gt;内在价值可写为 \(D_{ji}(\theta_{ij},d)\)，其中 \(d\) 为情感偏好程度。令 \(D_{ji} = d_i \theta_{ji}\)。现实价值 \(P_{ji}\) 又怎么衡量呢？好友是一个期权。&lt;/p&gt;
 &lt;p&gt;等一下，这并不简单，这个期权不止是美式的，甚至不知道可能有哪些可以行权。再者，我们这里还需要两个假设：不考虑跨人际交往（”我朋友的朋友……“）；不考虑关系网的延伸（\(i,j \in I\) 均为已知的一群人）（理论上还应该考虑新认识陌生人可能的”启动成本“）。但我们这里稍稍不讲道理的简化一点，想象一群欧式期权，它们依 \((S,K,T)\) 联合概率分布，以表征不确定性。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.12.29/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.12.29/featured.png" />
     </item>
     
     <item>
       <title>Love in Evolution and Equilirium</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.11.03/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.11.03/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.11.03/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.11.03/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;暧昧：进化与均衡 
     &lt;div id=&#34;暧昧进化与均衡&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -294,15 +252,15 @@ $$&lt;/p&gt;
 \mathcal{H} = \nabla_x V \cdot \dot{x}(t,x(t),a(t))+u_i(t,x(t),a(t))\\
 = x_1(\frac{a_2}{a_1}-\delta) \frac{\partial V}{\partial x_1}+x_2(\frac{a_1}{a_2}-\delta) \frac{\partial V}{\partial x_2}+x_i(t)e^{-rt}
 $$&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.11.03/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.11.03/featured.png" />
     </item>
     
     <item>
       <title>Can I Update in Time</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.09.15/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.09.15/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.09.15/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.09.15/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;更新之谜 
     &lt;div id=&#34;更新之谜&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -314,15 +272,15 @@ $$&lt;/p&gt;</description>
 &lt;/h3&gt;
 &lt;p&gt;（发现真是很久没有更新这么困难了！很难说是自己不去动脑思考了还是对内容的要求变高了……于是这周来试着模型化一下这件事，但我并未给出解答）&lt;/p&gt;
 &lt;p&gt;我们把 \(T\) 记两个星期五之间的一个更新区间。idea 的到来视作 Poisson 过程，其参数为 \(\lambda\) 。在产生一个 idea 之后，我会花费一定的时间思考以判断和调整其价值。我们假设 idea 们都具有一个 unknown 的 actual quality \(g\) ，服从指数分布 \( f(g) = \frac{1}{g_e} e^{-\frac{g}{g_e}}， where\ g_e = E(g)\) 。（准确来说应该是两者独立，\(dt\) 时间段内产生质量 \(g\) 附近 \(dg\) 元段的 idea 的概率是 \(\lambda f(g)dtdg\) ）刚产生时我对它的认知为 \(g(0)\)，其后如果花的思考时间 \(t_k\) 越多，对其的估计也能越准，即 \(g(t) \sim \mathcal N(g, \sigma^2(t)),\ where\ \sigma^2(t)=\sigma_0^2e^{-\alpha t}\) （有待商榷，因为我的认知大概是连续光滑变动的，但或许我可以设计一个合适的随机过程使得累积量满足这样的正态分布）。我可以根据自己的 strategy 随时终止对此 idea 的思考和研究（要么感觉不错很有价值就写这个了，要么感觉价值很低算了算了）。如果没有达到标准，在 \(t_1 + t_{k1}\)（\(t_1\) 为产生用时，满足指数衰减）之后我可以继续等待 \(t_2\) ，并对其进行思考。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.09.15/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.09.15/featured.png" />
     </item>
     
     <item>
       <title>Theory of lazing in military training</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.09.01/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.09.01/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.09.01/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.09.01/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;军训偷懒学 
     &lt;div id=&#34;军训偷懒学&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -383,15 +341,15 @@ sort the theta intervals by the left side and then exam if there is overlapping 
 func countangle(): # 计算在指定范围内的区间们的总长
 calculate the length of each interval and add then together.
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;（可以预见，在具有一定人数且人靠内部的情况下，偷偷动动手是大概率不会发现的。一般教官要求的参数：\(h=l=75cm\)（左右转后一致），\(l-d = 10cm\ 即\ d=65cm\)。为了方便继续研究，\((x,y)\) 用以表示相对人中心一定偏移处的动作影响，如左手在腿边拨动手指应取 \((-32.5,0)\)）&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.09.01/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.09.01/featured.png" />
     </item>
     
     <item>
       <title>Semantic Information</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.07.14/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.07.14/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.07.14/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.07.14/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;语义信息量 
     &lt;div id=&#34;语义信息量&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -418,15 +376,15 @@ I(而它不是红色) &amp;gt; 0
 \end{aligned}
 \right.
 $$&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.07.14/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.07.14/featured.png" />
     </item>
     
     <item>
       <title>Hype Significance</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.06.23/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.06.23/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.06.23/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.06.23/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;显著你的显著 
     &lt;div id=&#34;显著你的显著&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -483,15 +441,15 @@ $$&lt;/p&gt;</description>
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.06.23/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.06.23/featured.png" />
     </item>
     
     <item>
       <title>Dots and Boxes</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.06.09/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.06.09/</link>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.06.09/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.06.09/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;划线围格 
     &lt;div id=&#34;划线围格&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -524,15 +482,15 @@ $$&lt;/p&gt;</description>
 &lt;p&gt;&lt;strong&gt;reference&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;[1] Berlekamp, Elwyn R. &lt;em&gt;The dots and boxes game: sophisticated child&amp;rsquo;s play&lt;/em&gt;. CRC Press, 2000.&lt;/p&gt;
 &lt;p&gt;[2] Berlekamp, Elwyn R., John H. Conway, and Richard K. Guy. &lt;em&gt;Winning Ways for Your Mathematical Plays, Volume 3&lt;/em&gt;. CRC Press, 2018.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.06.09/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.06.09/featured.png" />
     </item>
     
     <item>
       <title>Introduction to Roll Theory</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.05.26/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.05.26/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.05.26/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.05.26/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;选课学导论 
     &lt;div id=&#34;选课学导论&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -546,15 +504,15 @@ $$&lt;/p&gt;</description>
 &lt;p&gt;鉴于🥚的绩点制度（省略一万字），如何选好课对于🥚的学生来说显得尤为重要。按照我目前（完全不成熟）的理论，分为三轮的选课只讨论第一轮。第二轮主要是开始那一刻一哄而上（可以视为是一种无 opening 的 roll，roll 的是网速），跟第三轮一样都有容量人数限制，不存在 roll 的过程。&lt;/p&gt;
 &lt;p&gt;这里空间太小，我只分享一些最初的想法。我们把一轮选课的 roll 机制视作单次的等注的完全的可以无限更改的 roll（必修课的模型符合程度会更高，毕竟有些选修课可能最后直接就不上了），每个人有一个预先的知识/信息（这个老师怎么样？）\(u_{0i}\) 表示\(i\)从1到n的所有 choices 的 priori scores，在 opening 即信息公开、众人博弈阶段的人数和课程容量分别为 \(x_i\) 和 \(c_i\)，这个预选概率为 \(p_i = c_i / x_i\)（可以大于1），它同样对决策起到影响——信息既有自己找的，也有通过人数反映的（从众？）——很明显不同人对二者偏倚程度不同，给出一个 \(s\) 以描述偏向 \(p_i\) 的程度。那么 posteriori scores 可以是一个函数 \(f(u_{0i},p_i,s)\) ，它带来的预期收益还要乘以roll上概率的作用——按照行为心理学（行为经济学），来一个概率加权函数 \(P(p_i)\) 是比较合适的（具体形式自行参考），如果简便起见直接理性人假设（大学选课还算接近？）那么就等于 \(p_i\)。\(f(u_{0i},p_i,s)\) 我暂时未经考证的猜测作 \(f = u_{0i}^{1-s} p_i^s\)。&lt;/p&gt;
 &lt;p&gt;那么每个人可以近似的认为追求效用最大化 \( u_i = f(u_{0i},p_i,s) P(p_i)\)（注意乘法是未经考虑的），\(\mathop{max}\limits_i \ u_i\) 的 choice \(i = i^*\)。进一步如果时间足够，可以解出群体的稳态解（或许不止一个）并视为达到稳态。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.05.26/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.05.26/featured.png" />
     </item>
     
     <item>
       <title>Moments Entropy</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.05.19/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.05.19/</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.05.19/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.05.19/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;朋友圈熵 
     &lt;div id=&#34;朋友圈熵&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -567,7 +525,7 @@ $$&lt;/p&gt;</description>
 &lt;p&gt;身边似乎有无数持续的或快或慢的 random number generator，朋友圈只是其中之一。它能够在 0-24h 内的时间中随机性的产生新的朋友圈——当然，这取决于不同人的偏好和他的好友的偏好（以及屏蔽某些好友朋友圈的偏好）。或许傍晚时分和饭点的朋友圈数量比较密集。于是乎每个人都可以给出自己的朋友圈（微分）熵 \(H = \int p(t) \log p(t) dt\) 那么互信息 \(I(x;y)\)，不能说（几乎可以说）是两人共友的程度，也至少是别人朋友圈与你相仿的程度。还可以用相对熵量化各个朋友圈之间的距离，再做聚类，实现朋友圈画像的提取。（不过，以上并未考虑朋友圈的内容，我想可以增加一个维度的变量以表示朋友圈的各个类型，具体操作在此略去。）&lt;/p&gt;
 &lt;p&gt;（好吧，其实我觉得即使泊松过程也比这个好……）&lt;/p&gt;
 &lt;p&gt;还没完！这似乎是一个相当大且复杂的话题——一个邻接矩阵的有向图结构上附加了一定的发朋友圈概率发布和一定的刷朋友圈概率分布和因人而异的一定的点赞概率分布。例如研究点赞时间距朋友圈发出时间的分布（朋友圈点赞熵），别人给别人点赞后给你现在朋友圈点赞的概率分布……&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.05.19/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.05.19/featured.png" />
     </item>
     
   </channel>

@@ -1,6 +1,6 @@
 ---
-title: "H. Chen"
-author: "H. Chen"
+title: "Laplx"
+author: "Laplx"
 ---
 
 {{< badge >}}
