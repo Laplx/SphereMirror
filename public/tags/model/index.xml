@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Model on 球面镜</title>
-    <link>https://laplx.github.io/SphereMirror/tags/model/</link>
+    <link>http://localhost:1313/SphereMirror/tags/model/</link>
     <description>Recent content in Model on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/model/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/model/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Geometric Hermeneutics</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/25.01.10/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/25.01.10/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/25.01.10/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/25.01.10/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;语言的几何学阐释 
     &lt;div id=&#34;语言的几何学阐释&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -51,15 +51,15 @@
 &lt;/h4&gt;
 &lt;p&gt;我们不能理解完全不依靠&lt;strong&gt;现实&lt;/strong&gt;的意义。（现实指的不一定就是真实存在发生的，而是一种类似生活经验的东西）所有的意思（意义，关于另外一种 “意义” 见下一小节）都指代了一系列可能的现实世界过程（称作&lt;strong&gt;宇宙&lt;/strong&gt; \(u\)）。某一时刻的宇宙 \(u(t)\) 称作世界，是一系列状态信息的集合（能想象到的所有信息都可以如此纳入）\({\pi^1,\pi^2,\dots}\)（暂时先把不可数的打包在一起，写成可数的形式；注意我们可以想象虚空中的抽象状态，但它仍然是一个与其他事实状态无二的东西）。一个半宇宙（前向/后向宇宙）指 \({u_t}&lt;em&gt;{t\ge 0}\) 或 \({u_t}&lt;/em&gt;{t\le 0}\)，包含一个给定的始终点 \(u_0\)。注意我们目前没说 \(u(t)\) 随时间的变化满足一定的规律（比如 Newton&amp;rsquo;s Law），它允许了一切天马行空的假设与想象力。所有这些平行宇宙的集合 \(\mathcal{O}\) 称作&lt;strong&gt;客观集&lt;/strong&gt;，鉴于它们都是思考的对象（因此可能可以认为启蒙运动是在扩展客观集）。建模时状态是&lt;strong&gt;外禀&lt;/strong&gt;的；例如总有人知道电场的存在，有人的世界里是不知道的（“因为太愚昧或太聪明而获得自由的幻象” 亨利·詹姆斯《使节》）。对于某个读者来说，他所能理解的一切宇宙集合记作&lt;strong&gt;知识域&lt;/strong&gt; \(\mathcal{K}=\hat{\mathcal{O}}\)。但这里面有一些宇宙大概是符合一些规律的，我们把符合该规律的集合称作&lt;strong&gt;真域&lt;/strong&gt; \(\mathcal{T}\)；同样，比方说或许有人眼里 Newton&amp;rsquo;s Law 和大家的不一样，故每个读者都有自己认为的真域 \(\mathcal{U}=\hat{\mathcal{T}}\)。&lt;strong&gt;意思空间&lt;/strong&gt; \(\mathcal{M}=\mathcal{P}(\mathcal{O})\)，真理空间 \(\mathcal{M}_T=\mathcal{P}(\mathcal{T})\)。意思之间存在包含关系 \(m_1\subset m_2\)；空/&lt;strong&gt;无知&lt;/strong&gt;意思点 \(0\in \mathcal{M}\) 表示全集背景，无穷远/&lt;strong&gt;未知&lt;/strong&gt;意思点 \(\infty\) 代表空集，其没有任何可理解的意义。&lt;/p&gt;
 &lt;p&gt;我们可以对意思之间进行简单的运算，包括&lt;strong&gt;反义&lt;/strong&gt; \(m^c\)、&lt;strong&gt;且（独立）&lt;/strong&gt;\(m_1\cap m_2\)、&lt;strong&gt;或&lt;/strong&gt; \(m_1\cup m_2\)。如果 \(m_1, m_2\) 对应的文本是 \(w_1, w_2\)，总文本 \(w=w_1w_2\) 对应的（作者的）意思是 \(m\)，\(m\) 不一定是 \(m_1\cap m_2\)。&lt;strong&gt;顺序和&lt;/strong&gt; \(m_1+m_2\)，我们需要定义嵌入映射 \(\phi:u \mapsto u^+/u^-\) 将时间压缩进半宇宙内，以实现时间上的先后关系，故 \(m_1+m_2\) \(={u\in m_1\cap m_2: \exists \phi_1,\phi_2,u_1\in m_1,u_2\in m_2 \text{ s.t. }u=\phi_1(u_1)+\phi_2(u_2)}\) 对应于顺叙的文本 \(w\)。（对于始终点的衔接问题，设想一群在 \(T\) 后就暂停演化的宇宙；即使受到真视域的限制，注意到人脑中状态序列的有限性和模糊性，这一点仍然可以成立。）&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/25.01.10/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/25.01.10/featured.png" />
     </item>
     
     <item>
       <title>Ludology</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/24.07.12/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/24.07.12/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/24.07.12/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.07.12/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;游戏论 
     &lt;div id=&#34;游戏论&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -89,15 +89,15 @@
 &lt;li&gt;有目标/内部奖励。It has goals or inner rewards. 否则我们称其为玩具 toys。玩具不会因为你的小球滚到了恰当位置就给你吐出游戏币。这里需要提到一个特殊的游戏分类\(【C】\) creation games，其中一大子类为 Sandbox 沙盒游戏，e.g. Minecraft 我的世界、Simcity 模拟城市；它们本质上应属于玩具，鉴于没有任何内置的奖励和要达成的目标（不考虑任务、成就的话）；但由于习惯原因，大家通常仍称作游戏。除此之外，存在 inner rewards 的，才被称为游戏 games。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;注意道具 props 是游戏进行需要使用的辅助物体存在；从玩家上分，游戏可以分作\(【P】\)player-machine 单人的、\(【MP】\)multi-players 多人的（是否单机还是多机联机并不如参与者数量来的重要）；从形式上分，可以分作\(【E】\)electronic 电子的（包括 video games 电子游戏，还有 handheld、standalone system games，e.g. Slot machine 老虎机）、\(【NE】\)physical 物质的，其中 physical games 可能会使用道具。\(【NE】\)可进一步分为 Tabletop 桌面游戏（e.g. Go 围棋、Tic-tac-toe 井字棋、Avalon 阿瓦隆、Catan 卡坦岛）和 Motion 运动游戏（e.g. Hide-and-seek 捉迷藏），区别在于玩家的物理动作是否对游戏的 rewarding 产生影响。我们会比较关注电子游戏。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/24.07.12/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.07.12/featured.png" />
     </item>
     
     <item>
       <title>Astrofinance</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/24.01.19/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/24.01.19/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/24.01.19/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.01.19/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;天体金融学 
     &lt;div id=&#34;天体金融学&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -128,15 +128,15 @@
 &lt;p&gt;既然物理定律在所有参考系皆等价成立，不妨猜想所有星球都有相近的生产能力和无风险利率 \(r\) 。即使我们的证券等金融手段为本星结算，套利也会出现：（\(T = 2*8.6/0.6 = 28.67\)）&lt;/p&gt;
 &lt;p&gt;我们在 Rover 出发时在 Earth 买入并在 Rover 卖出等额的零息债，无论我本人跟随 Rover 还是留在 Earth，在其回来的时候必然存在 \(e^{rT}\) 和 \(e^{r\frac{T}{\gamma}}\) 的差别。&lt;/p&gt;
 &lt;p&gt;解决方法可以是考虑货币的作用。我们假设存在美元 USD 和琉球美元 RVD。其汇率 \(e\) 在不同时刻会不同，以使上述利差为 0。具体来说，应有 \(\frac{e_t}{e_0} = e^{-r(1-\frac{1}{\gamma})}\)，\(e_t\) 为 \(t\) 时刻美元的间接汇率。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/24.01.19/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.01.19/featured.png" />
     </item>
     
     <item>
       <title>CC Theorem</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/24.01.05/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/24.01.05/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/24.01.05/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.01.05/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;CC 定理 
     &lt;div id=&#34;cc-定理&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -162,15 +162,15 @@ $$&lt;/p&gt;
 &amp;amp;\text{ Proposition: Free Course Market }
 \end{align}
 $$&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/24.01.05/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.01.05/featured.png" />
     </item>
     
     <item>
       <title>Theory about Making Friends</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.12.29/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.12.29/</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.12.29/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.12.29/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;交友论 
     &lt;div id=&#34;交友论&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -186,15 +186,15 @@ $$&lt;/p&gt;</description>
 &lt;p&gt;\(\theta_{ji}\) 表示 \(j\) 对 \(i\) 的亲密度。想了想我觉得不应直接假设 \(\theta_{ji} = \theta_{ij}\)，很可能双方对友谊的认知存在偏差。但或许对于情商高的人，他们能够更快的意识到差距并调整 \(\left \vert \theta_{ji} - \theta_{ij} \right \vert\) 趋于 0。\(\theta\) 取决于双方对友谊付出的成本多少，及环境外生的互动系数 \(\mu_{ij} = \mu_{ji}\)（不同来源性质的好友天生会产生亲密度的差别，比如中学里和同班同学的关系自然会高于一般的非同班同学）。而在某些特殊函数形式下可以造成 \(\theta_{ji} = \theta_{ij}\) ——接下来为了简单的解析结果，我们令 \(\theta_{ji}(C_{ji},C_{ij},\mu_{ji}) = \mu_{ji} C_{ji} C_{ij}\)。&lt;/p&gt;
 &lt;p&gt;内在价值可写为 \(D_{ji}(\theta_{ij},d)\)，其中 \(d\) 为情感偏好程度。令 \(D_{ji} = d_i \theta_{ji}\)。现实价值 \(P_{ji}\) 又怎么衡量呢？好友是一个期权。&lt;/p&gt;
 &lt;p&gt;等一下，这并不简单，这个期权不止是美式的，甚至不知道可能有哪些可以行权。再者，我们这里还需要两个假设：不考虑跨人际交往（”我朋友的朋友……“）；不考虑关系网的延伸（\(i,j \in I\) 均为已知的一群人）（理论上还应该考虑新认识陌生人可能的”启动成本“）。但我们这里稍稍不讲道理的简化一点，想象一群欧式期权，它们依 \((S,K,T)\) 联合概率分布，以表征不确定性。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.12.29/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.12.29/featured.png" />
     </item>
     
     <item>
       <title>Dividend Signaling Model</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.12.15/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.12.15/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.12.15/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.12.15/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;一个股利信号模型 
     &lt;div id=&#34;一个股利信号模型&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -222,15 +222,15 @@ $$&lt;/p&gt;</description>
 &lt;p&gt;我们纳入代理问题的考量。存在投资者（外部股权）和内部代理人（经理，可能持有股份）两方，公司正在经营一个新项目。这里关键的假设有：风险中性（贝叶斯均衡）；风险项目的产出简化为两点分布，以一定概率 \(\alpha\) 获得现值 \(R\)，\(1-\alpha\) 概率亏空为 \(0\)；私人收益线性函数（见下）。&lt;/p&gt;
 &lt;p&gt;当下第一期实现了收入 \(R_0\)，但之后仍然存在风险：好项目获得 \(R\) 的概率为 \(\alpha_H - \tau \theta\)（\(0\) 的概率为 \(1-\alpha_H+ \tau \theta\)），坏项目获得 \(R\) 的概率为 \(\alpha_L - \tau \theta\)，且 \(\alpha_H &amp;gt; \alpha_L\)。其中 \(\theta\) 为经理的偷懒程度，\(\theta \in [0,1]\)，\(\theta = 0\) 为认真工作；\(\tau\) 表示了偷懒对项目经营的危险程度。&lt;/p&gt;
 &lt;p&gt;这里的信息不对称表现为外部投资者不清楚 \(\alpha\) 并赋以 \(\alpha_H\) 概率 \(\gamma\)（\(\alpha_L\) 概率 \(1-\gamma\)），而经理知道自己是 \(\alpha_H\) 还是 \(\alpha_L\)。经理决定股利分配政策，实施发放股利 \(D\)，为市场所观测。之后由董事会（投资者控制）决定经理报酬方案 \(R^a\)（根据信号 \(D\) 和未来项目收入 \(R\) 获得报酬，即 \(R^a(D,R)\) 且默认失败没有补偿 \(R^a(D,0) = 0\)）。最后项目执行，经理选择 \(\theta\) 并最终依概率得到 \(R\) 或 \(0\)。（流程可见上图）&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.12.15/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.12.15/featured.png" />
     </item>
     
     <item>
       <title>十字路口的选择</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/rglights/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/rglights/</link>
       <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/rglights/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/rglights/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;最简单的模型 
     &lt;div id=&#34;最简单的模型&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -249,15 +249,15 @@ x + y + z = n
 \end{array}
 $$&lt;/p&gt;
 &lt;p&gt;是一组不定方程。C(1， -2， 1)&lt;!-- raw HTML omitted --&gt;T&lt;!-- raw HTML omitted --&gt; 是齐次方程的通解。我们希望总共的等待时间 \(T = x + y\) 最小，就是希望 z 最大，x 最大，y 最小，得到一个显然但不是那么有用的结论：我们应该优先选择左转或右转，尽量减少直行。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/rglights/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/rglights/featured.png" />
     </item>
     
     <item>
       <title>Model for the Nations II</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.12.01/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.12.01/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.12.01/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.12.01/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;国际关系续论 
     &lt;div id=&#34;国际关系续论&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -271,15 +271,15 @@ $$&lt;/p&gt;
 &lt;p&gt;先来补充说明一个 Scenario：Garrison &amp;amp; Blocs。我们假设最简单的形式 \(DT_i = \sum \limits_j \epsilon_{ij} M_j f(R_{ij})\)，一般情况 \(f&amp;rsquo;(R_{ij}) &amp;lt; 0\)。而对于海外驻军的情况，\(\epsilon_{ij} &amp;lt; 0\) 且 \(\frac{\partial DT_i}{\partial M_j} &amp;lt; 0\)，\(- f&amp;rsquo;(R_{ij}) = \frac{\partial^2 DT_i}{\partial M_j \partial R_{ij}} &amp;lt; 0\)。注意我们这里有一个未提及的假设：战略威胁可以被视作点对点，不考虑军队在国土空间的分布（比如俄罗斯西线和远东）。&lt;/p&gt;
 &lt;p&gt;我们把 \(\epsilon f(R)\) 合并为一项系数，并把多国作为一个向量，则有 \(\mathcal{E} M = M\)。可见最终的 \(M\) 位于地缘关系矩阵 \(\mathcal{E}\) 的特征方向。 如果威慑可分（\(\mathcal{E}\) 各列加和等于1），那么 \(\mathcal{E}\) 为马尔可夫矩阵。\((OS)\) 式的动态演进（\(M_{n+1} = \mathcal{E} M_{n}\)）将会收敛到该矩阵最大（\(\lambda = 1\)）的特征向量上。&lt;/p&gt;
 &lt;p&gt;驻军往往是国际间阵营的体现，应纳入这一安全的延拓性。即 \(DT_i(M_j,\epsilon_{ij},r_{ij},DT_j,ID_i,ID_j)\)，本国的外部安全供给会受到他国 \(DT\) 的影响。同样，内部安全供给也会受到本国（甚至外国）\(DT\) 的影响（攘外安内，危机或战时领导人支持率通常会飙升；当然，避战、反战等主流民意下应为负相关 \(\frac{\partial PO_i}{\partial DT_i} &amp;lt; 0\)）。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.12.01/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.12.01/featured.png" />
     </item>
     
     <item>
       <title>Model for the Nations</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.11.24/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.11.24/</link>
       <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.11.24/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.11.24/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;国际关系模型 
     &lt;div id=&#34;国际关系模型&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -301,15 +301,15 @@ $$&lt;/p&gt;
 &lt;li&gt;无阶层分化（no hierarchy 尽管有 PI 且纳入了分配结构，但并未分群体建模）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;影响国家决策的无非是两个方面：一边讲发展，一边要安全（就像投资决策的 \(\mu\) 和 \(\sigma\) 那样）。或者说，国际关系无非是 Benefit 和 Security 的综合作用（Inner &amp;amp; Outer）。不过我们这里要把原来的 IS-LM-BP model 说的详细一些，把 \(NX\) 拆开写为 \(NX_{ij}(e_{ij},Y_i,Y_j,r_{ij})\) 表示 \(i\) 国向 \(j\) 国的净出口。即有 \(NX_{ij}(e_{ij},Y_i,Y_j,r_{ij})\) \(=\) \(KF_{ij}(i_i,i_j,K_i,K_j,r_{ij})\)。注意实际上我们应分写进口 \(IM\) 和出口 \(EX\) 函数，鉴于双向大量贸易和几乎不贸易在净值上无法区别。总而言之：&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.11.24/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.11.24/featured.png" />
     </item>
     
     <item>
       <title>Theory of Theory</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.10.20/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.10.20/</link>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.10.20/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.10.20/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;理论的理论 
     &lt;div id=&#34;理论的理论&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -325,15 +325,15 @@ $$&lt;/p&gt;
 \mathcal{X} \rightarrow X \rightarrow \boxed{\mathbb{T}} \rightarrow Y \rightarrow \mathcal{Y}
 $$&lt;/p&gt;
 &lt;p&gt;\(\mathcal{X} \rightarrow X\) 和 \(\mathcal{Y} \rightarrow Y\) 都是概念化 Conceptualize 的过程。\(\mathcal{X}\) 和 \(\mathcal{Y}\) 是现实世界的对象或情形，\(X\) 和 \(Y\) 是我们理论的输入和输出。（注意\(X\)可以不仅仅是某个数值变量“政府年度固定投资额”，还可以是“财政政策不变”这样更为抽象的输入或问询。）科学理论的核心是相关与因果。仅相关的关联性可以做到预测，而因果性（并不是一个容易论断的东西）可以做控制和应用。中间的模型机制 Laws or Theorems \(T\) 和概念 Concepts \(C\) 组成了一个完整的理论 \(\mathbb{T}={T_1,\cdots,T_i,C_1,\cdots,C_j}\) 。每个定理（或定理的一部分）都可以写成 \(c = T(c_1,\cdots,c_n)\)，其中 \(c\) 是 \(C\) 的具象输入。我们这里缺少了几个理论里常见的模块，但其实已经纳入机制 \(T\) 内了，包括假设 Assumption 和公理 Axiom ——一种未经验证的假定的\(C\)之间的关联性；引理 Lemma 和推论 Corollary ——也是定理们特定的同义重复。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.10.20/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.10.20/featured.png" />
     </item>
     
     <item>
       <title>Stand up and Cheer</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.10.13/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.10.13/</link>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.10.13/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.10.13/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;起立欢呼 
     &lt;div id=&#34;起立欢呼&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -355,15 +355,15 @@ $$&lt;/p&gt;
 \frac{d}{dt}F(x,t) = \tau Q(x)\int \limits_{I} w(y,x)F(y,t)dy
 $$&lt;/p&gt;
 &lt;p&gt;如果 \(w\) 恰好是有意思的欧式距离平方反比，那么（怎么解呢？）&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.10.13/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.10.13/featured.png" />
     </item>
     
     <item>
       <title>The Limit of Handwritting</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.09.29/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.09.29/</link>
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.09.29/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.09.29/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;书写有极限吗 
     &lt;div id=&#34;书写有极限吗&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -393,15 +393,15 @@ $$&lt;/p&gt;
 &amp;amp; 2.\ Smoothness: There\ is\ no\ sharp\ angles\ and\ writter&amp;rsquo;s\ acceleration\ can\ be\ infinity.
 \end{align}
 $$&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.09.29/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.09.29/featured.png" />
     </item>
     
     <item>
       <title>Can I Update in Time</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.09.15/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.09.15/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.09.15/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.09.15/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;更新之谜 
     &lt;div id=&#34;更新之谜&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -413,7 +413,7 @@ $$&lt;/p&gt;</description>
 &lt;/h3&gt;
 &lt;p&gt;（发现真是很久没有更新这么困难了！很难说是自己不去动脑思考了还是对内容的要求变高了……于是这周来试着模型化一下这件事，但我并未给出解答）&lt;/p&gt;
 &lt;p&gt;我们把 \(T\) 记两个星期五之间的一个更新区间。idea 的到来视作 Poisson 过程，其参数为 \(\lambda\) 。在产生一个 idea 之后，我会花费一定的时间思考以判断和调整其价值。我们假设 idea 们都具有一个 unknown 的 actual quality \(g\) ，服从指数分布 \( f(g) = \frac{1}{g_e} e^{-\frac{g}{g_e}}， where\ g_e = E(g)\) 。（准确来说应该是两者独立，\(dt\) 时间段内产生质量 \(g\) 附近 \(dg\) 元段的 idea 的概率是 \(\lambda f(g)dtdg\) ）刚产生时我对它的认知为 \(g(0)\)，其后如果花的思考时间 \(t_k\) 越多，对其的估计也能越准，即 \(g(t) \sim \mathcal N(g, \sigma^2(t)),\ where\ \sigma^2(t)=\sigma_0^2e^{-\alpha t}\) （有待商榷，因为我的认知大概是连续光滑变动的，但或许我可以设计一个合适的随机过程使得累积量满足这样的正态分布）。我可以根据自己的 strategy 随时终止对此 idea 的思考和研究（要么感觉不错很有价值就写这个了，要么感觉价值很低算了算了）。如果没有达到标准，在 \(t_1 + t_{k1}\)（\(t_1\) 为产生用时，满足指数衰减）之后我可以继续等待 \(t_2\) ，并对其进行思考。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.09.15/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.09.15/featured.png" />
     </item>
     
   </channel>

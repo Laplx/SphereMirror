@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Economy on 球面镜</title>
-    <link>https://laplx.github.io/SphereMirror/tags/economy/</link>
+    <link>http://localhost:1313/SphereMirror/tags/economy/</link>
     <description>Recent content in Economy on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/economy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/economy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ludology</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/24.07.12/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/24.07.12/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/24.07.12/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.07.12/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;游戏论 
     &lt;div id=&#34;游戏论&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -46,15 +46,15 @@
 &lt;li&gt;有目标/内部奖励。It has goals or inner rewards. 否则我们称其为玩具 toys。玩具不会因为你的小球滚到了恰当位置就给你吐出游戏币。这里需要提到一个特殊的游戏分类\(【C】\) creation games，其中一大子类为 Sandbox 沙盒游戏，e.g. Minecraft 我的世界、Simcity 模拟城市；它们本质上应属于玩具，鉴于没有任何内置的奖励和要达成的目标（不考虑任务、成就的话）；但由于习惯原因，大家通常仍称作游戏。除此之外，存在 inner rewards 的，才被称为游戏 games。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;注意道具 props 是游戏进行需要使用的辅助物体存在；从玩家上分，游戏可以分作\(【P】\)player-machine 单人的、\(【MP】\)multi-players 多人的（是否单机还是多机联机并不如参与者数量来的重要）；从形式上分，可以分作\(【E】\)electronic 电子的（包括 video games 电子游戏，还有 handheld、standalone system games，e.g. Slot machine 老虎机）、\(【NE】\)physical 物质的，其中 physical games 可能会使用道具。\(【NE】\)可进一步分为 Tabletop 桌面游戏（e.g. Go 围棋、Tic-tac-toe 井字棋、Avalon 阿瓦隆、Catan 卡坦岛）和 Motion 运动游戏（e.g. Hide-and-seek 捉迷藏），区别在于玩家的物理动作是否对游戏的 rewarding 产生影响。我们会比较关注电子游戏。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/24.07.12/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.07.12/featured.png" />
     </item>
     
     <item>
       <title>Leaning, Gluing</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.12.22/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.12.22/</link>
       <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.12.22/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.12.22/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;斜塔，粥 
     &lt;div id=&#34;斜塔粥&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -70,15 +70,15 @@
 &lt;p&gt;合约即部分权力的让渡与赋予。它会形成一定的策略空间，对它们赋以（带随机性的）效用。体系可能运行到某些状态下，各个层级的合约都有策略移动的倾向（甚至违约的倾向）；且最上方的合约形变达到最大，下方会依次产生递减的形变（倾向），就像一堆倾斜的积木或者比萨斜塔。而当世界（未来预期）产生变动时，就像拨动斜塔，虽然顶端最为严重，倒塌却是一起的——在高倾斜度下，整个合约架构很容易一举崩溃——例如金融危机爆发（甚至政权合约遭到颠覆）。&lt;/p&gt;
 &lt;p&gt;但这个 collapse 的过程还有类似于 congee 一些黏糊糊的粥的性质。想象当你用勺子捞了粥抬起来的时候，一部分粥会收回勺内，一部分粥会落回碗中。合约同样具有粘性（韧性），且随着基础性和规模的扩大粘性逐渐增大。在斜塔倒下的片刻，上层的合约会连贯倾倒，下层的合约通过甩掉形变力往往会被拉回正轨。例如在复杂的金融工具架构中，随着泡沫或违约风险的爆裂，底部的银行和金融机构往往能得到救助和调整，以部分的维持合约体系。&lt;/p&gt;
 &lt;p&gt;（对不起，感觉有点狂想……不过还挺符合原本栏目简介里说的嘛）&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.12.22/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.12.22/featured.png" />
     </item>
     
     <item>
       <title>Model for the Nations II</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.12.01/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.12.01/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.12.01/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.12.01/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;国际关系续论 
     &lt;div id=&#34;国际关系续论&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -92,15 +92,15 @@
 &lt;p&gt;先来补充说明一个 Scenario：Garrison &amp;amp; Blocs。我们假设最简单的形式 \(DT_i = \sum \limits_j \epsilon_{ij} M_j f(R_{ij})\)，一般情况 \(f&amp;rsquo;(R_{ij}) &amp;lt; 0\)。而对于海外驻军的情况，\(\epsilon_{ij} &amp;lt; 0\) 且 \(\frac{\partial DT_i}{\partial M_j} &amp;lt; 0\)，\(- f&amp;rsquo;(R_{ij}) = \frac{\partial^2 DT_i}{\partial M_j \partial R_{ij}} &amp;lt; 0\)。注意我们这里有一个未提及的假设：战略威胁可以被视作点对点，不考虑军队在国土空间的分布（比如俄罗斯西线和远东）。&lt;/p&gt;
 &lt;p&gt;我们把 \(\epsilon f(R)\) 合并为一项系数，并把多国作为一个向量，则有 \(\mathcal{E} M = M\)。可见最终的 \(M\) 位于地缘关系矩阵 \(\mathcal{E}\) 的特征方向。 如果威慑可分（\(\mathcal{E}\) 各列加和等于1），那么 \(\mathcal{E}\) 为马尔可夫矩阵。\((OS)\) 式的动态演进（\(M_{n+1} = \mathcal{E} M_{n}\)）将会收敛到该矩阵最大（\(\lambda = 1\)）的特征向量上。&lt;/p&gt;
 &lt;p&gt;驻军往往是国际间阵营的体现，应纳入这一安全的延拓性。即 \(DT_i(M_j,\epsilon_{ij},r_{ij},DT_j,ID_i,ID_j)\)，本国的外部安全供给会受到他国 \(DT\) 的影响。同样，内部安全供给也会受到本国（甚至外国）\(DT\) 的影响（攘外安内，危机或战时领导人支持率通常会飙升；当然，避战、反战等主流民意下应为负相关 \(\frac{\partial PO_i}{\partial DT_i} &amp;lt; 0\)）。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.12.01/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.12.01/featured.png" />
     </item>
     
     <item>
       <title>Model for the Nations</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.11.24/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.11.24/</link>
       <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.11.24/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.11.24/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;国际关系模型 
     &lt;div id=&#34;国际关系模型&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -122,15 +122,15 @@
 &lt;li&gt;无阶层分化（no hierarchy 尽管有 PI 且纳入了分配结构，但并未分群体建模）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;影响国家决策的无非是两个方面：一边讲发展，一边要安全（就像投资决策的 \(\mu\) 和 \(\sigma\) 那样）。或者说，国际关系无非是 Benefit 和 Security 的综合作用（Inner &amp;amp; Outer）。不过我们这里要把原来的 IS-LM-BP model 说的详细一些，把 \(NX\) 拆开写为 \(NX_{ij}(e_{ij},Y_i,Y_j,r_{ij})\) 表示 \(i\) 国向 \(j\) 国的净出口。即有 \(NX_{ij}(e_{ij},Y_i,Y_j,r_{ij})\) \(=\) \(KF_{ij}(i_i,i_j,K_i,K_j,r_{ij})\)。注意实际上我们应分写进口 \(IM\) 和出口 \(EX\) 函数，鉴于双向大量贸易和几乎不贸易在净值上无法区别。总而言之：&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.11.24/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.11.24/featured.png" />
     </item>
     
     <item>
       <title>The Apple that Never Lands</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.11.17/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.11.17/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.11.17/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.11.17/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;永不落地的苹果 
     &lt;div id=&#34;永不落地的苹果&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -152,15 +152,15 @@ $$&lt;/p&gt;
 &lt;p&gt;科普历来是争论的话题。在我眼里，就像 scientific literacy 一样，科普本身即应该定义为科学的末端，无非是让不了解此领域的人能以科学的视角和方法正式的纳入一些有关此领域的基础知识罢了。可这是需要基本的教育去提供基本的理性素养的。&lt;/p&gt;
 &lt;p&gt;而当下的科普不是去关注苹果落地后发生的事，却只着重宣传苹果掉落的瞬间。科学理论本身是理性且严肃的，其宣传却夹杂着浪漫与造神主义；美其名曰加入科学史和人文元素，却只剩下了科学史和人文元素。思而不学，不接受真正的科学普及而仅仅凭着一些类科普提供的模糊面貌和一些内心的激情与偏执大肆幻想，便成为了民科。&lt;/p&gt;
 &lt;p&gt;（虽然还没实证确定呢！）我想说的只是，这个看起来就很伪的悖论告诉大家：科普何以存在？没有坚实的教育和素质基础，没有合格的传播和内容关注，科普便会永远停留在伪命题上，apples will never on the ground。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.11.17/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.11.17/featured.png" />
     </item>
     
     <item>
       <title>Weighted Synchronicity</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.11.10/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.11.10/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.11.10/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.11.10/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;加权共时 
     &lt;div id=&#34;加权共时&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -172,15 +172,15 @@ $$&lt;/p&gt;
 &lt;/h3&gt;
 &lt;p&gt;这个名字取得不是很恰当，不过我老是沿用脑子里第一次直觉冒出的概念名，于是就这么叫了。说的是什么呢？我们考虑两个地区——比如湖南省与上海市、卢森堡与奥地利之类的——它们在历史上被同一个政治体统治过的时间总和。加权指的是，我们可以给较久远的如公元前的时间赋以小权值而靠近近代的时间赋以大权值（具体可能要调试）。&lt;/p&gt;
 &lt;p&gt;这反映了什么呢？我想用其简单的描述一下两地区的文化差异程度（或者至少说，定义有文化差异度，并且它大概与加权共时值呈负相关）。不止是加权共时反映了文化差异度，两地距离（靠的近自然受到对方文化的感染）等等都会影响（当然，大家都看到这里的内生性问题了……）。一个可能的实证如下（请批判）：我们找出一些欧洲相邻的小国（鉴于我们没有地区的这样的数据），统计其文化产业（各国统计标准有别）进口结构——各进口国进口量与其 GDP 比值作为参考，比较两地结构差异（做一个指标 \(D_{culture}\)），其与加权共时 \(X_{syn}\) 回归显著（控制两地距离 \(X_{dis}\) 等）。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.11.10/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.11.10/featured.png" />
     </item>
     
     <item>
       <title>Measure Design</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.09.22/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.09.22/</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.09.22/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.09.22/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;建筑设计的计量 
     &lt;div id=&#34;建筑设计的计量&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -208,15 +208,15 @@ $$&lt;/p&gt;
 &lt;p&gt;建筑可以近乎完美的解决这两个问题，而绘画、音乐等艺术还需进一步考量。我们考虑全部的建筑具有一定的可行性，它们就是大家生活中接触到的建筑物的全集，那么一个标新立异的富有变异感的设计可以被视为高审美价值的。古怪的垃圾品鉴于建筑的规划、审批、施工需要层层把关实现，不大可能出现彻底的丑，何况不走寻常路可能本身就是艺术呢（比如争论中的行为艺术）。而画作、曲作的对比背景应该是人的日常生活，所以人们会喜欢欣赏画喜欢听音乐，我想这个指标可能需要做改进。&lt;/p&gt;
 &lt;p&gt;从这个指标出发，那么研究空间就大了。我抛砖引玉一个：&lt;/p&gt;
 &lt;p&gt;现在的城市建筑都由设计院、建筑事务所设计。最终整个城市或某个空间区域分布里的总设计度 \(V = \sum v\) 与它们花费的总设计费用 \( C = \sum c\) 的比值 \( \zeta = \frac{V}{C}\) 表示了一单位费用下产生的艺术效用，称作 \( conservative\ factor \ \zeta\)  保守度——因为建设过程是甲乙双方协商的结果，文化保守的地区在变异程度上要弱于开放的地区，可能也是人均 GDP 高的地区。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.09.22/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.09.22/featured.png" />
     </item>
     
     <item>
       <title>Currency Reverie</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.08.25/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.08.25/</link>
       <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.08.25/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.08.25/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;货币遐想 
     &lt;div id=&#34;货币遐想&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -230,7 +230,7 @@ $$&lt;/p&gt;
 &lt;p&gt;第一个是局域货币。可能可以在某些特定的商品范围（比如粮食、油气等）上使用某种代币。这类货币同样能够升值贬值，并与其他代币和基础币按浮动的汇率兑换，就像国与国之间一样。这样政府方面能有更精细化的货币工具调节市场和宏观经济运行。按照最优货币区理论，范围可以敲定在产业资本不易短期转出的边界。（其实工具十分灵活，还可以选择将某些商品纳入或不纳入货币区来进行调控。）（需要面对的倒是执行的效率和成本，以及相关的法律法规……）&lt;/p&gt;
 &lt;p&gt;第二个是数字化。对于全面网络化的交易现状和不可篡改的记账需求，我们无法忽视区块链技术带来的成果。我们大可以继续拥有央行、商行等金融机构（类似于 Dapps），它们同样参与于网络。比如央行通过包括公开市场操作在内的多种手段增减货币，或者不对央行进行余额检查（不太合适，还暴露了央行的地址）。目前又想到的两个不一定好的改进是非对称加密账本和记账分离。前者指隐藏各地址现有资产，通过将交易额等信息使用私钥加密但又保证公钥可以加以余额验证；后者指交易阶段和记账阶段的分离，如 10min dealing + 5min accounting，这样可以规避 PoW PoS 等选取机制的缺点，而由所有节点统一在一定时间内将交易池纳入账本打包（仍留有51%攻击，但基本没事。对于双重支付等问题应进一步设计机制解决，如挂起等待新的确认）。&lt;/p&gt;
 &lt;p&gt;第三个是去中心化。能不能进一步把这些银行去掉呢？我不能确定。有时候货币政策的目标牵扯到宏观的多方面（如减缓失业率），需要政府即一个当权者来综合考虑并做出适应性的把控。我们仅仅把目光放在当前范围内恐怕无法设计出合理的自适应货币系统。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.08.25/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.08.25/featured.png" />
     </item>
     
   </channel>

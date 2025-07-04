@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EMW on 球面镜</title>
-    <link>https://laplx.github.io/SphereMirror/tags/emw/</link>
+    <link>http://localhost:1313/SphereMirror/tags/emw/</link>
     <description>Recent content in EMW on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/emw/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/emw/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Stokes 公式</title>
-      <link>https://laplx.github.io/SphereMirror/notes/stokes/</link>
+      <link>http://localhost:1313/SphereMirror/notes/stokes/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/notes/stokes/</guid>
+      <guid>http://localhost:1313/SphereMirror/notes/stokes/</guid>
       <description>&lt;p&gt;
 
 假设某界面上下有四束平面电磁波，介质 1 中入射与出射电磁波为 \(\vec{E}_{1}, \vec{E}_{1}^{\prime}\)，介质 2 中入射与出射电磁波为 \(\vec{E}_{2}, \vec{E}_{2}^{\prime}\)。&lt;/p&gt;
@@ -41,7 +41,7 @@
 \vec{E}_{2}^{\prime} = \mathrm{Re}{( \vec{E}_{2}^{\prime} e^{ i \vec{k}_{2}^{\prime} \cdot \vec{r} - i \omega t } )}
 \end{array}
 $$&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/notes/stokes/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/stokes/featured.png" />
     </item>
     
   </channel>

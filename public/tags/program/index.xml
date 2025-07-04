@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Program on 球面镜</title>
-    <link>https://laplx.github.io/SphereMirror/tags/program/</link>
+    <link>http://localhost:1313/SphereMirror/tags/program/</link>
     <description>Recent content in Program on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/program/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/program/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>New Game of Life</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.09.08/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.09.08/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.09.08/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.09.08/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;新生命游戏 
     &lt;div id=&#34;新生命游戏&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -106,7 +106,7 @@
   
 &lt;/figure&gt;
 &lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.09.08/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.09.08/featured.png" />
     </item>
     
   </channel>

@@ -4,7 +4,7 @@
   dir="ltr"
   class="scroll-smooth"
   data-default-appearance="light"
-  data-auto-appearance="true"><head>
+  data-auto-appearance="true"><head><script src="/SphereMirror/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=SphereMirror/livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="zh-cn" />
@@ -19,7 +19,7 @@
   <meta name="keywords" content="Misc, " />
   
   
-  <link rel="canonical" href="https://laplx.github.io/SphereMirror/essays/frivols/23.06.02/" />
+  <link rel="canonical" href="http://localhost:1313/SphereMirror/essays/frivols/23.06.02/" />
   
   
   
@@ -73,7 +73,7 @@
   
   
   
-  <meta property="og:url" content="https://laplx.github.io/SphereMirror/essays/frivols/23.06.02/">
+  <meta property="og:url" content="http://localhost:1313/SphereMirror/essays/frivols/23.06.02/">
   <meta property="og:site_name" content="球面镜">
   <meta property="og:title" content="Choose Your Seat">
   <meta property="og:description" content="占有空位子 #大部分教学楼的座椅都是翻翻椅，上课时想到如果在座椅上装个传感器计数（甚至计时）翻下的次数和时间，可能可以获得大量有丰富内容的数据，我们可以以此探究教室受欢迎的座位和已有人坐的情况下大家选位的倾向。
@@ -87,11 +87,11 @@
     <meta property="article:published_time" content="2023-06-02T00:00:00+00:00">
     <meta property="article:modified_time" content="2023-06-02T00:00:00+00:00">
     <meta property="article:tag" content="Miscellaneous">
-    <meta property="og:image" content="https://laplx.github.io/SphereMirror/essays/frivols/23.06.02/featured.png">
+    <meta property="og:image" content="http://localhost:1313/SphereMirror/essays/frivols/23.06.02/featured.png">
 
   
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="https://laplx.github.io/SphereMirror/essays/frivols/23.06.02/featured.png">
+  <meta name="twitter:image" content="http://localhost:1313/SphereMirror/essays/frivols/23.06.02/featured.png">
   <meta name="twitter:title" content="Choose Your Seat">
   <meta name="twitter:description" content="占有空位子 #大部分教学楼的座椅都是翻翻椅，上课时想到如果在座椅上装个传感器计数（甚至计时）翻下的次数和时间，可能可以获得大量有丰富内容的数据，我们可以以此探究教室受欢迎的座位和已有人坐的情况下大家选位的倾向。
 这并不是一个新话题，（注意本段话有气味）毕导就有一个视频讲男生在小便池上的站位分布。我高中也提出过类似的，小便池的使用概率可能与隐私因子和方便因子有关，（使用频率不妨与尿渍面积挂钩）从而可以构造并分析隐私因子与位置的影响关系，如墙面、墙角和总体布局。
@@ -110,7 +110,7 @@
     
     "abstract": "\u003ch3 class=\u0022relative group\u0022\u003e占有空位子 \r\n    \u003cdiv id=\u0022占有空位子\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\r\n    \r\n    \u003cspan\r\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100\u0022\u003e\r\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#%e5%8d%a0%e6%9c%89%e7%a9%ba%e4%bd%8d%e5%ad%90\u0022 aria-label=\u0022锚点\u0022\u003e#\u003c\/a\u003e\r\n    \u003c\/span\u003e        \r\n    \r\n\u003c\/h3\u003e\r\n\u003cp\u003e大部分教学楼的座椅都是翻翻椅，上课时想到如果在座椅上装个传感器计数（甚至计时）翻下的次数和时间，可能可以获得大量有丰富内容的数据，我们可以以此探究教室受欢迎的座位和已有人坐的情况下大家选位的倾向。\u003c\/p\u003e\n\u003cp\u003e这并不是一个新话题，（注意本段话有气味）毕导就有一个视频讲男生在小便池上的站位分布。我高中也提出过类似的，小便池的使用概率可能与隐私因子和方便因子有关，（使用频率不妨与尿渍面积挂钩）从而可以构造并分析隐私因子与位置的影响关系，如墙面、墙角和总体布局。\u003c\/p\u003e\n\u003cp\u003e总之这是一个人类普遍面对的问题，有限的资源如何被最大的分配（就像鲁迅说的，走的人多了，自然就出结果了，所以我们要统计翻翻椅）。前提是环境已知（无危险性），人类便会四散而开，以保证自己最大限度的（隐性的）占有可能享用的资源（也有隐私的考虑），同时不会特别靠近边界。一个简单的想法是，对每一个点 \\(\\mathop{min}\\limits_i\\ d_i = d_k\\) 归属于离它最近的\\(k\\)的人，衡量每个人最终占有的面积——这等价于多条中垂线交成的多边形以及部分的边界，并且这是一个不断加入的动态的过程。接着我们要对不同位置加以权重，毕竟像小便池一样，这些位置本身可能有好有坏，受到一些因子影响，面积需要改成积分（那么距离是否需要呢？）。\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003e插播：Thermodynamic Cars\u003c\/strong\u003e\u003c\/p\u003e\n\u003cp\u003e今天看到同学介绍，热力学与统计物理可以有效的模拟交通状况（微观的车视作一个个分子），可以套入热传导（车从 heat 拥堵处向 cold 畅通处移动）、波尔兹曼公式（\\(S = k ln W_{cars}\\)）、甚至露点（有 article 说 traffic jam can be regarded as condensation），挺有趣的。\u003c\/p\u003e",
     "inLanguage": "zh-cn",
-    "url" : "https:\/\/laplx.github.io\/SphereMirror\/essays\/frivols\/23.06.02\/",
+    "url" : "http:\/\/localhost:1313\/SphereMirror\/essays\/frivols\/23.06.02\/",
     "author" : {
       "@type": "Person",
       "name": "SphereMirror"
@@ -1173,8 +1173,6 @@
               
                 
               
-                
-              
               
 <div class="flex author author-extra mt-4">
   
@@ -1187,7 +1185,7 @@
         class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4"
         width="96"
         height="96"
-        src="/SphereMirror/img/Laplx_hu_74a319a51129793.jpg">
+        src="/SphereMirror/images/authors/Laplx_hu_74a319a51129793.jpg">
     
   
   <div class="place-self-center">
@@ -1380,7 +1378,7 @@
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="mailto:?body=https://laplx.github.io/SphereMirror/essays/frivols/23.06.02/&amp;subject=Choose%20Your%20Seat"
+          href="mailto:?body=http://localhost:1313/SphereMirror/essays/frivols/23.06.02/&amp;subject=Choose%20Your%20Seat"
           title="通过电子邮件发送"
           aria-label="通过电子邮件发送">
           
@@ -1398,7 +1396,7 @@
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://twitter.com/intent/tweet/?url=https://laplx.github.io/SphereMirror/essays/frivols/23.06.02/&amp;text=Choose%20Your%20Seat"
+          href="https://twitter.com/intent/tweet/?url=http://localhost:1313/SphereMirror/essays/frivols/23.06.02/&amp;text=Choose%20Your%20Seat"
           title="分享到 Twitter"
           aria-label="分享到 Twitter">
           
@@ -1415,7 +1413,7 @@
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://www.facebook.com/sharer/sharer.php?u=https://laplx.github.io/SphereMirror/essays/frivols/23.06.02/&amp;quote=Choose%20Your%20Seat"
+          href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/SphereMirror/essays/frivols/23.06.02/&amp;quote=Choose%20Your%20Seat"
           title="分享到 Facebook"
           aria-label="分享到 Facebook">
           
@@ -1433,7 +1431,7 @@
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://t.me/share/url?url=https://laplx.github.io/SphereMirror/essays/frivols/23.06.02/&amp;resubmit=true&amp;title=Choose%20Your%20Seat"
+          href="https://t.me/share/url?url=http://localhost:1313/SphereMirror/essays/frivols/23.06.02/&amp;resubmit=true&amp;title=Choose%20Your%20Seat"
           title=""
           aria-label="">
           
@@ -1451,7 +1449,7 @@
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://reddit.com/submit/?url=https://laplx.github.io/SphereMirror/essays/frivols/23.06.02/&amp;resubmit=true&amp;title=Choose%20Your%20Seat"
+          href="https://reddit.com/submit/?url=http://localhost:1313/SphereMirror/essays/frivols/23.06.02/&amp;resubmit=true&amp;title=Choose%20Your%20Seat"
           title="提交到 Reddit"
           aria-label="提交到 Reddit">
           
@@ -1469,7 +1467,7 @@
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://api.whatsapp.com/send?text=https://laplx.github.io/SphereMirror/essays/frivols/23.06.02/&amp;resubmit=true&amp;title=Choose%20Your%20Seat"
+          href="https://api.whatsapp.com/send?text=http://localhost:1313/SphereMirror/essays/frivols/23.06.02/&amp;resubmit=true&amp;title=Choose%20Your%20Seat"
           title=""
           aria-label="">
           
@@ -1487,7 +1485,7 @@
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://laplx.github.io/SphereMirror/essays/frivols/23.06.02/&amp;title=Choose%20Your%20Seat"
+          href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/SphereMirror/essays/frivols/23.06.02/&amp;title=Choose%20Your%20Seat"
           title="分享到 LinkedIn"
           aria-label="分享到 LinkedIn">
           
@@ -1505,7 +1503,7 @@
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://bsky.app/intent/compose?text=Choose%20Your%20Seat&#43;https://laplx.github.io/SphereMirror/essays/frivols/23.06.02/"
+          href="https://bsky.app/intent/compose?text=Choose%20Your%20Seat&#43;http://localhost:1313/SphereMirror/essays/frivols/23.06.02/"
           title=""
           aria-label="">
           
@@ -1522,7 +1520,7 @@
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://pinterest.com/pin/create/bookmarklet/?url=https://laplx.github.io/SphereMirror/essays/frivols/23.06.02/&amp;description=Choose%20Your%20Seat"
+          href="https://pinterest.com/pin/create/bookmarklet/?url=http://localhost:1313/SphereMirror/essays/frivols/23.06.02/&amp;description=Choose%20Your%20Seat"
           title="钉到 Pinterest"
           aria-label="钉到 Pinterest">
           
@@ -1540,7 +1538,7 @@
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://line.me/R/share?text=https://laplx.github.io/SphereMirror/essays/frivols/23.06.02/%20Choose%20Your%20Seat"
+          href="https://line.me/R/share?text=http://localhost:1313/SphereMirror/essays/frivols/23.06.02/%20Choose%20Your%20Seat"
           title="分享到 LINE"
           aria-label="分享到 LINE">
           
@@ -2165,7 +2163,7 @@ gitalk.render('gitalk-container')
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-index-500"
-  data-url="https://laplx.github.io/SphereMirror/">
+  data-url="http://localhost:1313/SphereMirror/">
   <div
     id="search-modal"
     class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800">

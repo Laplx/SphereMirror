@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Complexity on 球面镜</title>
-    <link>https://laplx.github.io/SphereMirror/tags/complexity/</link>
+    <link>http://localhost:1313/SphereMirror/tags/complexity/</link>
     <description>Recent content in Complexity on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/complexity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/complexity/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>New Game of Life</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.09.08/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.09.08/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.09.08/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.09.08/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;新生命游戏 
     &lt;div id=&#34;新生命游戏&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -106,15 +106,15 @@
   
 &lt;/figure&gt;
 &lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.09.08/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.09.08/featured.png" />
     </item>
     
     <item>
       <title>Annealed Polity Emerges</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.08.11/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.08.11/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.08.11/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.08.11/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;左右退火，政治飞升 
     &lt;div id=&#34;左右退火政治飞升&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -147,7 +147,7 @@
 &lt;p&gt;政治的本义（严格说，始终没有一个确切公认的定义——wiki）大概包括由个人及团体组成的集体的组织制度、治理监管、利益分配等作用关系。借某游戏名言“血肉苦弱，机械飞升”，标题想表达的即是一个社会复杂系统研究的视角：无数人类个体交互而成的复杂系统，含有一系列类似左右的议题，这个耗散结构在局部平稳实又混沌的变动和争斗中演化、自组织，那些退火过的结果方能优良而长久。这是系统的涌现（Emergence）、文明的飞升。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Miller, J. &amp;amp; Page, S. (2007). &lt;em&gt;Complex Adaptive Systems: An Introduction to Computational Models of Social Life&lt;/em&gt;. Princeton: Princeton University Press.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.08.11/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.08.11/featured.png" />
     </item>
     
   </channel>

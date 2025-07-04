@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Crypto on 球面镜</title>
-    <link>https://laplx.github.io/SphereMirror/tags/crypto/</link>
+    <link>http://localhost:1313/SphereMirror/tags/crypto/</link>
     <description>Recent content in Crypto on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Knoid</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.10.06/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.10.06/</link>
       <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.10.06/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.10.06/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;知子网 
     &lt;div id=&#34;知子网&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -58,15 +58,15 @@
 &lt;p&gt;我们借鉴了以太坊（Etherum）的基础。所有行动将被广播，每经过固定时间将创建下一个提交，所有知识的拥有者都将写入一份同全网络历史一模一样的副本。知识的产权不容纂改。&lt;/p&gt;
 &lt;p&gt;网络可以本地化，大学等学术机构可以接入并构造属于自己内部的知识生态，这只需要若干合约。&lt;/p&gt;
 &lt;p&gt;知子网正在 Github 上启动。大信息时代的知识交流期待新的范式，期待您的参与。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.10.06/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.10.06/featured.png" />
     </item>
     
     <item>
       <title>Currency Reverie</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.08.25/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.08.25/</link>
       <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.08.25/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.08.25/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;货币遐想 
     &lt;div id=&#34;货币遐想&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -80,7 +80,7 @@
 &lt;p&gt;第一个是局域货币。可能可以在某些特定的商品范围（比如粮食、油气等）上使用某种代币。这类货币同样能够升值贬值，并与其他代币和基础币按浮动的汇率兑换，就像国与国之间一样。这样政府方面能有更精细化的货币工具调节市场和宏观经济运行。按照最优货币区理论，范围可以敲定在产业资本不易短期转出的边界。（其实工具十分灵活，还可以选择将某些商品纳入或不纳入货币区来进行调控。）（需要面对的倒是执行的效率和成本，以及相关的法律法规……）&lt;/p&gt;
 &lt;p&gt;第二个是数字化。对于全面网络化的交易现状和不可篡改的记账需求，我们无法忽视区块链技术带来的成果。我们大可以继续拥有央行、商行等金融机构（类似于 Dapps），它们同样参与于网络。比如央行通过包括公开市场操作在内的多种手段增减货币，或者不对央行进行余额检查（不太合适，还暴露了央行的地址）。目前又想到的两个不一定好的改进是非对称加密账本和记账分离。前者指隐藏各地址现有资产，通过将交易额等信息使用私钥加密但又保证公钥可以加以余额验证；后者指交易阶段和记账阶段的分离，如 10min dealing + 5min accounting，这样可以规避 PoW PoS 等选取机制的缺点，而由所有节点统一在一定时间内将交易池纳入账本打包（仍留有51%攻击，但基本没事。对于双重支付等问题应进一步设计机制解决，如挂起等待新的确认）。&lt;/p&gt;
 &lt;p&gt;第三个是去中心化。能不能进一步把这些银行去掉呢？我不能确定。有时候货币政策的目标牵扯到宏观的多方面（如减缓失业率），需要政府即一个当权者来综合考虑并做出适应性的把控。我们仅仅把目光放在当前范围内恐怕无法设计出合理的自适应货币系统。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.08.25/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.08.25/featured.png" />
     </item>
     
   </channel>

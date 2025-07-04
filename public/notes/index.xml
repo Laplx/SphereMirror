@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>笔记 on 球面镜</title>
-    <link>https://laplx.github.io/SphereMirror/notes/</link>
+    <link>http://localhost:1313/SphereMirror/notes/</link>
     <description>Recent content in 笔记 on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/notes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>实分析（上）</title>
-      <link>https://laplx.github.io/SphereMirror/notes/real-analysis/part1/</link>
+      <link>http://localhost:1313/SphereMirror/notes/real-analysis/part1/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/notes/real-analysis/part1/</guid>
+      <guid>http://localhost:1313/SphereMirror/notes/real-analysis/part1/</guid>
       <description>&lt;p&gt;
 
 $$
 \int f d\mu
 $$&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/notes/real-analysis/part1/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/real-analysis/part1/featured.png" />
     </item>
     
     <item>
       <title>随机分析（上）</title>
-      <link>https://laplx.github.io/SphereMirror/notes/stochastic-analysis/part1/</link>
+      <link>http://localhost:1313/SphereMirror/notes/stochastic-analysis/part1/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/notes/stochastic-analysis/part1/</guid>
+      <guid>http://localhost:1313/SphereMirror/notes/stochastic-analysis/part1/</guid>
       <description>&lt;p&gt;
 
 $$
 F. \langle M\rangle
 $$&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/notes/stochastic-analysis/part1/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/stochastic-analysis/part1/featured.png" />
     </item>
     
     <item>
       <title>色彩科学</title>
-      <link>https://laplx.github.io/SphereMirror/notes/color-science/</link>
+      <link>http://localhost:1313/SphereMirror/notes/color-science/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/notes/color-science/</guid>
+      <guid>http://localhost:1313/SphereMirror/notes/color-science/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;Luminance 
     &lt;div id=&#34;luminance&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -98,15 +98,15 @@ $$&lt;/p&gt;</description>
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;对于光亮度感知，显然看起来不可能（同功率下）各个波长都一样。因此我们实验测定了明视觉亮度函数（视效函数）\(V(\lambda)\)，在 \(2\degree\)视角、明视觉条件下平均人眼匹配不同波长光的明暗感觉得到。这个函数在约 555nm 处取到最大视效 \(V_m = V(555\text{ nm}) = 683 \text{ lm/W}\)（故人眼对绿光最敏感）；如果我们除以 \(V_m\)，将该点置一就得到我们常用的视见函数，仍记作 \(V(\lambda)\)（自然可见是否带这个常数因子不重要，后面自行知道即可）。（暗视觉 \(V&amp;rsquo;_m = V&amp;rsquo;(507\text{ nm}) = 1700 \text{ lm/W}\)）&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/notes/color-science/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/color-science/featured.png" />
     </item>
     
     <item>
       <title>共轭梯度法（CG Method）</title>
-      <link>https://laplx.github.io/SphereMirror/notes/numerical/cg/</link>
+      <link>http://localhost:1313/SphereMirror/notes/numerical/cg/</link>
       <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/notes/numerical/cg/</guid>
+      <guid>http://localhost:1313/SphereMirror/notes/numerical/cg/</guid>
       <description>&lt;p&gt;
 
 如果初始点的选择不好或者函数行为不好时，最速下降法可能并不理想。我们先从几何和直觉上展示共轭梯度法，同时可以在后文理清数学逻辑后再来看看这两张图。&lt;/p&gt;
@@ -132,15 +132,15 @@ $$&lt;/p&gt;</description>
 $$&lt;/p&gt;
 &lt;p&gt;假装我们能获取每一步的搜索方向 \(p_i\)，那么由精确线搜索知 \(p_i \perp -\nabla f_{i+1}\)，其中 \(\nabla f_{i+1} := \nabla f(x_{i+1})\)，且 \(x_i = x_0 + \sum_{j=0}^{i-1}\alpha_j p_j\)，\(\alpha_i\) 记步长。&lt;/p&gt;
 &lt;p&gt;同时我们可以直接得到一个关于搜索步长的表达式，对 \(f(x_i + \alpha_i p_i) = g(\alpha_i),\ g^\prime (\alpha_i) = 0\) 得到&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/notes/numerical/cg/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/numerical/cg/featured.png" />
     </item>
     
     <item>
       <title>Stokes 公式</title>
-      <link>https://laplx.github.io/SphereMirror/notes/stokes/</link>
+      <link>http://localhost:1313/SphereMirror/notes/stokes/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/notes/stokes/</guid>
+      <guid>http://localhost:1313/SphereMirror/notes/stokes/</guid>
       <description>&lt;p&gt;
 
 假设某界面上下有四束平面电磁波，介质 1 中入射与出射电磁波为 \(\vec{E}_{1}, \vec{E}_{1}^{\prime}\)，介质 2 中入射与出射电磁波为 \(\vec{E}_{2}, \vec{E}_{2}^{\prime}\)。&lt;/p&gt;
@@ -165,15 +165,15 @@ $$&lt;/p&gt;
 \vec{E}_{2}^{\prime} = \mathrm{Re}{( \vec{E}_{2}^{\prime} e^{ i \vec{k}_{2}^{\prime} \cdot \vec{r} - i \omega t } )}
 \end{array}
 $$&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/notes/stokes/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/stokes/featured.png" />
     </item>
     
     <item>
       <title>量子力学的形式理论</title>
-      <link>https://laplx.github.io/SphereMirror/notes/quantum_form/</link>
+      <link>http://localhost:1313/SphereMirror/notes/quantum_form/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/notes/quantum_form/</guid>
+      <guid>http://localhost:1313/SphereMirror/notes/quantum_form/</guid>
       <description>&lt;p&gt;
 
 系统的运动状态&lt;strong&gt;由 Hilbert 空间（所有平方可积函数构成的线性空间）中的一个矢量 \(\ket{ \mathfrak{I} }\) 描述&lt;/strong&gt;。&lt;/p&gt;
@@ -186,7 +186,7 @@ $$&lt;/p&gt;</description>
 &lt;p&gt;$$
 \ket{ \mathfrak{I} } = \sum_{a} \ket{a} \braket{ a | \mathfrak{I} }
 $$&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/notes/quantum_form/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/quantum_form/featured.png" />
     </item>
     
   </channel>

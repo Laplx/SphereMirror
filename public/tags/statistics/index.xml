@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistics on 球面镜</title>
-    <link>https://laplx.github.io/SphereMirror/tags/statistics/</link>
+    <link>http://localhost:1313/SphereMirror/tags/statistics/</link>
     <description>Recent content in Statistics on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Transportation Cost</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/24.01.12/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/24.01.12/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/24.01.12/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.01.12/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;交通成本 
     &lt;div id=&#34;交通成本&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -36,15 +36,15 @@ f_0 + As + wt + be^{\gamma t} + p \approx Const
 $$&lt;/p&gt;
 &lt;p&gt;其中 \(f= f_0 +As\)，\(f_0\) 表示机场、火车站安检进站等固定成本，\(s\) 为机场、火车站的距离，\(A\) 则与城市交通能力有关。除了工资 \(w\) 的机会成本外，环境造成的成本也许是指数形式的 \(be^{\gamma t}\)。&lt;/p&gt;
 &lt;p&gt;不过！——国铁的定价基本是统一按照一定的计算规则来的（部分广铁除外）。时速 300 km/h 及以上的线路，G 字头车二等座票价率一般为 0.46 元/公里，D 字头为 0.31 或 0.37 元/公里；并递远递减，分段计价；一等座、特等座和商务座的票价，则分别按照二等座票价的 1.6 倍、1.8 倍和 3 倍计算。而机票甚至还有价格走势；同时还要剔除凌晨、饭点等起抵时间对作息和行程安排的影响。德国和日本或许是最佳的样本，一方面铁路客运发达，一方面相较而言市场化一点。京沪高铁等几条线路这些年开始推动市场化浮动定价，我们可以姑且作个初步的观察。我从12306网站上爬取了上海至北京的车次票价 \(p\) 和用时 \(t\)，\(w\) 的回归结果约为 0.72 元/分钟（\(R^2 = 0.64\)，二等座），而商务座 \(w\) 约为 2.63 元/分钟（一天工作9小时，相当于11万和38万的年薪）。并且 \(v\) 对各舱位来说相近，确实是 \(b\) 的差别。单就线性回归而言，飞机的 \(w\) 可能在 2.3 元/分钟附近（飞机经济舱的数据更加复杂，这样子做意义不大），确实比铁路要小一些，说明乘坐环境大概没有高铁舒服吧。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/24.01.12/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.01.12/featured.png" />
     </item>
     
     <item>
       <title>The Apple that Never Lands</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.11.17/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.11.17/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.11.17/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.11.17/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;永不落地的苹果 
     &lt;div id=&#34;永不落地的苹果&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -66,15 +66,15 @@ $$&lt;/p&gt;
 &lt;p&gt;科普历来是争论的话题。在我眼里，就像 scientific literacy 一样，科普本身即应该定义为科学的末端，无非是让不了解此领域的人能以科学的视角和方法正式的纳入一些有关此领域的基础知识罢了。可这是需要基本的教育去提供基本的理性素养的。&lt;/p&gt;
 &lt;p&gt;而当下的科普不是去关注苹果落地后发生的事，却只着重宣传苹果掉落的瞬间。科学理论本身是理性且严肃的，其宣传却夹杂着浪漫与造神主义；美其名曰加入科学史和人文元素，却只剩下了科学史和人文元素。思而不学，不接受真正的科学普及而仅仅凭着一些类科普提供的模糊面貌和一些内心的激情与偏执大肆幻想，便成为了民科。&lt;/p&gt;
 &lt;p&gt;（虽然还没实证确定呢！）我想说的只是，这个看起来就很伪的悖论告诉大家：科普何以存在？没有坚实的教育和素质基础，没有合格的传播和内容关注，科普便会永远停留在伪命题上，apples will never on the ground。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.11.17/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.11.17/featured.png" />
     </item>
     
     <item>
       <title>Measure Design</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.09.22/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.09.22/</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.09.22/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.09.22/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;建筑设计的计量 
     &lt;div id=&#34;建筑设计的计量&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -102,15 +102,15 @@ $$&lt;/p&gt;
 &lt;p&gt;建筑可以近乎完美的解决这两个问题，而绘画、音乐等艺术还需进一步考量。我们考虑全部的建筑具有一定的可行性，它们就是大家生活中接触到的建筑物的全集，那么一个标新立异的富有变异感的设计可以被视为高审美价值的。古怪的垃圾品鉴于建筑的规划、审批、施工需要层层把关实现，不大可能出现彻底的丑，何况不走寻常路可能本身就是艺术呢（比如争论中的行为艺术）。而画作、曲作的对比背景应该是人的日常生活，所以人们会喜欢欣赏画喜欢听音乐，我想这个指标可能需要做改进。&lt;/p&gt;
 &lt;p&gt;从这个指标出发，那么研究空间就大了。我抛砖引玉一个：&lt;/p&gt;
 &lt;p&gt;现在的城市建筑都由设计院、建筑事务所设计。最终整个城市或某个空间区域分布里的总设计度 \(V = \sum v\) 与它们花费的总设计费用 \( C = \sum c\) 的比值 \( \zeta = \frac{V}{C}\) 表示了一单位费用下产生的艺术效用，称作 \( conservative\ factor \ \zeta\)  保守度——因为建设过程是甲乙双方协商的结果，文化保守的地区在变异程度上要弱于开放的地区，可能也是人均 GDP 高的地区。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.09.22/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.09.22/featured.png" />
     </item>
     
     <item>
       <title>Hype Significance</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.06.23/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.06.23/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.06.23/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.06.23/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;显著你的显著 
     &lt;div id=&#34;显著你的显著&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -167,7 +167,7 @@ $$&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.06.23/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.06.23/featured.png" />
     </item>
     
   </channel>

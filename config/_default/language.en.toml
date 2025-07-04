@@ -9,7 +9,7 @@ languageName = 'English'
 [params.author]
   name = "SphereMirror"
   email = "spheremirror@outlook.com"
-  image = "/img/author.png"
+  image = "images/authors/author.png"
   # headline = ""
   links = [
     { email = "spheremirror@outlook.com" },

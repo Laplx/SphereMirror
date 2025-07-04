@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game on 球面镜</title>
-    <link>https://laplx.github.io/SphereMirror/tags/game/</link>
+    <link>http://localhost:1313/SphereMirror/tags/game/</link>
     <description>Recent content in Game on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/game/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Attempts at Symmetry in Game</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/24.08.02/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.08.02/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;关于对称性的类比尝试 
     &lt;div id=&#34;关于对称性的类比尝试&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -28,15 +28,15 @@
 &lt;/h3&gt;
 &lt;p&gt;讨论的对象仍然是博弈。起因是我看到国自然基金的 Fundamental Research 发了一篇用群论研究博弈论当中对称性的文章&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;，小吃一惊，原来已经有一少部分人关注这个想法了，于是连忙把自己许久以前想过的冷饭翻出来硬炒。&lt;/p&gt;
 &lt;p&gt;我将引入准则 \(C(G,\tau): \mathbb{S} \rightarrow 2^{\mathbb{S}}\)，为一集值函数，以表示在给定某一策略下在某节点该参与者认可的最优策略集合（常见有 \((r)\)、\((rB)\) 等，具体前摇可参考我的 Game Theory 笔记）。其在策略空间 \(\mathbb{S}\) 上作用的稳定集 equilirium 即 \(\Pi_C={S\in \mathbb{S}|S\in C(G,\tau;S),\forall \tau \in \mathscr{T}}\)。我们还可以对准则函数进行一系列变换，以方便各方面如对动态博弈的研究；常用的算子包括均衡算子 \(\Pi/\text{Eq}\)、上/下序贯算子（分别向下/上节点至支付/根节点取交集）\(\text{S}^\text{q}&lt;em&gt;iC(G,\tau)=\bigcup\limits&lt;/em&gt;{\tau&amp;rsquo;\in\tilde{\tau},\rho(\tau&amp;rsquo;)=i}C(G,\tau&amp;rsquo;),\text{S}&lt;em&gt;{\text{q}i}C(G,\tau)=\bigcup\limits&lt;/em&gt;{\tau\in\tilde{\tau&amp;rsquo;},\rho(\tau&amp;rsquo;)=i}C(G,\tau&amp;rsquo;)\)、一致算子（严格序贯）\(\zeta_i=\text{S}^\text{q}&lt;em&gt;i \text{S}&lt;/em&gt;{\text{q}i}, \zeta=\zeta_1\cdots\zeta_m\)、排除算子 \(\delta\)（剔去某些选择最优的可能性）、边缘算子 \(\partial\)（取像单纯复形的边界）。\(\zeta C\) 一定是序贯/一致准则。特别提及一致反应准则（总准则） \(\mathscr{R}C=\bigoplus\limits_{i\in{1,\cdots,m}}p_i\cdot\zeta C\)（\(p_i\) 为对参与者 \(i\) 策略子空间的投影），接下来的 \(C\) 均指总准则。依照其像的关系和操作我们还可称 \(C_1\subset C_2\) 若 \(\forall S, C_1(G,S)\subset C_2(G,S)\)，即 \(C_1\) 是 \(C_2\) 的精炼；合并（且/或）准则 \(C_1\cup C_2\)、\(C_1\cap C_2\)（或写 \(C_1C_2\)），且有 \(\Pi_{C_1\cap C_2}=\Pi_{C_1}\cap \Pi_{C_2}\) 等；同胚准则 \(C_1(G_1)\cong C_2(G_2)\) 若 \(\exists \text{ homeo. }\phi :\mathbb{S}_1\rightarrow \mathbb{S}&lt;em&gt;2\)\(\text{ s.t. }\forall S_1,\phi|&lt;/em&gt;{C_1(G_1,S_1)}\text{ is a homeo. onto }C_2(G_2,\phi(S_1))\)。注意准则同样可被视为算子，作用于平凡算子 \((1)\) 上（\(\Pi_1=\mathbb{S}\)），再如 \(rC\) 即表示对原本的 \(C\) 取符合纳什理性选择的交集。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/24.08.02/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.08.02/featured.png" />
     </item>
     
     <item>
       <title>Dividend Signaling Model</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.12.15/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.12.15/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.12.15/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.12.15/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;一个股利信号模型 
     &lt;div id=&#34;一个股利信号模型&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -64,15 +64,15 @@
 &lt;p&gt;我们纳入代理问题的考量。存在投资者（外部股权）和内部代理人（经理，可能持有股份）两方，公司正在经营一个新项目。这里关键的假设有：风险中性（贝叶斯均衡）；风险项目的产出简化为两点分布，以一定概率 \(\alpha\) 获得现值 \(R\)，\(1-\alpha\) 概率亏空为 \(0\)；私人收益线性函数（见下）。&lt;/p&gt;
 &lt;p&gt;当下第一期实现了收入 \(R_0\)，但之后仍然存在风险：好项目获得 \(R\) 的概率为 \(\alpha_H - \tau \theta\)（\(0\) 的概率为 \(1-\alpha_H+ \tau \theta\)），坏项目获得 \(R\) 的概率为 \(\alpha_L - \tau \theta\)，且 \(\alpha_H &amp;gt; \alpha_L\)。其中 \(\theta\) 为经理的偷懒程度，\(\theta \in [0,1]\)，\(\theta = 0\) 为认真工作；\(\tau\) 表示了偷懒对项目经营的危险程度。&lt;/p&gt;
 &lt;p&gt;这里的信息不对称表现为外部投资者不清楚 \(\alpha\) 并赋以 \(\alpha_H\) 概率 \(\gamma\)（\(\alpha_L\) 概率 \(1-\gamma\)），而经理知道自己是 \(\alpha_H\) 还是 \(\alpha_L\)。经理决定股利分配政策，实施发放股利 \(D\)，为市场所观测。之后由董事会（投资者控制）决定经理报酬方案 \(R^a\)（根据信号 \(D\) 和未来项目收入 \(R\) 获得报酬，即 \(R^a(D,R)\) 且默认失败没有补偿 \(R^a(D,0) = 0\)）。最后项目执行，经理选择 \(\theta\) 并最终依概率得到 \(R\) 或 \(0\)。（流程可见上图）&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.12.15/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.12.15/featured.png" />
     </item>
     
     <item>
       <title>Love in Evolution and Equilirium</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.11.03/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.11.03/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.11.03/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.11.03/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;暧昧：进化与均衡 
     &lt;div id=&#34;暧昧进化与均衡&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -101,15 +101,15 @@ $$&lt;/p&gt;
 \mathcal{H} = \nabla_x V \cdot \dot{x}(t,x(t),a(t))+u_i(t,x(t),a(t))\\
 = x_1(\frac{a_2}{a_1}-\delta) \frac{\partial V}{\partial x_1}+x_2(\frac{a_1}{a_2}-\delta) \frac{\partial V}{\partial x_2}+x_i(t)e^{-rt}
 $$&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.11.03/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.11.03/featured.png" />
     </item>
     
     <item>
       <title>Excellent Player</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.07.07/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.07.07/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.07.07/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.07.07/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;优秀的博弈家 
     &lt;div id=&#34;优秀的博弈家&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -131,15 +131,15 @@ $$&lt;/p&gt;</description>
   &gt;http://blog.ciaochaos.com/2020/02/paper/&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;（分析的角度更加精细，提出了“注意熵”）&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.07.07/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.07.07/featured.png" />
     </item>
     
     <item>
       <title>Dots and Boxes</title>
-      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.06.09/</link>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.06.09/</link>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.06.09/</guid>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.06.09/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;划线围格 
     &lt;div id=&#34;划线围格&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -172,7 +172,7 @@ $$&lt;/p&gt;</description>
 &lt;p&gt;&lt;strong&gt;reference&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;[1] Berlekamp, Elwyn R. &lt;em&gt;The dots and boxes game: sophisticated child&amp;rsquo;s play&lt;/em&gt;. CRC Press, 2000.&lt;/p&gt;
 &lt;p&gt;[2] Berlekamp, Elwyn R., John H. Conway, and Richard K. Guy. &lt;em&gt;Winning Ways for Your Mathematical Plays, Volume 3&lt;/em&gt;. CRC Press, 2018.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.06.09/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.06.09/featured.png" />
     </item>
     
   </channel>

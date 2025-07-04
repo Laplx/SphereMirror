@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on 球面镜</title>
-    <link>https://laplx.github.io/SphereMirror/authors/</link>
+    <link>http://localhost:1313/SphereMirror/authors/</link>
     <description>Recent content in Authors on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/authors/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>H. Chen</title>
-      <link>https://laplx.github.io/SphereMirror/authors/laplx/</link>
+      <link>http://localhost:1313/SphereMirror/authors/laplx/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/authors/laplx/</guid>
+      <guid>http://localhost:1313/SphereMirror/authors/laplx/</guid>
       <description>&lt;span class=&#34;flex cursor-pointer&#34;&gt;
   &lt;span
     class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
@@ -34,21 +34,11 @@ FDU
     </item>
     
     <item>
-      <title>Sam</title>
-      <link>https://laplx.github.io/SphereMirror/authors/sam/</link>
-      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-      <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/authors/sam/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>hzqtljh</title>
-      <link>https://laplx.github.io/SphereMirror/authors/hzqtljh/</link>
-      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/SphereMirror/authors/hzqtljh/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>https://laplx.github.io/SphereMirror/authors/hzqtljh/</guid>
+      <guid>http://localhost:1313/SphereMirror/authors/hzqtljh/</guid>
       <description>&lt;span class=&#34;flex cursor-pointer&#34;&gt;
   &lt;span
     class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;

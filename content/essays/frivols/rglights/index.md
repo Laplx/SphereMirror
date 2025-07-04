@@ -2,7 +2,7 @@
 title: 十字路口的选择
 date: "2023-12-04"
 tags: ["Model"]
-authors: ["Sam"]
+authors: ["hzqtljh"]
 draft: false
 ---
 {{< katex >}}

@@ -2,7 +2,7 @@
 title: Newton 力学
 date: "2023-09-28"
 tags: ["Physics", "Mechanics"]
-authors: ["Sam"]
+authors: ["hzqtljh"]
 draft: true
 ---
 {{< katex >}}
