@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Society on 球面镜</title>
+    <link>http://localhost:1313/SphereMirror/tags/society/</link>
+    <description>Recent content in Society on 球面镜</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
+    <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
+    <copyright>© 2025 SphereMirror</copyright>
+    <lastBuildDate>Fri, 29 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/society/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Theory about Making Friends</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.12.29/</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.12.29/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;交友论 
+    &lt;div id=&#34;交友论&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%ba%a4%e5%8f%8b%e8%ae%ba&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;让我们从一个功利的视角建模人们怎么交友。评判朋友的价值可能非常不合适——不过毕竟连精神损失也可以经过鉴定来补偿一定的费用呢，这里姑且做个货币价值的量化，并按邪恶的经济学家们喜欢的方式假设一些理性人，他们打算最大化自己的效用啦。&lt;/p&gt;
+&lt;p&gt;\(V_{ji}\) 表示 \(j\) 对 \(i\) 而言的价值。我把朋友带来的价值简单的分为两部分：内在价值和外在价值。内在即心理价值，如倾诉、分享、玩乐，都满足了人一定的情感需求；外在即物质价值或现实价值，一般是帮忙或者所谓的”人情“。&lt;/p&gt;
+&lt;p&gt;\(C_{ij}\) 表示 \(i\) 对 \(j\) 付出的交友成本。不过这里的成本更加通用化，以具体事物作衡量，并不等同于某个人实际感受到的效用（比如对于社牛，可能他们专门出去找好友玩、参加联谊交往活动等并不会感觉有多心累或浪费时间精力）。&lt;/p&gt;
+&lt;p&gt;\(\theta_{ji}\) 表示 \(j\) 对 \(i\) 的亲密度。想了想我觉得不应直接假设 \(\theta_{ji} = \theta_{ij}\)，很可能双方对友谊的认知存在偏差。但或许对于情商高的人，他们能够更快的意识到差距并调整 \(\left \vert \theta_{ji} - \theta_{ij} \right \vert\) 趋于 0。\(\theta\) 取决于双方对友谊付出的成本多少，及环境外生的互动系数 \(\mu_{ij} = \mu_{ji}\)（不同来源性质的好友天生会产生亲密度的差别，比如中学里和同班同学的关系自然会高于一般的非同班同学）。而在某些特殊函数形式下可以造成 \(\theta_{ji} = \theta_{ij}\) ——接下来为了简单的解析结果，我们令 \(\theta_{ji}(C_{ji},C_{ij},\mu_{ji}) = \mu_{ji} C_{ji} C_{ij}\)。&lt;/p&gt;
+&lt;p&gt;内在价值可写为 \(D_{ji}(\theta_{ij},d)\)，其中 \(d\) 为情感偏好程度。令 \(D_{ji} = d_i \theta_{ji}\)。现实价值 \(P_{ji}\) 又怎么衡量呢？好友是一个期权。&lt;/p&gt;
+&lt;p&gt;等一下，这并不简单，这个期权不止是美式的，甚至不知道可能有哪些可以行权。再者，我们这里还需要两个假设：不考虑跨人际交往（”我朋友的朋友……“）；不考虑关系网的延伸（\(i,j \in I\) 均为已知的一群人）（理论上还应该考虑新认识陌生人可能的”启动成本“）。但我们这里稍稍不讲道理的简化一点，想象一群欧式期权，它们依 \((S,K,T)\) 联合概率分布，以表征不确定性。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.12.29/featured.png" />
+    </item>
+    
+    <item>
+      <title>Model for the Nations II</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.12.01/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.12.01/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;国际关系续论 
+    &lt;div id=&#34;国际关系续论&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%9b%bd%e9%99%85%e5%85%b3%e7%b3%bb%e7%bb%ad%e8%ae%ba&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;模型的基本假设在前一篇已经尽力列举过了。&lt;/p&gt;
+&lt;p&gt;先来补充说明一个 Scenario：Garrison &amp;amp; Blocs。我们假设最简单的形式 \(DT_i = \sum \limits_j \epsilon_{ij} M_j f(R_{ij})\)，一般情况 \(f&amp;rsquo;(R_{ij}) &amp;lt; 0\)。而对于海外驻军的情况，\(\epsilon_{ij} &amp;lt; 0\) 且 \(\frac{\partial DT_i}{\partial M_j} &amp;lt; 0\)，\(- f&amp;rsquo;(R_{ij}) = \frac{\partial^2 DT_i}{\partial M_j \partial R_{ij}} &amp;lt; 0\)。注意我们这里有一个未提及的假设：战略威胁可以被视作点对点，不考虑军队在国土空间的分布（比如俄罗斯西线和远东）。&lt;/p&gt;
+&lt;p&gt;我们把 \(\epsilon f(R)\) 合并为一项系数，并把多国作为一个向量，则有 \(\mathcal{E} M = M\)。可见最终的 \(M\) 位于地缘关系矩阵 \(\mathcal{E}\) 的特征方向。 如果威慑可分（\(\mathcal{E}\) 各列加和等于1），那么 \(\mathcal{E}\) 为马尔可夫矩阵。\((OS)\) 式的动态演进（\(M_{n+1} = \mathcal{E} M_{n}\)）将会收敛到该矩阵最大（\(\lambda = 1\)）的特征向量上。&lt;/p&gt;
+&lt;p&gt;驻军往往是国际间阵营的体现，应纳入这一安全的延拓性。即 \(DT_i(M_j,\epsilon_{ij},r_{ij},DT_j,ID_i,ID_j)\)，本国的外部安全供给会受到他国 \(DT\) 的影响。同样，内部安全供给也会受到本国（甚至外国）\(DT\) 的影响（攘外安内，危机或战时领导人支持率通常会飙升；当然，避战、反战等主流民意下应为负相关 \(\frac{\partial PO_i}{\partial DT_i} &amp;lt; 0\)）。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.12.01/featured.png" />
+    </item>
+    
+    <item>
+      <title>Model for the Nations</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.11.24/</link>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.11.24/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;国际关系模型 
+    &lt;div id=&#34;国际关系模型&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%9b%bd%e9%99%85%e5%85%b3%e7%b3%bb%e6%a8%a1%e5%9e%8b&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;我想依葫芦画瓢构建一个类似于凯恩斯框架下的简单模型去描述国际关系，方法就是把最原始的宏观经济模型稍作无厘头的扩展。\(r_{ij}\) 表示国家 \(i\) 和国家 \(j\) 的国际出清关系（International Clearing Relationship，ICR），\(r\) 越大（姑且作一标量）关系越正面。（这也许可以计量，比如通过文本分析和情感分析，可以构造并量化国家之间官方媒体互相报道或高层互动事件的一个关系指数）&lt;/p&gt;
+&lt;p&gt;我们要多引入一些将被考虑的内生和外生变量，它们有一些类似于模块化拼装，可以纳入也可能在考察后认为不足轻重而舍去。除了熟知的 \(Y\) 产出、\(A\) 技术（这里将科教研究水平与技术合一视之了）、\(C\) 消费、\(P\) 价格水平、\(T\) 税收（及其它强制扭曲）等总量以外，我们还有 \(D\) 文化富合度（Cultural Affluence）（正面反映了闲暇和文娱时间；同时负向描述了种族、宗教冲突的程度）、\(W\) 民众福利（Welfare）、\(M\) 武装力量（Millitary Power）、\(U\) 意识介度（Consciousness Dissemination）（指出社会意见和思想的传播程度或多元程度；同时一定的反映政权或宣传机器的把控力量）等。还要介绍的有 \(ID\) 政治位移（Ideology），不称意识形态的原因是它可以不仅仅是衡量左右，而是一个可以在设定的多个意识评价标准下的多维空间里移动的一个矢量，其决定了政治和经济制度，特别反映在产权组织 \(PI(ID)\) 上（跟政府架构等有关，但核心归于 \(ID\)）。\(PI\)（Property Inequality）将政治光谱（空间）划分开来（或连续化），表示了“生产关系”（比如可以粗分为资本主义、社会主义等）及其导致的分配关系。再如 \(U\) 应该也与 \(ID\) 有关。&lt;/p&gt;
+&lt;p&gt;模型的假设（缺陷）包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;市场化（may not be free markets but there must exists an adjusting power not controlling）&lt;/li&gt;
+&lt;li&gt;不考虑预期，且无理性预期（no long-term expectation）&lt;/li&gt;
+&lt;li&gt;仅宏观政策（macroscopic open actions 即没有微观或暗面的操作，如针对个别企业的制裁或间谍行为）&lt;/li&gt;
+&lt;li&gt;无随机扰动（no stochastic terms 不包含概率成分，没有影响国际关系的黑天鹅事件）&lt;/li&gt;
+&lt;li&gt;不考虑能源、移民、生态环境等其他重要因素（only has political interest and economic interest / no key mesoscopic factors 不考虑关键中观领域的作用）&lt;/li&gt;
+&lt;li&gt;无阶层分化（no hierarchy 尽管有 PI 且纳入了分配结构，但并未分群体建模）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;影响国家决策的无非是两个方面：一边讲发展，一边要安全（就像投资决策的 \(\mu\) 和 \(\sigma\) 那样）。或者说，国际关系无非是 Benefit 和 Security 的综合作用（Inner &amp;amp; Outer）。不过我们这里要把原来的 IS-LM-BP model 说的详细一些，把 \(NX\) 拆开写为 \(NX_{ij}(e_{ij},Y_i,Y_j,r_{ij})\) 表示 \(i\) 国向 \(j\) 国的净出口。即有 \(NX_{ij}(e_{ij},Y_i,Y_j,r_{ij})\) \(=\) \(KF_{ij}(i_i,i_j,K_i,K_j,r_{ij})\)。注意实际上我们应分写进口 \(IM\) 和出口 \(EX\) 函数，鉴于双向大量贸易和几乎不贸易在净值上无法区别。总而言之：&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.11.24/featured.png" />
+    </item>
+    
+    <item>
+      <title>Meme Alive</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.07.28/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.07.28/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;流行的生命机制 
+    &lt;div id=&#34;流行的生命机制&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%b5%81%e8%a1%8c%e7%9a%84%e7%94%9f%e5%91%bd%e6%9c%ba%e5%88%b6&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;我想用一个 Prevalence 流行这个名词来一网打尽所有与人有关会重复出现的事物。后来想起模因论本身就比较契合——可以仿照从生命的角度来解释，但概念可以推的比 meme 更广泛一点，不仅仅是从一个人脑复制到另一个人脑的文化或语言事物（韦氏词典 meme: an idea, behavior, style, or usage that spreads from one person to another in a culture）。 比如一个人经常使用某个梗或沉迷某件事，他会在时间维度上呈现一个流行从兴起到爆发再到衰落的过程，不妨也认为是某种‘流行基因’的增殖。例子可以非常广泛，包括但不限于一项新技术的传播、一首榜单流行歌曲、一个微博热搜、以及传统模因论域中的如 ikun……&lt;/p&gt;
+&lt;p&gt;模因论指出的三要素为保真性 Fidelity、长寿性 longevity、多产性 Fecundity。流行依靠复制而生存，从这点来说其繁殖和生存，与一般生物不同，是强正相关的。但这个繁殖亦即传播有两种，一是本人的重复，二是人与人之间的传播。保真性并不排斥变异，相反流行的不断筛选演变的包装也是其作为生命的一个体现。说是生命的角度本质上仍然源于其繁衍具有生物的形态和过程——如单流行下的逻辑斯蒂方程。同理还可以研究多个流行的竞争和迭代，类似于生态系统中种群的竞争和共存；纳入群体传播的因素和一些统计学上的假定还可以研究群体流行的强度分布、方差的演变，回归得到不同社群的因子参数等等。需要指出的是，完整的演变还应描述种群的衰退，这通常由于时间增长后其激励不足（腻烦）即正反馈下降，从而热搜下跌，流行退流。&lt;/p&gt;
+&lt;p&gt;（&lt;em&gt;实证研究也尚未做。下面是一个简单的开头&lt;/em&gt;）&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.7.28.png&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.7.28%282%29.png&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[1] Richard Dawkins. The selfish gene. Oxford university press, 2016.&lt;/p&gt;
+&lt;p&gt;[2] Kleber A. Oliveira. Modelling meme popularity with networks. page 3558205 Bytes, 2023. Artwork Size: 3558205 Bytes Publisher: University of Limerick.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.07.28/featured.png" />
+    </item>
+    
+    <item>
+      <title>Introduction to Roll Theory</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.05.26/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.05.26/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;选课学导论 
+    &lt;div id=&#34;选课学导论&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%80%89%e8%af%be%e5%ad%a6%e5%af%bc%e8%ae%ba&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;（或许可以更广一些，所有带有一定公开机制、多人参与、多个选项且选项非全同的 game 都属于摇号论 roll theory 的研究范围，如房地产摇号、购车摇号、升学摇号等等）&lt;/p&gt;
+&lt;p&gt;鉴于🥚的绩点制度（省略一万字），如何选好课对于🥚的学生来说显得尤为重要。按照我目前（完全不成熟）的理论，分为三轮的选课只讨论第一轮。第二轮主要是开始那一刻一哄而上（可以视为是一种无 opening 的 roll，roll 的是网速），跟第三轮一样都有容量人数限制，不存在 roll 的过程。&lt;/p&gt;
+&lt;p&gt;这里空间太小，我只分享一些最初的想法。我们把一轮选课的 roll 机制视作单次的等注的完全的可以无限更改的 roll（必修课的模型符合程度会更高，毕竟有些选修课可能最后直接就不上了），每个人有一个预先的知识/信息（这个老师怎么样？）\(u_{0i}\) 表示\(i\)从1到n的所有 choices 的 priori scores，在 opening 即信息公开、众人博弈阶段的人数和课程容量分别为 \(x_i\) 和 \(c_i\)，这个预选概率为 \(p_i = c_i / x_i\)（可以大于1），它同样对决策起到影响——信息既有自己找的，也有通过人数反映的（从众？）——很明显不同人对二者偏倚程度不同，给出一个 \(s\) 以描述偏向 \(p_i\) 的程度。那么 posteriori scores 可以是一个函数 \(f(u_{0i},p_i,s)\) ，它带来的预期收益还要乘以roll上概率的作用——按照行为心理学（行为经济学），来一个概率加权函数 \(P(p_i)\) 是比较合适的（具体形式自行参考），如果简便起见直接理性人假设（大学选课还算接近？）那么就等于 \(p_i\)。\(f(u_{0i},p_i,s)\) 我暂时未经考证的猜测作 \(f = u_{0i}^{1-s} p_i^s\)。&lt;/p&gt;
+&lt;p&gt;那么每个人可以近似的认为追求效用最大化 \( u_i = f(u_{0i},p_i,s) P(p_i)\)（注意乘法是未经考虑的），\(\mathop{max}\limits_i \ u_i\) 的 choice \(i = i^*\)。进一步如果时间足够，可以解出群体的稳态解（或许不止一个）并视为达到稳态。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.05.26/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

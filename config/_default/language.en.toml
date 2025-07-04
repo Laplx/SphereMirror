@@ -1,0 +1,18 @@
+title = 'SphereMirror'
+
+languageCode = 'en'
+languageName = 'English'
+
+[params]
+  displayName = 'English'
+
+[params.author]
+  name = "SphereMirror"
+  email = "spheremirror@outlook.com"
+  image = "/img/author.png"
+  # headline = ""
+  links = [
+    { email = "spheremirror@outlook.com" },
+    { X-twitter = "https://twitter.com/SphereMirror" },
+    { github = "https://github.com/Laplx/SphereMirror" },
+  ]

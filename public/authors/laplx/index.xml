@@ -1,0 +1,1652 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Chen on 球面镜</title>
+    <link>http://localhost:1313/SphereMirror/authors/laplx/</link>
+    <description>Recent content in H. Chen on 球面镜</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
+    <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
+    <copyright>© 2025 SphereMirror</copyright>
+    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/authors/laplx/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Planck 公式在历史上是怎么诞生的</title>
+      <link>http://localhost:1313/SphereMirror/essays/planck/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/planck/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;Wein：热力学结合实验定律猜测 
+    &lt;div id=&#34;wein热力学结合实验定律猜测&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#wein%e7%83%ad%e5%8a%9b%e5%ad%a6%e7%bb%93%e5%90%88%e5%ae%9e%e9%aa%8c%e5%ae%9a%e5%be%8b%e7%8c%9c%e6%b5%8b&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;1896，Wien 考虑缓慢膨胀的球体中的单频平衡辐射场，由多普勒效应&lt;/p&gt;
+&lt;p&gt;$$
+\nu / T = Const
+$$&lt;/p&gt;
+&lt;p&gt;结合 Stefan-Boltzmann 的结果，平衡辐射场的能谱应为&lt;/p&gt;
+&lt;p&gt;$$
+u d\nu = \nu^{3} f(\nu/T)
+$$&lt;/p&gt;
+&lt;p&gt;结合实验规律，猜测未知函数为指数形式&lt;/p&gt;
+&lt;p&gt;$$
+u d\nu = c_{1} \nu^{3} e^{ - c_{2} \nu / T }
+$$&lt;/p&gt;
+&lt;p&gt;这个公式对实验的符合结果不错，替代了之前一系列猜的公式。&lt;/p&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Rayleigh：从电磁和统计的理论出发 
+    &lt;div id=&#34;rayleigh从电磁和统计的理论出发&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#rayleigh%e4%bb%8e%e7%94%b5%e7%a3%81%e5%92%8c%e7%bb%9f%e8%ae%a1%e7%9a%84%e7%90%86%e8%ae%ba%e5%87%ba%e5%8f%91&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;1900，Rayleigh 不满 Wein 的结果没有电磁相关基础，考虑一个电磁方腔，内部所有允许的电磁驻波构成了一系列振子，某个频率附近的振子数 \(\frac{8\pi}{c^3} V \nu^{2} d \nu\)。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/planck/featured.png" />
+    </item>
+    
+    <item>
+      <title>实分析（上）</title>
+      <link>http://localhost:1313/SphereMirror/notes/real-analysis/part1/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/notes/real-analysis/part1/</guid>
+      <description>&lt;p&gt;
+
+$$
+\int f d\mu
+$$&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/real-analysis/part1/featured.png" />
+    </item>
+    
+    <item>
+      <title>随机分析（上）</title>
+      <link>http://localhost:1313/SphereMirror/notes/stochastic-analysis/part1/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/notes/stochastic-analysis/part1/</guid>
+      <description>&lt;p&gt;
+
+$$
+F. \langle M\rangle
+$$&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/stochastic-analysis/part1/featured.png" />
+    </item>
+    
+    <item>
+      <title>色彩科学</title>
+      <link>http://localhost:1313/SphereMirror/notes/color-science/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/notes/color-science/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;Luminance 
+    &lt;div id=&#34;luminance&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#luminance&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;我们看到颜色是因为物体发出或反射了光。颜色是光在频率和功率上的分布特征。我们知道可见光波段是 380nm - 780nm，由紫经过蓝、绿、黄至红，这是单个波长光在人眼产生的响应。一些物体的颜色是因为它发出了对应波长范围的光，如烧红的铁水、白炽灯丝，它们是热辐射，服从 Kirchhoff 的辐射定律（理想黑体则是 Planck 公式）；此外 LED 显示屏、荧光灯、激光均非热辐射，能量来自于电能、化学反应、跃迁等。更多的物体是吸引了其他波段而反射了特定的颜色；彩色玻璃则是只留下特定颜色的光通过。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;色温指发出与此光相似的光的黑体所具有的温度，根据 Planck 算得黑体辐射光谱，100K - 12000K 大概是红 - 橙 - 黄 - 白 - 浅蓝，因此讨论绿色等颜色的色温是无意义的。常见的有 2800K 白炽灯、5500K 平均日光（如出版）、6500K 国际标准日光白（如显示）等。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;色温&#34; src=&#34;./%E8%89%B2%E6%B8%A9.png&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;人眼通过视网膜上的视锥细胞（S、M、L，对应峰值响应波长蓝、绿、红）和视杆细胞（Rod）感知光线。人眼有局部适应性，一个颜色缓慢轻微调暗并不一定能察觉；Weber 定律表明，\(\frac{\Delta I}{I} \approx \text{Const.}\)（1% – 2% 在明视觉下），即变化的感知阈值与背景相关。此外还有亮度适应与色度适应（色恒常性），前者指视杆细胞和视锥细胞会动态调整敏感度，暗处时视杆细胞主导，明处时视锥细胞主导；后者指视锥细胞对特定波长光的敏感性随时间减弱，大脑会自动校正颜色感知，如走到略昏黄的房间里一会后可能会将照得略黄的墙壁认作白色，或长时间看红色东西后转向白墙会看到青色的补色块。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;光强&#34; src=&#34;./%E5%85%89%E5%BC%BA.png&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;人类&#34; src=&#34;./%E4%BA%BA%E7%B1%BB.png&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;对于光亮度感知，显然看起来不可能（同功率下）各个波长都一样。因此我们实验测定了明视觉亮度函数（视效函数）\(V(\lambda)\)，在 \(2\degree\)视角、明视觉条件下平均人眼匹配不同波长光的明暗感觉得到。这个函数在约 555nm 处取到最大视效 \(V_m = V(555\text{ nm}) = 683 \text{ lm/W}\)（故人眼对绿光最敏感）；如果我们除以 \(V_m\)，将该点置一就得到我们常用的视见函数，仍记作 \(V(\lambda)\)（自然可见是否带这个常数因子不重要，后面自行知道即可）。（暗视觉 \(V&amp;rsquo;_m = V&amp;rsquo;(507\text{ nm}) = 1700 \text{ lm/W}\)）&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/color-science/featured.png" />
+    </item>
+    
+    <item>
+      <title>共轭梯度法（CG Method）</title>
+      <link>http://localhost:1313/SphereMirror/notes/numerical/cg/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/notes/numerical/cg/</guid>
+      <description>&lt;p&gt;
+
+如果初始点的选择不好或者函数行为不好时，最速下降法可能并不理想。我们先从几何和直觉上展示共轭梯度法，同时可以在后文理清数学逻辑后再来看看这两张图。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;CG&#34; src=&#34;./CG.jpg&#34;&gt;
+
+  
+    &lt;figcaption&gt;CG Sketch for memory&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;对于精确线搜索，最速下降法的前后两步的下降方向必定是垂直的，从而导致了可能的 zigzag 现象。共轭梯度法所选择的共轭方向 \(p_i\) 更加具备全局性；例如图中的二次函数 \(f=\frac{1}{2}x^\prime Ax-b^\prime x,\ \nabla f = Ax-b\)，第二步的方向一定指向最优点 \(Ax^*=b\)。右图可见共轭方向并不一定垂直，而是 \(A\) 意义下的垂直：\(p_i^\prime Ap_j = 0,\ i\neq j\)。注意到对于 \(A\in \mathbb{S}_+\)，易证这一组 \(\{p_i\}_{i=1}^n\) 线性独立，我们希望逐步获得 \(x^*\) 在这组基上的表示。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;我们先考虑线性版本（即上面的 \(f\)）。&lt;/p&gt;
+&lt;p&gt;$$
+\dots \overset{p_{i-1}}{\longrightarrow} x_i \overset{p_{i}}{\longrightarrow} \dots
+$$&lt;/p&gt;
+&lt;p&gt;假装我们能获取每一步的搜索方向 \(p_i\)，那么由精确线搜索知 \(p_i \perp -\nabla f_{i+1}\)，其中 \(\nabla f_{i+1} := \nabla f(x_{i+1})\)，且 \(x_i = x_0 + \sum_{j=0}^{i-1}\alpha_j p_j\)，\(\alpha_i\) 记步长。&lt;/p&gt;
+&lt;p&gt;同时我们可以直接得到一个关于搜索步长的表达式，对 \(f(x_i + \alpha_i p_i) = g(\alpha_i),\ g^\prime (\alpha_i) = 0\) 得到&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/numerical/cg/featured.png" />
+    </item>
+    
+    <item>
+      <title>Geometric Hermeneutics</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/25.01.10/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/25.01.10/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;语言的几何学阐释 
+    &lt;div id=&#34;语言的几何学阐释&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%af%ad%e8%a8%80%e7%9a%84%e5%87%a0%e4%bd%95%e5%ad%a6%e9%98%90%e9%87%8a&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./25.1.10.jpg&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h4 class=&#34;relative group&#34;&gt;Meaning 
+    &lt;div id=&#34;meaning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#meaning&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h4&gt;
+&lt;p&gt;我们不能理解完全不依靠&lt;strong&gt;现实&lt;/strong&gt;的意义。（现实指的不一定就是真实存在发生的，而是一种类似生活经验的东西）所有的意思（意义，关于另外一种 “意义” 见下一小节）都指代了一系列可能的现实世界过程（称作&lt;strong&gt;宇宙&lt;/strong&gt; \(u\)）。某一时刻的宇宙 \(u(t)\) 称作世界，是一系列状态信息的集合（能想象到的所有信息都可以如此纳入）\({\pi^1,\pi^2,\dots}\)（暂时先把不可数的打包在一起，写成可数的形式；注意我们可以想象虚空中的抽象状态，但它仍然是一个与其他事实状态无二的东西）。一个半宇宙（前向/后向宇宙）指 \({u_t}&lt;em&gt;{t\ge 0}\) 或 \({u_t}&lt;/em&gt;{t\le 0}\)，包含一个给定的始终点 \(u_0\)。注意我们目前没说 \(u(t)\) 随时间的变化满足一定的规律（比如 Newton&amp;rsquo;s Law），它允许了一切天马行空的假设与想象力。所有这些平行宇宙的集合 \(\mathcal{O}\) 称作&lt;strong&gt;客观集&lt;/strong&gt;，鉴于它们都是思考的对象（因此可能可以认为启蒙运动是在扩展客观集）。建模时状态是&lt;strong&gt;外禀&lt;/strong&gt;的；例如总有人知道电场的存在，有人的世界里是不知道的（“因为太愚昧或太聪明而获得自由的幻象” 亨利·詹姆斯《使节》）。对于某个读者来说，他所能理解的一切宇宙集合记作&lt;strong&gt;知识域&lt;/strong&gt; \(\mathcal{K}=\hat{\mathcal{O}}\)。但这里面有一些宇宙大概是符合一些规律的，我们把符合该规律的集合称作&lt;strong&gt;真域&lt;/strong&gt; \(\mathcal{T}\)；同样，比方说或许有人眼里 Newton&amp;rsquo;s Law 和大家的不一样，故每个读者都有自己认为的真域 \(\mathcal{U}=\hat{\mathcal{T}}\)。&lt;strong&gt;意思空间&lt;/strong&gt; \(\mathcal{M}=\mathcal{P}(\mathcal{O})\)，真理空间 \(\mathcal{M}_T=\mathcal{P}(\mathcal{T})\)。意思之间存在包含关系 \(m_1\subset m_2\)；空/&lt;strong&gt;无知&lt;/strong&gt;意思点 \(0\in \mathcal{M}\) 表示全集背景，无穷远/&lt;strong&gt;未知&lt;/strong&gt;意思点 \(\infty\) 代表空集，其没有任何可理解的意义。&lt;/p&gt;
+&lt;p&gt;我们可以对意思之间进行简单的运算，包括&lt;strong&gt;反义&lt;/strong&gt; \(m^c\)、&lt;strong&gt;且（独立）&lt;/strong&gt;\(m_1\cap m_2\)、&lt;strong&gt;或&lt;/strong&gt; \(m_1\cup m_2\)。如果 \(m_1, m_2\) 对应的文本是 \(w_1, w_2\)，总文本 \(w=w_1w_2\) 对应的（作者的）意思是 \(m\)，\(m\) 不一定是 \(m_1\cap m_2\)。&lt;strong&gt;顺序和&lt;/strong&gt; \(m_1+m_2\)，我们需要定义嵌入映射 \(\phi:u \mapsto u^+/u^-\) 将时间压缩进半宇宙内，以实现时间上的先后关系，故 \(m_1+m_2\) \(={u\in m_1\cap m_2: \exists \phi_1,\phi_2,u_1\in m_1,u_2\in m_2 \text{ s.t. }u=\phi_1(u_1)+\phi_2(u_2)}\) 对应于顺叙的文本 \(w\)。（对于始终点的衔接问题，设想一群在 \(T\) 后就暂停演化的宇宙；即使受到真视域的限制，注意到人脑中状态序列的有限性和模糊性，这一点仍然可以成立。）&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/25.01.10/featured.png" />
+    </item>
+    
+    <item>
+      <title>Attempts at Symmetry in Game</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/24.08.02/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.08.02/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;关于对称性的类比尝试 
+    &lt;div id=&#34;关于对称性的类比尝试&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%85%b3%e4%ba%8e%e5%af%b9%e7%a7%b0%e6%80%a7%e7%9a%84%e7%b1%bb%e6%af%94%e5%b0%9d%e8%af%95&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;讨论的对象仍然是博弈。起因是我看到国自然基金的 Fundamental Research 发了一篇用群论研究博弈论当中对称性的文章&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;，小吃一惊，原来已经有一少部分人关注这个想法了，于是连忙把自己许久以前想过的冷饭翻出来硬炒。&lt;/p&gt;
+&lt;p&gt;我将引入准则 \(C(G,\tau): \mathbb{S} \rightarrow 2^{\mathbb{S}}\)，为一集值函数，以表示在给定某一策略下在某节点该参与者认可的最优策略集合（常见有 \((r)\)、\((rB)\) 等，具体前摇可参考我的 Game Theory 笔记）。其在策略空间 \(\mathbb{S}\) 上作用的稳定集 equilirium 即 \(\Pi_C={S\in \mathbb{S}|S\in C(G,\tau;S),\forall \tau \in \mathscr{T}}\)。我们还可以对准则函数进行一系列变换，以方便各方面如对动态博弈的研究；常用的算子包括均衡算子 \(\Pi/\text{Eq}\)、上/下序贯算子（分别向下/上节点至支付/根节点取交集）\(\text{S}^\text{q}&lt;em&gt;iC(G,\tau)=\bigcup\limits&lt;/em&gt;{\tau&amp;rsquo;\in\tilde{\tau},\rho(\tau&amp;rsquo;)=i}C(G,\tau&amp;rsquo;),\text{S}&lt;em&gt;{\text{q}i}C(G,\tau)=\bigcup\limits&lt;/em&gt;{\tau\in\tilde{\tau&amp;rsquo;},\rho(\tau&amp;rsquo;)=i}C(G,\tau&amp;rsquo;)\)、一致算子（严格序贯）\(\zeta_i=\text{S}^\text{q}&lt;em&gt;i \text{S}&lt;/em&gt;{\text{q}i}, \zeta=\zeta_1\cdots\zeta_m\)、排除算子 \(\delta\)（剔去某些选择最优的可能性）、边缘算子 \(\partial\)（取像单纯复形的边界）。\(\zeta C\) 一定是序贯/一致准则。特别提及一致反应准则（总准则） \(\mathscr{R}C=\bigoplus\limits_{i\in{1,\cdots,m}}p_i\cdot\zeta C\)（\(p_i\) 为对参与者 \(i\) 策略子空间的投影），接下来的 \(C\) 均指总准则。依照其像的关系和操作我们还可称 \(C_1\subset C_2\) 若 \(\forall S, C_1(G,S)\subset C_2(G,S)\)，即 \(C_1\) 是 \(C_2\) 的精炼；合并（且/或）准则 \(C_1\cup C_2\)、\(C_1\cap C_2\)（或写 \(C_1C_2\)），且有 \(\Pi_{C_1\cap C_2}=\Pi_{C_1}\cap \Pi_{C_2}\) 等；同胚准则 \(C_1(G_1)\cong C_2(G_2)\) 若 \(\exists \text{ homeo. }\phi :\mathbb{S}_1\rightarrow \mathbb{S}&lt;em&gt;2\)\(\text{ s.t. }\forall S_1,\phi|&lt;/em&gt;{C_1(G_1,S_1)}\text{ is a homeo. onto }C_2(G_2,\phi(S_1))\)。注意准则同样可被视为算子，作用于平凡算子 \((1)\) 上（\(\Pi_1=\mathbb{S}\)），再如 \(rC\) 即表示对原本的 \(C\) 取符合纳什理性选择的交集。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.08.02/featured.png" />
+    </item>
+    
+    <item>
+      <title>Ludology</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/24.07.12/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.07.12/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;游戏论 
+    &lt;div id=&#34;游戏论&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%b8%b8%e6%88%8f%e8%ae%ba&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;之前与同学聊到怎么算第一性原理出发的视角，他的观点大概是“演绎而非归纳”；于是正好实操一下，打算选取三个事物，以它们为对象展开论述。这是第一篇（后续有时间再写），就来试试游戏吧。（可惜我玩过的游戏并不多，甚至很缺乏经验，最可笑的是也没去游戏公司了解过，却在这里夸夸其谈起来了……）&lt;/p&gt;
+&lt;p&gt;我把游戏论分成三个部分，游戏理论 game theory、游戏设计 game design、游戏产业 game industry；后两者算是应用，限于精力不会有很多笔墨。Game theory 也是博弈论，因为我把游戏也放到一个博弈的框架里去。&lt;/p&gt;
+
+&lt;h4 class=&#34;relative group&#34;&gt;Game Theory 
+    &lt;div id=&#34;game-theory&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#game-theory&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h4&gt;
+&lt;p&gt;在开头首先完成两件大事，给游戏下定义和给游戏分类。（目前没有任何公认的定义和体系一点的分类；对一个比较日常化的词语下定义本身就需要摒弃一些东西、规范一些东西，不过只要这个方式合理且好用即可。）&lt;/p&gt;
+&lt;p&gt;大部分已有的某些人士（Roger Caillois, Bernard Suits, Elliot Avedon, etc.）所述的定义较为狭窄，可以被下面所容纳；另一部分的论述过于简单宽泛（Eric Zimmerman, etc.），且含糊不清或偏颇，有些是从人的感受角度来谈的，更不方便于定义操作。我借鉴了 Chris Crawford 的定义（但他的过于复杂）：（分三步走）&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;一个娱乐活动。It&amp;rsquo;s a recreational activity. 活动表示它需要专门付出独立的时间投入；娱乐一词仍然较口语化，其表示它通过内部虚拟的经历给予人体验，亦即用 inner rewards 替代外部真实生活经历当中的 rewards。如果不具备这个性质，那么它只是一个活动（如真实世界中的博弈）。&lt;/li&gt;
+&lt;li&gt;有互动。It has interactions. (Or it&amp;rsquo;s changing.) 在这种情况下我们才称之为玩耍 playing；否则如漫画书、电影，它们是没有互动的娱乐活动，它们不是游戏。&lt;/li&gt;
+&lt;li&gt;有目标/内部奖励。It has goals or inner rewards. 否则我们称其为玩具 toys。玩具不会因为你的小球滚到了恰当位置就给你吐出游戏币。这里需要提到一个特殊的游戏分类\(【C】\) creation games，其中一大子类为 Sandbox 沙盒游戏，e.g. Minecraft 我的世界、Simcity 模拟城市；它们本质上应属于玩具，鉴于没有任何内置的奖励和要达成的目标（不考虑任务、成就的话）；但由于习惯原因，大家通常仍称作游戏。除此之外，存在 inner rewards 的，才被称为游戏 games。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;注意道具 props 是游戏进行需要使用的辅助物体存在；从玩家上分，游戏可以分作\(【P】\)player-machine 单人的、\(【MP】\)multi-players 多人的（是否单机还是多机联机并不如参与者数量来的重要）；从形式上分，可以分作\(【E】\)electronic 电子的（包括 video games 电子游戏，还有 handheld、standalone system games，e.g. Slot machine 老虎机）、\(【NE】\)physical 物质的，其中 physical games 可能会使用道具。\(【NE】\)可进一步分为 Tabletop 桌面游戏（e.g. Go 围棋、Tic-tac-toe 井字棋、Avalon 阿瓦隆、Catan 卡坦岛）和 Motion 运动游戏（e.g. Hide-and-seek 捉迷藏），区别在于玩家的物理动作是否对游戏的 rewarding 产生影响。我们会比较关注电子游戏。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.07.12/featured.png" />
+    </item>
+    
+    <item>
+      <title>Regression on Channel</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/24.04.26/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.04.26/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;回归在信道上 
+    &lt;div id=&#34;回归在信道上&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%9b%9e%e5%bd%92%e5%9c%a8%e4%bf%a1%e9%81%93%e4%b8%8a&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;（这是一个很蠢的想法……可以来抠一下是否成立或者说条件在哪里）&lt;/p&gt;
+&lt;p&gt;我们假想我们做的回归 \(Y\) 对 \(X\) 其实由一个高斯信道 \(X\rightarrow Y\) 把控。如果事实上机制就是这样，那么估计的信道容量会趋向真实值 \(\hat{C}\rightarrow C=-\frac{1}{2}\ln(1-R^2)\)，这也是最大可能达到的码率——这里就有事了，我们正是依靠\(X\)的行为传递的信息去判别\(Y\)​。&lt;/p&gt;
+&lt;p&gt;若连续变量 \(X\) 确实按照高斯分布，那么理论上我们能无限量的发出信息；但这并没有用，鉴于信道的限制，我们相当于以至少存在 \(D_{min}=\sigma_X^2(1-R^2)\) 的均方误差进行测量。（\(R(D)=\frac{1}{2}\ln\frac{\sigma_X^2}{D}&amp;lt;C\)）&lt;/p&gt;
+&lt;p&gt;如果形式的分组（就像处理微分熵那样），那么我们有 \(\lfloor \frac{1}{\sqrt{1-R^2}}\rfloor\) units。于是相关系数 \(R\ge \frac{\sqrt{3}}{2}=0.866\) 尚才1个bit的定性判断。否则在样本量趋向于无穷时候，结果落在典型集中的概率会趋向于0，亦即此时用以预测其实跟打奖没什么区别呃呃。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.04.26/featured.png" />
+    </item>
+    
+    <item>
+      <title>How Wenzhou Develops</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/24.02.02/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.02.02/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;温州，如何介绍你？ 
+    &lt;div id=&#34;温州如何介绍你&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%b8%a9%e5%b7%9e%e5%a6%82%e4%bd%95%e4%bb%8b%e7%bb%8d%e4%bd%a0&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;我之前有想给家乡作个小介绍。但作为一个城市名的“温州”，它在指什么？我应该说些什么呢？是这片土地区划上历来发生的故事、社会和人们吗？对于一个生长在其他地方风物里的人，他能从一个与之无甚关系的城市中看到什么？&lt;/p&gt;
+&lt;p&gt;如果这是一个城市推荐短篇，我们会想要尽量包罗万象的展现它的方方面面，那么历史、政治、经济、文化、风俗、饮食、地理、名人名胜等都应分点展开简述。但我想聚焦在一些让温州成为当下人们口中的“温州”的东西——一部关于温州的现代的发展史。&lt;/p&gt;
+
+&lt;h4 class=&#34;relative group&#34;&gt;山水，人间 
+    &lt;div id=&#34;山水人间&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%b1%b1%e6%b0%b4%e4%ba%ba%e9%97%b4&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h4&gt;
+&lt;p&gt;介绍的起点从名字开始。温州的温，正得名自“温润”之意，冬无严寒夏无酷暑（虽然确实十来年才下一次雪，但夏天我觉得挺热的）；简称“瓯”，古有“瓯越国”“东瓯国”。“瓯”字大概来源于方言的“岙”，这就不得不提到一些东南沿海地名的常用字了，例如岙、澳、埠、垟等；其中澳义同岙，指山间平地或海边港湾，地形表现为三面被山丘包夹，一面向平原或者近海敞开。（丘陵山地的岙，因为耕地面积较多且肥力较强，往往形成村落。）&lt;/p&gt;
+&lt;p&gt;如果要概括温州的景观，“山水诗画”恐怕非常合适（尽管不少城市都可以如此概括）。&lt;/p&gt;
+&lt;p&gt;这里的山水，不单单是旅游的去处，而是山城相拥、陆海交融，作为构成温州肌理的主要部分、无处不在的。东南丘陵延绵不断在东海及海峡之滨，其中的雁荡山脉，从北雁荡山至南雁荡山，横贯了温州南北。瓯江、飞云江、鳌江三条水流从其中发源并入海，它们产生了三片温州主要的城镇——瓯江的市区，江北部是永嘉和乐清，北雁荡的山峦奇耸，向南则有吹台山和大罗山；两座大山的南部是瑞安市区、飞云江和平阳；再向南跨过棋盘山和古盘山，是鳌江和龙港，由此向南至浙闽边境的山脉为止。东部面向茫茫东海，有洞头列岛、南麂列岛等大量岛屿散布；西部则是绵叠高耸的群山，泰顺和文成两个山区县海拔均在六百米以上。&lt;/p&gt;
+&lt;p&gt;诗指的是瓯江中心的江心屿，自诩“中国诗之岛“，流传了众多文人墨客的诗句和楹联；足迹至此的首先当属晋时的王谢二家，尤以谢灵运职居永嘉为最。画指的是《江山胜览图》。名人就不介绍了，比如“数学家之乡”啥的。&lt;/p&gt;
+&lt;p&gt;这是一个封闭的地理格局，三面围山，一面朝海。温州现保留了一块三垟湿地，要知道原本湿地（市区的被填了）、滩涂和小山（市区的被削了）遍布，源于海潮淹没。同样棘手的还有台风，如94年17号台风（全市淹没1.5米以上）、06年的桑美，在昔日造成的经济损失非常之大。平阳有个镇叫“水头”，据说就是因为“涨水时能没过头”。&lt;/p&gt;
+&lt;p&gt;由于进出不便，温州过去的交通自然是非常落后，直到1998年才开通第一条铁路（彼时浙北铁路都已经百年了），之前从省会杭州坐车到温州至少需要12个小时。&lt;/p&gt;
+&lt;p&gt;得益于艰阻封闭的环境，内部的市井生活必然自我繁盛起来。时至今日，温州的科教文卫水平、服务业占比（56%）等在普通地级市内仍属较高水平。&lt;/p&gt;
+&lt;p&gt;当然，它是一座港口城市（23年考古十大发现的温州朔门古港，成为海上丝绸之路重要证明），同泉漳、潮汕等地相似，温州还受到了的浓厚的海洋文化的浸染；虽然水文条件并不算上佳，但仍然从古代开始便拥有大量的贸易往来和走私。面朝大海的格局使得它既能接受外来文化，吸收之后又将其囤积在这个地方，同时具备了开放和保守的一面。&lt;/p&gt;
+&lt;p&gt;古代的永嘉学派，为浙东学派的先导学派，代表如南宋的叶适，重功利之学，倡导“义利并举”。这些思想也映证了当地手工商业相对而言的持续发达。近代则有许多传教士前来传播宗教。这是个很有意思的现象，温州是神学和人类学田野调查的标本。到1949年以前，温州地区已经有7万多新教信徒，占全国的十分之一 [1]；直到今天，温州仍是中国各种教堂最多的地方，柳市镇还有国内最大的基督教堂（北大社科院19年的研究估计基督教徒占比不低于15%）。宗教行为还会进一步影响其他社会经济行为 [2] [3]，温州后来民间借贷的兴盛极可能与宗教的高度存在有关联。宗教信仰可能会增大家庭对正规金融排斥的概率，建立在宗教关系为基础彼此信任上的社会资本在改革开放初期扮演了重要的作用。温州的仪式经济、企业家的慈善行为也是一个已有研究的现象 [4]，被指受政治和宗教信仰影响。&lt;/p&gt;
+&lt;p&gt;同样强大的还有宗族的力量。宗祠在温州也属于常见品，大规模兴盛始于明初至清嘉靖年间，后趋于稳定。常闻“家族式炒房”、“老太太银行”，可见亲戚关系在借贷、集资方面发挥了举足轻重的调配作用。&lt;/p&gt;
+&lt;p&gt;不仅社会结构偏保守，社会规模也不容小觑。关注统计数字的人可能知道，温州有一个很大的人口数量，建国时温州便已是人口第一大市（如1982年三普时温州602万，杭州526万）（现常住人口远小于杭州，与宁波相差无几），为什么呢？&lt;/p&gt;
+&lt;p&gt;主要原因应该是清末太平天国运动的冲击，苏南浙北成为其与清政府反复争夺的区域。浙江大多数地区都受到了太平天国的影响，人口损失严重，尤以北部的杭嘉湖为甚（传说有几个县城几乎夷为荒地）（湖州的方言岛现象正是此后招垦迁补移民带来的），而偏僻的温州成为少数未受战乱波及之处，吸引了大量人口迁入避难。更早一些，受沿海倭乱和海禁的影响，福建一带曾大规模移民至温州，带来了分布在浙南的闽南语区（分类上属闽语泉漳片）。&lt;/p&gt;
+&lt;p&gt;温州是七山二水一分田，耕地缺乏、土壤不佳，无法自给自足，同时地形的封闭大幅阻隔了劳动力的流动，致使贫困率维持在高水平（16年仍然有五县属于省级贫困县）。贫困和生育率之间的机制暂不详述，但大概率也具有一个高生育率水平。印象里改开前一度有很多人需要到江西去讨饭吃。&lt;/p&gt;
+&lt;p&gt;营生的渴望促使人们飘洋过海，外出经商。这些海外汇来的“第一桶金”大概帮助了温州人实现资本原始积累，此后得以在改开初期迅速扩张生产。可考的至少从清末民国就已经有大量在欧洲大陆的温州、青田（现属丽水）人。浙南的侨乡移民模式多为家庭团聚式，从事进口商品批零等，具体可参考相关移民社会学研究。&lt;/p&gt;
+&lt;p&gt;温州的排外、“优越感”似乎也是很出名的。这有两个因素：一是前面说到的，社会保守，地理封闭，流入也以劳动用工等低技术类为主；二是纯粹的内生性问题，这就像为什么整个江浙沪都被说成排外一样，因为这些地方人口流入多。自然感受到排外的程度、宣称其排外的声音都会更高。&lt;/p&gt;
+&lt;p&gt;正好对地域问题说两句。我想地域的讨论要存在，那么必须存在并接受集体特征的刻板印象。刻板印象由一些元素共同构筑，它放大媒体报道的那些极值并将其固化下来；而这个最猛烈的形成期正是大规模的人口迁移期，如90年代、杭州的2015年之后。温州的“血汗工厂”、“精明奸商”，乃至浙江的小商品、小老板、互联网等关键要素都以此形成，并开始在网络上游走争论，不断得到强化。&lt;/p&gt;
+&lt;p&gt;远离中心城市群、位于台海前线、地理封闭、土地贫瘠，几个因素共同导致了温州处于政策边缘的位置。国家的长三角建设和海西建设的众多文件里，处在交界地带的温州反复出现又消失，可见一斑；从建国到改开前，温州获得的投资尚不及宁波的四分之一。这一空白留待当地的人在改开后野蛮生长，拼命弥补。&lt;/p&gt;
+
+&lt;h4 class=&#34;relative group&#34;&gt;小商品，大市场 
+    &lt;div id=&#34;小商品大市场&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%b0%8f%e5%95%86%e5%93%81%e5%a4%a7%e5%b8%82%e5%9c%ba&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h4&gt;
+&lt;p&gt;“小商品，大市场”由曾三访温州的费孝通先生提出，即“温州模式”（此外还有“苏南模式”“珠三角模式”）。这一经验在80年代掀起了全国关注和学习的热潮，前往温州的车一度被各地官员考察团队买到供不应求。模式被描述为家庭生产、专业市场、无为政府。前店后厂成为了街头标配，带着制品到各地扩展市场的传销员人数庞大。&lt;/p&gt;
+&lt;p&gt;改开的春风袭来，民间的势头生发迅猛，自下而上，地方亦予以了肯定与支持；就这样鹿城区颁出了中国第一张个体工商业营业执照。温州走上了个体私营、股份合作制经济的发展道路。&lt;/p&gt;
+&lt;p&gt;浙江的许多县域、村镇都凭借专业化的特色产业集群发展，温州当时有诸如桥头纽扣、永强阀门、塘下汽摩配、柳市低压电器、萧江塑编……因此涌现了所谓“中国鞋都”“中国泵阀之都”“中国纽扣之都”“中国汽摩配之都”等等一众招牌（现在来看几乎都是盛名之下，其实难副了）。&lt;/p&gt;
+&lt;p&gt;举个例子，原本进口单价至少4元的电子打火器，温州工坊自制最初只需2元左右，规模生产后价格进一步降到0.3元以下。（入世第一案即发生在此，2002年欧盟对中国出口的打火机进行反倾销立案调查，但最终官司取得胜利，温州烟具行业协会这一民间团体功不可没——尽管没阻止住欧盟两年后再次通过）&lt;/p&gt;
+&lt;p&gt;考虑到当时的环境，姓资姓社等争论不休（基本要到94年十四届三中全会才尘埃落定），这些种种仍然过于超前或“资本主义”了。与“傻子瓜子”类似（傻子瓜子雇佣了百来名员工，被当作资本主义典型告到邓那里，最终拍板放过），“八大王”事件（包括五金大王胡金林在内的八位个私经济领头人以“投机倒把罪”被捕，沉重打击兴起的家庭工业，后平反）也是一场思想上的风波，温州模式的一次破壳。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.02.02/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Infinite Turing Machine</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/24.01.26/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.01.26/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;无限图灵机 
+    &lt;div id=&#34;无限图灵机&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%97%a0%e9%99%90%e5%9b%be%e7%81%b5%e6%9c%ba&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;（本篇内容倒是很久以前就酝酿在脑子里了……只是一个乱七八糟的猜想，请当我是疯子罢……我发誓再也不搞了，这样下去要变民科叻）&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./24.1.26.jpg&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;人类已经有很多关于超计算机的设想（超越图灵屏障），并对人脑是否可由机器模拟这类问题悬而未决。&lt;/p&gt;
+&lt;p&gt;我想试探性把可计算性和不可计算性（不完全地）对偶起来。我认为二者是可以互相涌现的。因此饼的右半部分需要定义一个新的称作无限图灵机 ITM（Infinite Turing Machine），它可以是有无限个带的图灵机、带有概率论意义上的随机的图灵机，或是无限个确定图灵机组成的网络（需要一个函数 \(F\) 来刻画其中的输入输出连结关系），我认为它们是等价的（!）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Church-Turing Thesis:&lt;/strong&gt; A function can be calculated by an effective method if and only if it is computable by a Turing machine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dual Church-Turing Thesis:&lt;/strong&gt; A relation can be understanded by an effective way if and only if it is realized by a infinite Turing machine.&lt;/p&gt;
+&lt;p&gt;\(RE\) 表示全部图灵可识别语言（Chomsky 形式语法 type-0），\(TE\) 表示 Turing Emergenable（大概需要一个自然语言的语法层级），全部图灵可涌现识别的语言。对应通用图灵机 \(\mathcal{U}\) 的为通用无限图灵机 \(\tilde{\mathcal{U}}\)。（由于至少一种图灵机 \(M_\infty\) 有无限个，我们需要指明输入参数、算法指派的模式作为在无穷网络上的输入。）不仅 \( \tilde{\mathcal{U}} = F(\mathcal{U})\)，\(\mathcal{U} = F(\tilde{\mathcal{U}})\)​ 亦成立。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.01.26/featured.png" />
+    </item>
+    
+    <item>
+      <title>Astrofinance</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/24.01.19/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.01.19/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;天体金融学 
+    &lt;div id=&#34;天体金融学&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%a4%a9%e4%bd%93%e9%87%91%e8%9e%8d%e5%ad%a6&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;（这个名字大概也不恰当……呃但是我总是沿用最开始的称呼）（其实这周的内容是某种异世界的构想……在我能搜索到的范围内未发现有人研究了这方面嘎嘎）&lt;/p&gt;
+&lt;p&gt;假设未来的有一天人类已经发展到了整个庞大的星系，星球相互之间的距离甚至要以光年来计算，同时人类开发出了可以与光速量级比拟的高速飞船进行交通；自然会出现很多跨星公司，也需要一个星际的金融系统。让我们来明确一下其运行的逻辑。&lt;/p&gt;
+&lt;p&gt;首先需要刻画一下这个星际系统。我想所有人类社会依存或居住的地方都可以分为三类状态：静止 static，旋转 rotating，交通 transporting（即从A星系往B星系去）。（总之不能无限制跑远吧）（可以相对于自身所处的参考系而言，也可以统一对于如地球而言）&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./24.1.19.jpg&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;假设琉球 Rover 负责在地球 Earth 和天狼星 Sirius 之间往复运输，它可能是个飞船（那也应该是相当巨大的社会生态系统了），或者人们已经能够熟练的操纵星球来回流浪……&lt;/p&gt;
+&lt;p&gt;鉴于相对论的效应，不同速度下的时间流逝是不同的。如果将来的体系仍以地球为中心（也许不是了），我们可以这样来表示 Rover 系的状态：用运行正方向在天球上的指向加上其速度 \(\gamma\) 值，Sirius \(\gamma=\frac{5}{4}\)（或 \(\alpha\ CMa\ 1.25\)）；准确可写为 (06h45m08.9173s, −16°42′58.017″, 1.25)，使用赤经赤纬（GEI Celestial Coordinates）。不同星球上都有着自己正常运转的社会，有自己正常的时间历法，但为了自由大市场，均统一采用年-月-日-时-分-秒的形式。一般来说可以从出发星体处共时开始用历，但重要的只是差值。在同一个系内，各星理论上应同时为好（可以尽量协调，比如成立 ITCA 啥的——指 Interstellar Time-Coordinating Association）。&lt;/p&gt;
+&lt;p&gt;既然物理定律在所有参考系皆等价成立，不妨猜想所有星球都有相近的生产能力和无风险利率 \(r\) 。即使我们的证券等金融手段为本星结算，套利也会出现：（\(T = 2*8.6/0.6 = 28.67\)）&lt;/p&gt;
+&lt;p&gt;我们在 Rover 出发时在 Earth 买入并在 Rover 卖出等额的零息债，无论我本人跟随 Rover 还是留在 Earth，在其回来的时候必然存在 \(e^{rT}\) 和 \(e^{r\frac{T}{\gamma}}\) 的差别。&lt;/p&gt;
+&lt;p&gt;解决方法可以是考虑货币的作用。我们假设存在美元 USD 和琉球美元 RVD。其汇率 \(e\) 在不同时刻会不同，以使上述利差为 0。具体来说，应有 \(\frac{e_t}{e_0} = e^{-r(1-\frac{1}{\gamma})}\)，\(e_t\) 为 \(t\) 时刻美元的间接汇率。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.01.19/featured.png" />
+    </item>
+    
+    <item>
+      <title>Transportation Cost</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/24.01.12/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.01.12/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;交通成本 
+    &lt;div id=&#34;交通成本&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%ba%a4%e9%80%9a%e6%88%90%e6%9c%ac&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;买车票时发现快车价格高、慢车价格低（废话），心想会跟不同人单位时间的利用效率有关吗？来看一看我们搭乘交通工具时付出了哪些成本：&lt;/p&gt;
+&lt;p&gt;$$
+f + w t
+$$&lt;/p&gt;
+&lt;p&gt;\(w\) 表示了乘车时间造成的成本，不仅仅是工作薪资的机会成本，还包括人们本身对时间的偏好，也反映在长时间待在交通工具造成的不愉快上。如果一个交通工具环境比较不舒服的话，其 \(w\) 很可能要大一些。不妨猜测&lt;/p&gt;
+&lt;p&gt;$$
+f_0 + As + wt + be^{\gamma t} + p \approx Const
+$$&lt;/p&gt;
+&lt;p&gt;其中 \(f= f_0 +As\)，\(f_0\) 表示机场、火车站安检进站等固定成本，\(s\) 为机场、火车站的距离，\(A\) 则与城市交通能力有关。除了工资 \(w\) 的机会成本外，环境造成的成本也许是指数形式的 \(be^{\gamma t}\)。&lt;/p&gt;
+&lt;p&gt;不过！——国铁的定价基本是统一按照一定的计算规则来的（部分广铁除外）。时速 300 km/h 及以上的线路，G 字头车二等座票价率一般为 0.46 元/公里，D 字头为 0.31 或 0.37 元/公里；并递远递减，分段计价；一等座、特等座和商务座的票价，则分别按照二等座票价的 1.6 倍、1.8 倍和 3 倍计算。而机票甚至还有价格走势；同时还要剔除凌晨、饭点等起抵时间对作息和行程安排的影响。德国和日本或许是最佳的样本，一方面铁路客运发达，一方面相较而言市场化一点。京沪高铁等几条线路这些年开始推动市场化浮动定价，我们可以姑且作个初步的观察。我从12306网站上爬取了上海至北京的车次票价 \(p\) 和用时 \(t\)，\(w\) 的回归结果约为 0.72 元/分钟（\(R^2 = 0.64\)，二等座），而商务座 \(w\) 约为 2.63 元/分钟（一天工作9小时，相当于11万和38万的年薪）。并且 \(v\) 对各舱位来说相近，确实是 \(b\) 的差别。单就线性回归而言，飞机的 \(w\) 可能在 2.3 元/分钟附近（飞机经济舱的数据更加复杂，这样子做意义不大），确实比铁路要小一些，说明乘坐环境大概没有高铁舒服吧。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.01.12/featured.png" />
+    </item>
+    
+    <item>
+      <title>CC Theorem</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/24.01.05/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.01.05/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;CC 定理 
+    &lt;div id=&#34;cc-定理&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#cc-%e5%ae%9a%e7%90%86&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;（感谢 Y. S. Cao 的邀请！正好我也姓C，依葫芦画瓢搞了个搞笑版的 CC 定理）&lt;/p&gt;
+&lt;p&gt;我们打算评判一个学生的期末价值。这个价值为整学期知识流的折现和，但这里的知识流仅仅是针对考试的‘有用’，因此都可以通过期末考卷评估，最后被GPA所衡量。那么影响这个价值的有哪些因素呢？可以是多种结构的作用，如融课结构和时序结构，等等。（融课结构指学生选择的水硬课杠杆，时序结构指不同课考试时间的安排——这对期末复/预习的精力分配及最终的成绩异常重要）&lt;/p&gt;
+&lt;p&gt;$$
+\text{ courses } \left{\begin{array}{l}
+\text{ hard } H \text{ with honor tax } \tau\\
+\text{ easy } E
+\end{array} \right.
+$$&lt;/p&gt;
+&lt;p&gt;这个荣誉税 honor tax 指的是某些荣誉课每周加一些事情的现象，而且这些事情对期末成绩几乎没有影响，纯纯占用学习时间罢了（注意我们这里在功利的评判期末价值）。因此相当于上交了一定比例的精力（若用之学习带来的知识流的机会成本）。在不考虑荣誉税，且学生可以自由退选课以最大化绩点的情形下有：&lt;/p&gt;
+&lt;p&gt;$$
+\begin{align}
+&amp;amp;\text{ CC Theorem 1:} \\
+&amp;amp;\quad V = H + E = \frac{K}{r} \\
+&amp;amp;\text{ Proposition: Free Course Market }
+\end{align}
+$$&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.01.05/featured.png" />
+    </item>
+    
+    <item>
+      <title>Theory about Making Friends</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.12.29/</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.12.29/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;交友论 
+    &lt;div id=&#34;交友论&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%ba%a4%e5%8f%8b%e8%ae%ba&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;让我们从一个功利的视角建模人们怎么交友。评判朋友的价值可能非常不合适——不过毕竟连精神损失也可以经过鉴定来补偿一定的费用呢，这里姑且做个货币价值的量化，并按邪恶的经济学家们喜欢的方式假设一些理性人，他们打算最大化自己的效用啦。&lt;/p&gt;
+&lt;p&gt;\(V_{ji}\) 表示 \(j\) 对 \(i\) 而言的价值。我把朋友带来的价值简单的分为两部分：内在价值和外在价值。内在即心理价值，如倾诉、分享、玩乐，都满足了人一定的情感需求；外在即物质价值或现实价值，一般是帮忙或者所谓的”人情“。&lt;/p&gt;
+&lt;p&gt;\(C_{ij}\) 表示 \(i\) 对 \(j\) 付出的交友成本。不过这里的成本更加通用化，以具体事物作衡量，并不等同于某个人实际感受到的效用（比如对于社牛，可能他们专门出去找好友玩、参加联谊交往活动等并不会感觉有多心累或浪费时间精力）。&lt;/p&gt;
+&lt;p&gt;\(\theta_{ji}\) 表示 \(j\) 对 \(i\) 的亲密度。想了想我觉得不应直接假设 \(\theta_{ji} = \theta_{ij}\)，很可能双方对友谊的认知存在偏差。但或许对于情商高的人，他们能够更快的意识到差距并调整 \(\left \vert \theta_{ji} - \theta_{ij} \right \vert\) 趋于 0。\(\theta\) 取决于双方对友谊付出的成本多少，及环境外生的互动系数 \(\mu_{ij} = \mu_{ji}\)（不同来源性质的好友天生会产生亲密度的差别，比如中学里和同班同学的关系自然会高于一般的非同班同学）。而在某些特殊函数形式下可以造成 \(\theta_{ji} = \theta_{ij}\) ——接下来为了简单的解析结果，我们令 \(\theta_{ji}(C_{ji},C_{ij},\mu_{ji}) = \mu_{ji} C_{ji} C_{ij}\)。&lt;/p&gt;
+&lt;p&gt;内在价值可写为 \(D_{ji}(\theta_{ij},d)\)，其中 \(d\) 为情感偏好程度。令 \(D_{ji} = d_i \theta_{ji}\)。现实价值 \(P_{ji}\) 又怎么衡量呢？好友是一个期权。&lt;/p&gt;
+&lt;p&gt;等一下，这并不简单，这个期权不止是美式的，甚至不知道可能有哪些可以行权。再者，我们这里还需要两个假设：不考虑跨人际交往（”我朋友的朋友……“）；不考虑关系网的延伸（\(i,j \in I\) 均为已知的一群人）（理论上还应该考虑新认识陌生人可能的”启动成本“）。但我们这里稍稍不讲道理的简化一点，想象一群欧式期权，它们依 \((S,K,T)\) 联合概率分布，以表征不确定性。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.12.29/featured.png" />
+    </item>
+    
+    <item>
+      <title>Leaning, Gluing</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.12.22/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.12.22/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;斜塔，粥 
+    &lt;div id=&#34;斜塔粥&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%96%9c%e5%a1%94%e7%b2%a5&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;（借两个具象的东西来阐释一些想法……）&lt;/p&gt;
+&lt;p&gt;我们说到微观经济学，其核心是什么？——信息是否对称、合约是否完全。整个世界（不止经济体系）都建立在层层叠叠的合约关系上。&lt;/p&gt;
+&lt;p&gt;我把人和人的关系分为自然关系、亲缘关系和合约关系，准确来说它们都是“制度”。合约需要有执行保障——而这些又由其他合约提供——这便形成了合约架构 Contract Structure。自然关系（武力）和亲缘关系（血缘、情感）作为较低层级的关系也可能 underlie 高层级的合约关系。&lt;/p&gt;
+&lt;p&gt;合约即部分权力的让渡与赋予。它会形成一定的策略空间，对它们赋以（带随机性的）效用。体系可能运行到某些状态下，各个层级的合约都有策略移动的倾向（甚至违约的倾向）；且最上方的合约形变达到最大，下方会依次产生递减的形变（倾向），就像一堆倾斜的积木或者比萨斜塔。而当世界（未来预期）产生变动时，就像拨动斜塔，虽然顶端最为严重，倒塌却是一起的——在高倾斜度下，整个合约架构很容易一举崩溃——例如金融危机爆发（甚至政权合约遭到颠覆）。&lt;/p&gt;
+&lt;p&gt;但这个 collapse 的过程还有类似于 congee 一些黏糊糊的粥的性质。想象当你用勺子捞了粥抬起来的时候，一部分粥会收回勺内，一部分粥会落回碗中。合约同样具有粘性（韧性），且随着基础性和规模的扩大粘性逐渐增大。在斜塔倒下的片刻，上层的合约会连贯倾倒，下层的合约通过甩掉形变力往往会被拉回正轨。例如在复杂的金融工具架构中，随着泡沫或违约风险的爆裂，底部的银行和金融机构往往能得到救助和调整，以部分的维持合约体系。&lt;/p&gt;
+&lt;p&gt;（对不起，感觉有点狂想……不过还挺符合原本栏目简介里说的嘛）&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.12.22/featured.png" />
+    </item>
+    
+    <item>
+      <title>Dividend Signaling Model</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.12.15/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.12.15/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;一个股利信号模型 
+    &lt;div id=&#34;一个股利信号模型&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%b8%80%e4%b8%aa%e8%82%a1%e5%88%a9%e4%bf%a1%e5%8f%b7%e6%a8%a1%e5%9e%8b&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;来尝试做一个可以解释正向 / 反向股利信号的模型。我这里叫正向指的是公告发放股利后，公司股价上升的情况，即投资者认为是公司盈利好、富裕现金多的信号；反向信号即公告后股价下跌。&lt;/p&gt;
+&lt;p&gt;模型的设定如下：&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.12.15.png&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;我们纳入代理问题的考量。存在投资者（外部股权）和内部代理人（经理，可能持有股份）两方，公司正在经营一个新项目。这里关键的假设有：风险中性（贝叶斯均衡）；风险项目的产出简化为两点分布，以一定概率 \(\alpha\) 获得现值 \(R\)，\(1-\alpha\) 概率亏空为 \(0\)；私人收益线性函数（见下）。&lt;/p&gt;
+&lt;p&gt;当下第一期实现了收入 \(R_0\)，但之后仍然存在风险：好项目获得 \(R\) 的概率为 \(\alpha_H - \tau \theta\)（\(0\) 的概率为 \(1-\alpha_H+ \tau \theta\)），坏项目获得 \(R\) 的概率为 \(\alpha_L - \tau \theta\)，且 \(\alpha_H &amp;gt; \alpha_L\)。其中 \(\theta\) 为经理的偷懒程度，\(\theta \in [0,1]\)，\(\theta = 0\) 为认真工作；\(\tau\) 表示了偷懒对项目经营的危险程度。&lt;/p&gt;
+&lt;p&gt;这里的信息不对称表现为外部投资者不清楚 \(\alpha\) 并赋以 \(\alpha_H\) 概率 \(\gamma\)（\(\alpha_L\) 概率 \(1-\gamma\)），而经理知道自己是 \(\alpha_H\) 还是 \(\alpha_L\)。经理决定股利分配政策，实施发放股利 \(D\)，为市场所观测。之后由董事会（投资者控制）决定经理报酬方案 \(R^a\)（根据信号 \(D\) 和未来项目收入 \(R\) 获得报酬，即 \(R^a(D,R)\) 且默认失败没有补偿 \(R^a(D,0) = 0\)）。最后项目执行，经理选择 \(\theta\) 并最终依概率得到 \(R\) 或 \(0\)。（流程可见上图）&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.12.15/featured.png" />
+    </item>
+    
+    <item>
+      <title>Settability</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.12.08/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.12.08/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;可设性 
+    &lt;div id=&#34;可设性&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%8f%af%e8%ae%be%e6%80%a7&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.12.8.jpg&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;因果图作为一种常见的因果推断甚至因果识别的表示方法，对其尝试提出一点诘难。&lt;/p&gt;
+&lt;p&gt;为了识别是 X 到 Y 而非 Y 到 X，需要 set Y = y（Pearl 称作 do）。但问题是，how we set Y？想要敲定一个确定的 Y，我们必须确定一个事先已有的因果力量，能够绝对作用于 Y。（且没有干预 X 形成后门路径）这就导致了也许某一些变量，它是 unsettable 的。设想一个年久失修的螺旋测微器，我们扭动设定了 x ——但是由于螺距偏差和噪声，最终的 X 飘在 x 附近甚至抖来抖去……那么我们还存在现实的因果吗？&lt;/p&gt;
+&lt;p&gt;（感觉有些像实验派和SEM派的争论）&lt;/p&gt;
+&lt;p&gt;（其实还有一种可能的情况是 reciprocated variables。X 和 Y 会互相作用、互为因果。比如随机动力系统？）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;插播：Centroid of Mass People&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;坐在食堂吃饭，突然想到：如果知道一个时刻食堂里的人的分布，我们似乎可以计算一个食堂的重心——它在整个饭点时段里估计会摆来摆去（或许有某种运动规律）……嗯，我们还可以画出整个地球的人们的重心（我猜猜，在中亚嘛？），还可以画出全球财富的重心，它们之间有多少距离，又如何演变的呢？&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.12.08/featured.png" />
+    </item>
+    
+    <item>
+      <title>Model for the Nations II</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.12.01/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.12.01/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;国际关系续论 
+    &lt;div id=&#34;国际关系续论&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%9b%bd%e9%99%85%e5%85%b3%e7%b3%bb%e7%bb%ad%e8%ae%ba&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;模型的基本假设在前一篇已经尽力列举过了。&lt;/p&gt;
+&lt;p&gt;先来补充说明一个 Scenario：Garrison &amp;amp; Blocs。我们假设最简单的形式 \(DT_i = \sum \limits_j \epsilon_{ij} M_j f(R_{ij})\)，一般情况 \(f&amp;rsquo;(R_{ij}) &amp;lt; 0\)。而对于海外驻军的情况，\(\epsilon_{ij} &amp;lt; 0\) 且 \(\frac{\partial DT_i}{\partial M_j} &amp;lt; 0\)，\(- f&amp;rsquo;(R_{ij}) = \frac{\partial^2 DT_i}{\partial M_j \partial R_{ij}} &amp;lt; 0\)。注意我们这里有一个未提及的假设：战略威胁可以被视作点对点，不考虑军队在国土空间的分布（比如俄罗斯西线和远东）。&lt;/p&gt;
+&lt;p&gt;我们把 \(\epsilon f(R)\) 合并为一项系数，并把多国作为一个向量，则有 \(\mathcal{E} M = M\)。可见最终的 \(M\) 位于地缘关系矩阵 \(\mathcal{E}\) 的特征方向。 如果威慑可分（\(\mathcal{E}\) 各列加和等于1），那么 \(\mathcal{E}\) 为马尔可夫矩阵。\((OS)\) 式的动态演进（\(M_{n+1} = \mathcal{E} M_{n}\)）将会收敛到该矩阵最大（\(\lambda = 1\)）的特征向量上。&lt;/p&gt;
+&lt;p&gt;驻军往往是国际间阵营的体现，应纳入这一安全的延拓性。即 \(DT_i(M_j,\epsilon_{ij},r_{ij},DT_j,ID_i,ID_j)\)，本国的外部安全供给会受到他国 \(DT\) 的影响。同样，内部安全供给也会受到本国（甚至外国）\(DT\) 的影响（攘外安内，危机或战时领导人支持率通常会飙升；当然，避战、反战等主流民意下应为负相关 \(\frac{\partial PO_i}{\partial DT_i} &amp;lt; 0\)）。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.12.01/featured.png" />
+    </item>
+    
+    <item>
+      <title>Model for the Nations</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.11.24/</link>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.11.24/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;国际关系模型 
+    &lt;div id=&#34;国际关系模型&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%9b%bd%e9%99%85%e5%85%b3%e7%b3%bb%e6%a8%a1%e5%9e%8b&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;我想依葫芦画瓢构建一个类似于凯恩斯框架下的简单模型去描述国际关系，方法就是把最原始的宏观经济模型稍作无厘头的扩展。\(r_{ij}\) 表示国家 \(i\) 和国家 \(j\) 的国际出清关系（International Clearing Relationship，ICR），\(r\) 越大（姑且作一标量）关系越正面。（这也许可以计量，比如通过文本分析和情感分析，可以构造并量化国家之间官方媒体互相报道或高层互动事件的一个关系指数）&lt;/p&gt;
+&lt;p&gt;我们要多引入一些将被考虑的内生和外生变量，它们有一些类似于模块化拼装，可以纳入也可能在考察后认为不足轻重而舍去。除了熟知的 \(Y\) 产出、\(A\) 技术（这里将科教研究水平与技术合一视之了）、\(C\) 消费、\(P\) 价格水平、\(T\) 税收（及其它强制扭曲）等总量以外，我们还有 \(D\) 文化富合度（Cultural Affluence）（正面反映了闲暇和文娱时间；同时负向描述了种族、宗教冲突的程度）、\(W\) 民众福利（Welfare）、\(M\) 武装力量（Millitary Power）、\(U\) 意识介度（Consciousness Dissemination）（指出社会意见和思想的传播程度或多元程度；同时一定的反映政权或宣传机器的把控力量）等。还要介绍的有 \(ID\) 政治位移（Ideology），不称意识形态的原因是它可以不仅仅是衡量左右，而是一个可以在设定的多个意识评价标准下的多维空间里移动的一个矢量，其决定了政治和经济制度，特别反映在产权组织 \(PI(ID)\) 上（跟政府架构等有关，但核心归于 \(ID\)）。\(PI\)（Property Inequality）将政治光谱（空间）划分开来（或连续化），表示了“生产关系”（比如可以粗分为资本主义、社会主义等）及其导致的分配关系。再如 \(U\) 应该也与 \(ID\) 有关。&lt;/p&gt;
+&lt;p&gt;模型的假设（缺陷）包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;市场化（may not be free markets but there must exists an adjusting power not controlling）&lt;/li&gt;
+&lt;li&gt;不考虑预期，且无理性预期（no long-term expectation）&lt;/li&gt;
+&lt;li&gt;仅宏观政策（macroscopic open actions 即没有微观或暗面的操作，如针对个别企业的制裁或间谍行为）&lt;/li&gt;
+&lt;li&gt;无随机扰动（no stochastic terms 不包含概率成分，没有影响国际关系的黑天鹅事件）&lt;/li&gt;
+&lt;li&gt;不考虑能源、移民、生态环境等其他重要因素（only has political interest and economic interest / no key mesoscopic factors 不考虑关键中观领域的作用）&lt;/li&gt;
+&lt;li&gt;无阶层分化（no hierarchy 尽管有 PI 且纳入了分配结构，但并未分群体建模）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;影响国家决策的无非是两个方面：一边讲发展，一边要安全（就像投资决策的 \(\mu\) 和 \(\sigma\) 那样）。或者说，国际关系无非是 Benefit 和 Security 的综合作用（Inner &amp;amp; Outer）。不过我们这里要把原来的 IS-LM-BP model 说的详细一些，把 \(NX\) 拆开写为 \(NX_{ij}(e_{ij},Y_i,Y_j,r_{ij})\) 表示 \(i\) 国向 \(j\) 国的净出口。即有 \(NX_{ij}(e_{ij},Y_i,Y_j,r_{ij})\) \(=\) \(KF_{ij}(i_i,i_j,K_i,K_j,r_{ij})\)。注意实际上我们应分写进口 \(IM\) 和出口 \(EX\) 函数，鉴于双向大量贸易和几乎不贸易在净值上无法区别。总而言之：&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.11.24/featured.png" />
+    </item>
+    
+    <item>
+      <title>The Apple that Never Lands</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.11.17/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.11.17/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;永不落地的苹果 
+    &lt;div id=&#34;永不落地的苹果&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%b0%b8%e4%b8%8d%e8%90%bd%e5%9c%b0%e7%9a%84%e8%8b%b9%e6%9e%9c&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;（更多关于民科的了解可以查看“其他收录”中的民科小传一篇，其末尾还有本人的一些讨论）&lt;/p&gt;
+&lt;p&gt;我在想一个&lt;/p&gt;
+&lt;p&gt;$$
+\text{Scipop Paradox}:\\
+\frac{PseudoPaper_i}{Population_i} = \sum\limits_{t\in T} \beta_t \frac{ScipopWork_{i,t}}{Population_{i,t}} + \gamma&amp;rsquo;\mathcal{X}_{i} + \alpha_i + u
+$$&lt;/p&gt;
+&lt;p&gt;\(Scipop\) 指的是 science popularization，科普的一种翻译。但国外 scientific literacy 科学素养使用的更多（用此关键词搜索文章也与科普更为相关）。&lt;/p&gt;
+&lt;p&gt;这里采用省截面数据（\(i\)），\(ScipopWork\) 指各省发行出版或流通的科普性质的作品量，\(PseudoPaper\) 指民科的生产量——这从哪里来呢？把时间背景（\(T\)）放到上世纪80-90年代左右，中科院研究所每天都要收到大量信件宣称自己造出了永动机或解决了哥德巴赫猜想之类的……可以统计其寄件人的省份分布得到。（当然还有不少自费出版的民科书籍可以统计；再不济还能看新闻里的主人公来自哪里……）\(\mathcal{X}\) 为控制变量，可能包含人均产出、城市化水平、科教院所数量等。我的 prediction 为：\(\beta_t\) 在1978年“科学的春天”后的十余年里显著为正。亦即一个看上去像是悖论的命题：当时的科普风气越盛，民科数量反而越多。&lt;/p&gt;
+&lt;p&gt;进一步的 endogeneity concern or robustness 暂且略去。比如寻找 \(ScipopWork\) 可能的工具变量；考虑 \(ScipopAuthor\) 科普作者的地区分布；回归 \(\frac{TruePaper}{Population}_i\) ，也许存在着负向关联放大悖论。&lt;/p&gt;
+&lt;p&gt;科普历来是争论的话题。在我眼里，就像 scientific literacy 一样，科普本身即应该定义为科学的末端，无非是让不了解此领域的人能以科学的视角和方法正式的纳入一些有关此领域的基础知识罢了。可这是需要基本的教育去提供基本的理性素养的。&lt;/p&gt;
+&lt;p&gt;而当下的科普不是去关注苹果落地后发生的事，却只着重宣传苹果掉落的瞬间。科学理论本身是理性且严肃的，其宣传却夹杂着浪漫与造神主义；美其名曰加入科学史和人文元素，却只剩下了科学史和人文元素。思而不学，不接受真正的科学普及而仅仅凭着一些类科普提供的模糊面貌和一些内心的激情与偏执大肆幻想，便成为了民科。&lt;/p&gt;
+&lt;p&gt;（虽然还没实证确定呢！）我想说的只是，这个看起来就很伪的悖论告诉大家：科普何以存在？没有坚实的教育和素质基础，没有合格的传播和内容关注，科普便会永远停留在伪命题上，apples will never on the ground。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.11.17/featured.png" />
+    </item>
+    
+    <item>
+      <title>Weighted Synchronicity</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.11.10/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.11.10/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;加权共时 
+    &lt;div id=&#34;加权共时&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%8a%a0%e6%9d%83%e5%85%b1%e6%97%b6&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;这个名字取得不是很恰当，不过我老是沿用脑子里第一次直觉冒出的概念名，于是就这么叫了。说的是什么呢？我们考虑两个地区——比如湖南省与上海市、卢森堡与奥地利之类的——它们在历史上被同一个政治体统治过的时间总和。加权指的是，我们可以给较久远的如公元前的时间赋以小权值而靠近近代的时间赋以大权值（具体可能要调试）。&lt;/p&gt;
+&lt;p&gt;这反映了什么呢？我想用其简单的描述一下两地区的文化差异程度（或者至少说，定义有文化差异度，并且它大概与加权共时值呈负相关）。不止是加权共时反映了文化差异度，两地距离（靠的近自然受到对方文化的感染）等等都会影响（当然，大家都看到这里的内生性问题了……）。一个可能的实证如下（请批判）：我们找出一些欧洲相邻的小国（鉴于我们没有地区的这样的数据），统计其文化产业（各国统计标准有别）进口结构——各进口国进口量与其 GDP 比值作为参考，比较两地结构差异（做一个指标 \(D_{culture}\)），其与加权共时 \(X_{syn}\) 回归显著（控制两地距离 \(X_{dis}\) 等）。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.11.10/featured.png" />
+    </item>
+    
+    <item>
+      <title>Love in Evolution and Equilirium</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.11.03/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.11.03/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;暧昧：进化与均衡 
+    &lt;div id=&#34;暧昧进化与均衡&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%9a%a7%e6%98%a7%e8%bf%9b%e5%8c%96%e4%b8%8e%e5%9d%87%e8%a1%a1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;（本周分享的算是一个失败的建模，但话题有趣嘿嘿）&lt;/p&gt;
+&lt;p&gt;这个模型描述了两个个体（男女）在暧昧阶段的互动（博弈）。不过博弈可能给人感觉怪怪的——原因是我们这里假设两人都在努力最大化自己的关于爱的效用，并规划和调整自己的做法。&lt;/p&gt;
+&lt;p&gt;\(t\) 时刻博弈双方的状态记作 \(x(t)=(x_1(t), x_2(t)) \in [0,1]^2\) ，表示男方和女方的爱意。同时他们的行动（一些或直白或隐晦的示爱的方式）\(a(t)=(a_1(t), a_2(t)) \in [0,1]^2\) ，其中 \(0\) 代表没有示爱，\(1\) 代表直球表白。当然对于未来，我们对时间价值做了一个折现率 \(r\) 。&lt;/p&gt;
+&lt;p&gt;状态过程（dynamics）：&lt;/p&gt;
+&lt;p&gt;$$
+\dot{x_1} = (\frac{a_2}{a_1}-\delta)x_1 \\
+\dot{x_2} = (\frac{a_1}{a_2}-\delta)x_2
+$$&lt;/p&gt;
+&lt;p&gt;目标（optimal control）：&lt;/p&gt;
+&lt;p&gt;$$
+U_i = \max\limits_{a} \int_0^T x_i(t)e^{-rt}dt + D(x(T))
+$$&lt;/p&gt;
+&lt;p&gt;（理论上应加上 \(\lim\limits_{T\rightarrow \infty}\)；这样终态效用 \(D\) 就比较直接，比如或许是一个狄拉克函数，只在未来能配对成功的 \((1,1)\) 点取到无穷）&lt;/p&gt;
+&lt;p&gt;但爱情真是一个复杂的东西（笑），高冷人设和舔狗人设的效用函数大概率是非常不一样的。我们这里仅仅设想一种 Platonic Love，有着逻辑清晰简单的个体爱意作为效用——即自我的爱意就是感受到的幸福。并且这个爱意随着双方对白的互动可以得到增强和减弱；从式子可以看到真正影响人的是比值 \(\frac{a_1}{a_2}\)，对方超额的行为才能进一步增加你的爱意并引发你的进一步互动（我经过深思熟虑认为导数比值 \(\frac{\dot{a_1}}{\dot{a_2}}\) 更为合适，但接下来的解析将过于复杂）；同时设置了一个“折旧率” \(\delta\) 作为没有足够互动之后与日俱减的爱情（想来有人会说……君子之交淡如水）。&lt;/p&gt;
+&lt;p&gt;好的那我们继续，构造哈密顿量&lt;/p&gt;
+&lt;p&gt;$$
+\mathcal{H} = \nabla_x V \cdot \dot{x}(t,x(t),a(t))+u_i(t,x(t),a(t))\\
+= x_1(\frac{a_2}{a_1}-\delta) \frac{\partial V}{\partial x_1}+x_2(\frac{a_1}{a_2}-\delta) \frac{\partial V}{\partial x_2}+x_i(t)e^{-rt}
+$$&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.11.03/featured.png" />
+    </item>
+    
+    <item>
+      <title>Red-light Preference</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.10.27/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.10.27/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;抢红灯偏好 
+    &lt;div id=&#34;抢红灯偏好&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%8a%a2%e7%ba%a2%e7%81%af%e5%81%8f%e5%a5%bd&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;我想到一个有趣的可能的联系：&lt;/p&gt;
+&lt;p&gt;会不会市场上的风险偏好者，喜欢在过路口时抢红灯？（比如在快到路口绿灯时间所剩无几时选择加速冲过而不是减速等待）&lt;/p&gt;
+&lt;p&gt;仔细一点说，是否每个人的 Arrow - Pratt RRA (相对风险厌恶系数 \(A\)) 与 \(B\) 有显著的正相关？&lt;/p&gt;
+&lt;p&gt;这里 \(B\) 的定义参考 \(A\) 的方法，我们认为决策者的效用到达时刻 \(t_u = E(t) - \frac{1}{2} B \sigma^2_t\)（\(t\) 指到达路口时信号灯的时间，正为绿灯，负为红灯——当然，纳入黄灯结论更为丰富）。于是决策者的预期加速度 \(a\) 满足匀加速运动的方程 \(t_u = \frac{x}{v+\frac{at_u}{2}}\) 即 \(a=\frac{2}{t_u^2}(x-vt_u)\)（显然这是一个简化的思考）。关于 \(t\) 的分布是与 \(a\)、\(x\)、\(v\)、\(T\)（此时的绿灯剩余秒数）有关的，例如 \(t \sim \mathbb{N} (T-t_0(a,x,v),\sigma^2)\)，\(where\ t_0\ is\ the\ solution\ of\ \)\(constant\ acceleration\ motion\)，联立即可得到 \(a\)。&lt;/p&gt;
+&lt;p&gt;这是（连续的）均衡的方式。（我觉得离散的决策也是有道理的。）通过测量这些投资者过路口时运动的物理数据，我们大概可以估计出他们的 \(\sigma^2\) 和 \(B\)。或许 \(B\) 为负数的人在股市上更可能表现出风险偏好的倾向。&lt;/p&gt;
+&lt;p&gt;（好吧照这个逻辑也许还有很多生活中的行为都可以……）&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.10.27/featured.png" />
+    </item>
+    
+    <item>
+      <title>Theory of Theory</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.10.20/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.10.20/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;理论的理论 
+    &lt;div id=&#34;理论的理论&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e7%90%86%e8%ae%ba%e7%9a%84%e7%90%86%e8%ae%ba&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;我要讲的是“学科的学科”——虽然高中课本里哲学似乎便这么宣称——但这里讲的是言之有物的理论构建，而非关乎世界本质的基础支撑。&lt;/p&gt;
+&lt;p&gt;广义的理论（Theory）可以等同为知识（Knowledge），而知识被我分为 Experience、Analysis、Science 三种层级。Experience 指经验性的总结 Synthesize 和解释 Explain，例如我们可以对厕所的规划和使用形成学问，对什么样的音乐是好听的形成学问，但其来源都是已有事物的 Application，类似一个经验丰富的老技工。Analysis 指在一定抽象程度上建立的统一分析框架 Analytical Frame，大家在平常能见到的“XX学”都已经达到了这样的标准；但 Analysis 在现实中仍然有可能只能做解释或归纳性的预测。Science 被定义为 Modeling 模型化现实，给出考察对象之间的作用关联，其目的是预测 Predict 和控制 Control。我们这里的理论 Theory 便是狭义的理论，特指科学学科 Science。我给出的范式是：&lt;/p&gt;
+&lt;p&gt;$$
+\mathcal{X} \rightarrow X \rightarrow \boxed{\mathbb{T}} \rightarrow Y \rightarrow \mathcal{Y}
+$$&lt;/p&gt;
+&lt;p&gt;\(\mathcal{X} \rightarrow X\) 和 \(\mathcal{Y} \rightarrow Y\) 都是概念化 Conceptualize 的过程。\(\mathcal{X}\) 和 \(\mathcal{Y}\) 是现实世界的对象或情形，\(X\) 和 \(Y\) 是我们理论的输入和输出。（注意\(X\)可以不仅仅是某个数值变量“政府年度固定投资额”，还可以是“财政政策不变”这样更为抽象的输入或问询。）科学理论的核心是相关与因果。仅相关的关联性可以做到预测，而因果性（并不是一个容易论断的东西）可以做控制和应用。中间的模型机制 Laws or Theorems \(T\) 和概念 Concepts \(C\) 组成了一个完整的理论 \(\mathbb{T}={T_1,\cdots,T_i,C_1,\cdots,C_j}\) 。每个定理（或定理的一部分）都可以写成 \(c = T(c_1,\cdots,c_n)\)，其中 \(c\) 是 \(C\) 的具象输入。我们这里缺少了几个理论里常见的模块，但其实已经纳入机制 \(T\) 内了，包括假设 Assumption 和公理 Axiom ——一种未经验证的假定的\(C\)之间的关联性；引理 Lemma 和推论 Corollary ——也是定理们特定的同义重复。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.10.20/featured.png" />
+    </item>
+    
+    <item>
+      <title>Stand up and Cheer</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.10.13/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.10.13/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;起立欢呼 
+    &lt;div id=&#34;起立欢呼&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%b5%b7%e7%ab%8b%e6%ac%a2%e5%91%bc&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;（我在好多周前的栏目里似乎写过了关于复杂系统涌现的内容……这次又来说两句）&lt;/p&gt;
+&lt;p&gt;我去看亚运会，观众加油的气氛非常热烈，每每比赛关键时刻或运动员跑过看台前都会给予欢呼。但只有其中一场长跑，虽然没有我国运动员，观众却给出了相当热烈的反应——运动员跑到圈子哪边，那边的观众便会纷纷起立来加油——像波浪一样绕着场馆传递。很明显我想不是这场比赛多么与众不同，倒可能是某部分人先起立了，带动了其他人并潜意识的自动跟着跑步传递下去；我身边的观众虽然在远处起立潮渐近时露出了有点懵的神色但仍然迅速投入了欢呼状态……于是我也站起来了，接着是右边的。&lt;/p&gt;
+&lt;p&gt;这个现象留下了比较深的印象。很简单的设想，我们每个人有一个起立欢呼的阈值 \(T\)，视野范围内受到激发即起立的人比例为 \(k\)，自己心里有对比赛质量的偏好 \(Q\)；通过一个合适的（群体分布的）考量函数&lt;/p&gt;
+&lt;p&gt;$$
+f(k,Q)+\epsilon,\text{ where }\epsilon \text{ is a random deviation}
+$$&lt;/p&gt;
+&lt;p&gt;其与阈值 \(T\) 的大小关系决定了是否鼓掌。再进一步，我们还应该考虑友伴效应——大家总是三五成群跟自己熟悉人落座——亲人的起立行为对你的影响想必大很多。那么我们需要一个预先置好的人群结构 \(w\)，\(w(x,y)\) 表示 \(x\) 的行动对 \(y\) 行动的影响权重，且 \(w(x,y)=w(y,x)\)。还可以把欢呼和起立分开作为两个变量。（不过对于比赛这里没有考虑到运动员位置这个决定性因素。）&lt;/p&gt;
+&lt;p&gt;总之，一个起立欢呼模型 \((I,Q,T,w)\) 其中 \(Q\) 和 \(T\) 为定义在参与空间 \(I\) 上的函数，\(w: I \times I \rightarrow \mathbb{R}\)。场 \(F: I \rightarrow \mathbb{R}^n\) 表示了各人的相应情况（鼓掌程度之类的）。我们可以试着作一个演化方程：&lt;/p&gt;
+&lt;p&gt;$$
+\frac{d}{dt}F(x,t) = \tau Q(x)\int \limits_{I} w(y,x)F(y,t)dy
+$$&lt;/p&gt;
+&lt;p&gt;如果 \(w\) 恰好是有意思的欧式距离平方反比，那么（怎么解呢？）&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.10.13/featured.png" />
+    </item>
+    
+    <item>
+      <title>Knoid</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.10.06/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.10.06/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;知子网 
+    &lt;div id=&#34;知子网&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e7%9f%a5%e5%ad%90%e7%bd%91&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;正好最近有同学想设计一个读书小组。其实我本来也有一个成立 workshop 的想法，但为什么没搞呢？一部分原因是觉得单纯的传统读书会或学术小团体的方式不够具有吸引力。这次顺着先前 23.8.25 里的想法，下面我将原创性的给出：（噢原本想叫知网，奈何已经被某数据库用了……）&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;知子网白皮书 Knoid White Paper&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.10.6.png&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;知子网是创造和交流知识（knowledge and idea, coined as &lt;em&gt;Knoid&lt;/em&gt; &amp;ndash; also means the tangible form of knowledge）的平台。我们不是某个组织，我们是元组织。我们秉持：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;自由、开源、开放。无限参与，无限可能。&lt;/li&gt;
+&lt;li&gt;去中心化，自组织网络。让知识得到公平的交流，让权威不复存在。&lt;/li&gt;
+&lt;li&gt;任意形式的合约。在这里可以实现一切形式的学术交流活动。&lt;/li&gt;
+&lt;li&gt;共享、共评、共建。知识不是私人品。没有货币的逻辑，而有市场的价值。让好讲座得到听众，让好讨论得到加入，让好书得到阅读。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;每一个知子网中的人，都将拥有&lt;em&gt;知识&lt;/em&gt;（&lt;em&gt;Knowledge&lt;/em&gt;，abbreviated as &lt;em&gt;K&lt;/em&gt;）。新知识不会无限的喷涌，而由知子网的机制——一个特殊的活动 Creating 产生。&lt;/p&gt;
+&lt;p&gt;合约即是活动，合约可以调用合约。合约由创建者放出，设定有存续时间，位于一个节点地址（知识活动点）。合约能够接受多方的输入并产生输出，按事先安排好的流程触发、收纳知子、调配知子、调用 Creating 等一切代码能够实现的操作。当然，Creating 对每一个合约在单位时间段的生成请求存在上限。&lt;/p&gt;
+&lt;p&gt;每一个知子网中的人和合约点，都可以分享自己的见解，即&lt;em&gt;知子&lt;/em&gt;（&lt;em&gt;Knon&lt;/em&gt;）。每个人和合约点都有属于自己的不同的知子（Somebody&amp;rsquo;s Knon）。知识是平等的，知识因受到公认而变得重要。您的知子将被其他人持有、交换、参与合约。除了 Creating，任何合约不能创造知识，但所有人都可以任意创造自己的知子并通过合约发给其他参与者，代表分享自己最新学习研究的发现。&lt;/p&gt;
+&lt;p&gt;合约实现的交流形式多种多样，缺乏的只是想象力——lecture、seminar、tutorial、exam、project、book、paper……都可以被实现并得到关注。课堂、讨论可以让所有人交付知子，时间排他性的来参与，并据后续情况生成新的思想，无论线上还是线下。考试可以检验对应的知子按照成绩发放知识量。任何人都可以成立各种形式的组织并推广。&lt;/p&gt;
+&lt;p&gt;知识可以被复制，可以被传播。作者可以为自己的作品赋予复制的部分知识。书刊可以发行自己的知子，标记自己独一无二的内容并获得众人的认可和流传。&lt;/p&gt;
+&lt;p&gt;知子可以被标注。参与学术活动的人可以根据合约所示的知子的门类和内容进行参与。（同书籍一样，知识的架构关系可以通过设计 merge 功能的合约点充分实现。）&lt;/p&gt;
+&lt;p&gt;您还可以参与知识与知子的对换——一个特殊的节点 Exchanging 将完成这一点。给出你认为某知子的知识价值并进行兑换。整个网络将受广播，平均比率和方差将被计算，每一个该类对换的参与者都将共同助力形成公允的评价。&lt;/p&gt;
+&lt;p&gt;我们借鉴了以太坊（Etherum）的基础。所有行动将被广播，每经过固定时间将创建下一个提交，所有知识的拥有者都将写入一份同全网络历史一模一样的副本。知识的产权不容纂改。&lt;/p&gt;
+&lt;p&gt;网络可以本地化，大学等学术机构可以接入并构造属于自己内部的知识生态，这只需要若干合约。&lt;/p&gt;
+&lt;p&gt;知子网正在 Github 上启动。大信息时代的知识交流期待新的范式，期待您的参与。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.10.06/featured.png" />
+    </item>
+    
+    <item>
+      <title>The Limit of Handwritting</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.09.29/</link>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.09.29/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;书写有极限吗 
+    &lt;div id=&#34;书写有极限吗&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%b9%a6%e5%86%99%e6%9c%89%e6%9e%81%e9%99%90%e5%90%97&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;作为速记爱好者，我开发过不止一套自己的速记符号，期间的考虑无非是平衡简化程度与易学易辨的程度。本周突然想来思考一下手写本身的 physical bound 在哪里。&lt;/p&gt;
+&lt;p&gt;$$
+\begin{align}
+\text{Systematic Process}:\\
+1.\ infor&amp;amp;mation\ flow\ (sounds\ etc.)\\
+&amp;amp; \downarrow compiling\ (handwritting\ system)\\
+2.\ gra&amp;amp;phic\ symbols\\
+&amp;amp; \downarrow handwritting\\
+3.\ &amp;amp;notes\\
+&amp;amp; \downarrow interpreting\\
+4.\ recov&amp;amp;ered\ information
+\end{align}
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\begin{align}
+&amp;amp; \text{Assumption}:\\
+&amp;amp; 1.\ Fluency: A\ constant\ speed\ \mathbf{v}\ of\ writting\ lines\ or\ curves.\\
+&amp;amp; 2.\ Smoothness: There\ is\ no\ sharp\ angles\ and\ writter&amp;rsquo;s\ acceleration\ can\ be\ infinity.
+\end{align}
+$$&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.09.29/featured.png" />
+    </item>
+    
+    <item>
+      <title>Measure Design</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.09.22/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.09.22/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;建筑设计的计量 
+    &lt;div id=&#34;建筑设计的计量&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%bb%ba%e7%ad%91%e8%ae%be%e8%ae%a1%e7%9a%84%e8%ae%a1%e9%87%8f&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;我记得有种说法：高度发达的文明其艺术品的设计往往开始做“减法”，不再不断地添加繁复的雕刻和装饰，而是有意的简化和突出。这让我想到当下大城市里开始涌现的现代建筑和后现代建筑，想来我们可以去计量一个地区的艺术水平——似乎有些困难？不如先从建筑设计的水平开始。&lt;/p&gt;
+&lt;p&gt;不是美是稀缺的，而是稀缺造就美。&lt;/p&gt;
+&lt;p&gt;审美的本质是什么恐怕不是一个能在这里简简单单就讨论完的东西。我现在比较武断的做出以上论断，是为了进一步发展指标。我倾向于认为是人类具有“审美的需求”——这个需求在日常的普遍的生活中没有得到满足——这正是稀缺性的意义。（我还要提到一个反驳的角度：这个价值与创造性价值尚有区分。如果我们纳入时间变量，那么富有创造性价值的事物在其之前极其稀缺，而在之后带动了大量的模仿者，或者说自己成为了开创者，那么它显然具有美的价值。但当这个事物的元素在生活中俯拾即是的时候，大家自然不再对其审美敏感。）&lt;/p&gt;
+&lt;p&gt;以此逻辑为基础，我们同时也需要一些事先由美学专家（建筑设计家）挑出的评价维度，它反映了人类共性的审美需求。例如建筑的几何外形、色彩、结构、纹理（\(X_1, X_2, X_3, X_4, \ldots\)）。借助计算机技术，我们可以获取一个街区的实景图，将各个建筑依照各个维度，进行数学上（计算机视觉上）的相似计算 \(r_{ij1}, r_{ij2}, \ldots\) ，再按一定方式如加权得到一个合并的建筑 \(i\) 和建筑 \(j\) 的相似系数 \(r_{ij} = f(r_{ij1}, r_{ij2}, \ldots)\) 。&lt;/p&gt;
+&lt;p&gt;我们定义一个建筑对于一整个要考察的建筑群（称背景或参考基）的设计价值（审美价值）\(v_i\) 为&lt;/p&gt;
+&lt;p&gt;$$
+v_i = \sum_j \frac{r_{ij}}{v_j}
+$$&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;（\(j\) 的遍历包括 \(i\) 自身，需要自己给自己“壮胆”）（通过联立群体内全部建筑求解）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;我未经严格考证的认为它确实具有 1. 给离群点赋以高值 2. 给群聚性缓慢提高值 等等合理的数学性质。&lt;/p&gt;
+&lt;p&gt;上述把稀缺性挂钩审美价值的作法受到质疑大概来自这两个方面：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;日常的（普遍的）到底是什么？&lt;/li&gt;
+&lt;li&gt;古怪的垃圾品？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;建筑可以近乎完美的解决这两个问题，而绘画、音乐等艺术还需进一步考量。我们考虑全部的建筑具有一定的可行性，它们就是大家生活中接触到的建筑物的全集，那么一个标新立异的富有变异感的设计可以被视为高审美价值的。古怪的垃圾品鉴于建筑的规划、审批、施工需要层层把关实现，不大可能出现彻底的丑，何况不走寻常路可能本身就是艺术呢（比如争论中的行为艺术）。而画作、曲作的对比背景应该是人的日常生活，所以人们会喜欢欣赏画喜欢听音乐，我想这个指标可能需要做改进。&lt;/p&gt;
+&lt;p&gt;从这个指标出发，那么研究空间就大了。我抛砖引玉一个：&lt;/p&gt;
+&lt;p&gt;现在的城市建筑都由设计院、建筑事务所设计。最终整个城市或某个空间区域分布里的总设计度 \(V = \sum v\) 与它们花费的总设计费用 \( C = \sum c\) 的比值 \( \zeta = \frac{V}{C}\) 表示了一单位费用下产生的艺术效用，称作 \( conservative\ factor \ \zeta\)  保守度——因为建设过程是甲乙双方协商的结果，文化保守的地区在变异程度上要弱于开放的地区，可能也是人均 GDP 高的地区。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.09.22/featured.png" />
+    </item>
+    
+    <item>
+      <title>Can I Update in Time</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.09.15/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.09.15/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;更新之谜 
+    &lt;div id=&#34;更新之谜&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%9b%b4%e6%96%b0%e4%b9%8b%e8%b0%9c&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;（发现真是很久没有更新这么困难了！很难说是自己不去动脑思考了还是对内容的要求变高了……于是这周来试着模型化一下这件事，但我并未给出解答）&lt;/p&gt;
+&lt;p&gt;我们把 \(T\) 记两个星期五之间的一个更新区间。idea 的到来视作 Poisson 过程，其参数为 \(\lambda\) 。在产生一个 idea 之后，我会花费一定的时间思考以判断和调整其价值。我们假设 idea 们都具有一个 unknown 的 actual quality \(g\) ，服从指数分布 \( f(g) = \frac{1}{g_e} e^{-\frac{g}{g_e}}， where\ g_e = E(g)\) 。（准确来说应该是两者独立，\(dt\) 时间段内产生质量 \(g\) 附近 \(dg\) 元段的 idea 的概率是 \(\lambda f(g)dtdg\) ）刚产生时我对它的认知为 \(g(0)\)，其后如果花的思考时间 \(t_k\) 越多，对其的估计也能越准，即 \(g(t) \sim \mathcal N(g, \sigma^2(t)),\ where\ \sigma^2(t)=\sigma_0^2e^{-\alpha t}\) （有待商榷，因为我的认知大概是连续光滑变动的，但或许我可以设计一个合适的随机过程使得累积量满足这样的正态分布）。我可以根据自己的 strategy 随时终止对此 idea 的思考和研究（要么感觉不错很有价值就写这个了，要么感觉价值很低算了算了）。如果没有达到标准，在 \(t_1 + t_{k1}\)（\(t_1\) 为产生用时，满足指数衰减）之后我可以继续等待 \(t_2\) ，并对其进行思考。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.09.15/featured.png" />
+    </item>
+    
+    <item>
+      <title>New Game of Life</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.09.08/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.09.08/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;新生命游戏 
+    &lt;div id=&#34;新生命游戏&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%96%b0%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;Conway 的生命游戏是一个零玩家的元胞自动机（cellular automata）。每个单元格即一个细胞，其有生死两种状态； 当细胞的周围少于两个活细胞时，其会死于孤立；周围多于三个活细胞时，其会死于拥挤；两个或三个时能继续存活；当死细胞周围刚好有三个活细胞时，其会被繁殖激活。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.9.8.gif&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;（涌现出了的各式各样的模式，上图为滑翔者枪 glider gun）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;（有非常多网页实现此程序，推荐一个 conwaylife.com）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;（灵感来自军训时的迷彩服）我想把生命游戏扩展到多种类（部落），它们以不同颜色表示。下面以双色为例。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.9.8%282%29.png&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;除了单色下已有的模式，列举一个新发现的模式：&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.9.8%285%29.gif&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;（\(2\times2\)方块具有很强的稳定性，几乎不会被吞噬；吐司、灯塔、蜂巢等稳定结构均可以充当飞船反射镜，将另一个颜色的宇宙飞船以\(45^{\circ}\)角反弹为滑翔机，或称拓荒者；风车、四风车均能被拓荒者侵占）&lt;/p&gt;
+&lt;p&gt;（将规则中允许 cell that has 4 living same-color cells around keep alive 还能看到领地的城墙、界河等等现象）&lt;/p&gt;
+&lt;p&gt;可能还具有一些研究和现实的意义，在此按下不表。程序附于页末（py tk库制作）。&lt;/p&gt;
+&lt;p&gt;这里再发散一下，其实我们还可以多样化。棋盘可以使用各种密铺图形，它们不必相同，甚至可以模拟各种地理环境；规则也可以因此更加复杂，并向现实匹配；还可以增高维度，变成立方的生命游戏……&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.9.8%283%29.png&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;（一种不完全正镶嵌——中间的大多边形会是城堡吗？）&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a
+  href=&#34;./23.9.8.zip&#34;&gt;新生命游戏(双色)&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;界面如下：&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.9.8%284%29.png&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.09.08/featured.png" />
+    </item>
+    
+    <item>
+      <title>Theory of lazing in military training</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.09.01/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.09.01/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;军训偷懒学 
+    &lt;div id=&#34;军训偷懒学&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%86%9b%e8%ae%ad%e5%81%b7%e6%87%92%e5%ad%a6&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;欢迎你来看这篇军训偷懒指导！我想你心里已经为偷懒找好了理由甚至做出了哲学分析，那么我们这里抛开事实态度不谈，从技术的角度试着研究一下。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;原则：敌进我退，敌退我进。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;按照孙子“不战而屈人之兵”的理论，能在约架前一天用泥头车创死对方就绝不应约，能在军训训练前解决军训就绝不留到上场。应充分阅读请假和减训规则并最大化漏洞，还可以在训练中场休息时以各种名义一去不复返。&lt;/p&gt;
+&lt;p&gt;而训练过程中我将内容其分为三个门类：&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;军训技巧学&lt;/em&gt;：1. 使用厚厚的鞋垫或用来垫的物体，还可以使用硬硬的东西避免踩鞋 2. 前倾，但是动态——指可以来回前后倾倒，甚至引发教官对你的关心 3. 利用观测漏洞动手动脚，例如双脚向外折开休息 4. 表现出很严肃对待但实在很愚笨的样子 5. 喊话时滥竽充数，即挤眉弄眼扯喉咙，表现出声嘶力竭的样子&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;军训观测学&lt;/em&gt;：来考虑一下当我们视野里没有教官的时候是否可以乱动。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.9.1%282%29.jpg&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;（人眼具有约\(\it 120^{\circ}\)的视野张角）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;先假设所有人站成一个标准的方阵。我们把每个人看成一条线光源：&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.9.1.jpg&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;（共 \(m_f+m_b+1\) 行 \(n_l+n_r+1\) 列）&lt;/p&gt;
+&lt;p&gt;简化起见我们认为教官没有离方队那么近，其视野能够覆盖整个方队且面向方队，即能捕捉到视野内的动态。鉴于光路可逆，我们不予讨论前向\(120^{\circ}\)内的视角。每个线光源的两端与我们观测点 \((x, y)\) 的连线的角度之间即是遮挡域，我们逐一计算出各个人的遮挡域并取出交集。&lt;/p&gt;
+&lt;p&gt;计算过程以伪代码展示：&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;for i,j in (-n_l,-1)|(1,n_r),(-m_b,-1)|(1,m_f): # 遍历其他所有人
+theta_r = atan2(j*h-y,i*l+d/2-x) # 四象限反正切(0-2pi)
+theta_l = atan2(j*h-y,i*l-d/2-x)
+thetas.append([theta_l,theta_r])
+
+thetas = integrate(thetas)
+prob = (countangle(thetas,0,pi/6)+countangle(thetas,5*pi/6,2*pi))*3/(4*pi) # 计算平均概率
+
+func integrate(): # 合并有重叠的区间
+sort the theta intervals by the left side and then exam if there is overlapping and integrate each by each.
+
+func countangle(): # 计算在指定范围内的区间们的总长
+calculate the length of each interval and add then together.
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;（可以预见，在具有一定人数且人靠内部的情况下，偷偷动动手是大概率不会发现的。一般教官要求的参数：\(h=l=75cm\)（左右转后一致），\(l-d = 10cm\ 即\ d=65cm\)。为了方便继续研究，\((x,y)\) 用以表示相对人中心一定偏移处的动作影响，如左手在腿边拨动手指应取 \((-32.5,0)\)）&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.09.01/featured.png" />
+    </item>
+    
+    <item>
+      <title>Currency Reverie</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.08.25/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.08.25/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;货币遐想 
+    &lt;div id=&#34;货币遐想&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%b4%a7%e5%b8%81%e9%81%90%e6%83%b3&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;（从不太专业的角度发表一点自己的狂想）&lt;/p&gt;
+&lt;p&gt;第一个是局域货币。可能可以在某些特定的商品范围（比如粮食、油气等）上使用某种代币。这类货币同样能够升值贬值，并与其他代币和基础币按浮动的汇率兑换，就像国与国之间一样。这样政府方面能有更精细化的货币工具调节市场和宏观经济运行。按照最优货币区理论，范围可以敲定在产业资本不易短期转出的边界。（其实工具十分灵活，还可以选择将某些商品纳入或不纳入货币区来进行调控。）（需要面对的倒是执行的效率和成本，以及相关的法律法规……）&lt;/p&gt;
+&lt;p&gt;第二个是数字化。对于全面网络化的交易现状和不可篡改的记账需求，我们无法忽视区块链技术带来的成果。我们大可以继续拥有央行、商行等金融机构（类似于 Dapps），它们同样参与于网络。比如央行通过包括公开市场操作在内的多种手段增减货币，或者不对央行进行余额检查（不太合适，还暴露了央行的地址）。目前又想到的两个不一定好的改进是非对称加密账本和记账分离。前者指隐藏各地址现有资产，通过将交易额等信息使用私钥加密但又保证公钥可以加以余额验证；后者指交易阶段和记账阶段的分离，如 10min dealing + 5min accounting，这样可以规避 PoW PoS 等选取机制的缺点，而由所有节点统一在一定时间内将交易池纳入账本打包（仍留有51%攻击，但基本没事。对于双重支付等问题应进一步设计机制解决，如挂起等待新的确认）。&lt;/p&gt;
+&lt;p&gt;第三个是去中心化。能不能进一步把这些银行去掉呢？我不能确定。有时候货币政策的目标牵扯到宏观的多方面（如减缓失业率），需要政府即一个当权者来综合考虑并做出适应性的把控。我们仅仅把目光放在当前范围内恐怕无法设计出合理的自适应货币系统。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.08.25/featured.png" />
+    </item>
+    
+    <item>
+      <title>Templatization</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.08.18/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.08.18/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;模板化 
+    &lt;div id=&#34;模板化&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%a8%a1%e6%9d%bf%e5%8c%96&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;这是一个简单的概念随想……我想把一些现象或性质解释为“模板化”。指的是人的思维倾向于将一些事物、特征模板化、固定且凸出化。&lt;/p&gt;
+&lt;p&gt;模板本质上具有同一性，希望将新事物的出现套入已有的认知当中，因此人们向往规律、科学。模板本质上也排除不确定性、复杂和中间状态，人们经常将新事物露出的一角扩大到全部，并强化、凸出化。“宏大叙事”大概也有一定关联，有些人热衷于军事、政治、历史等话题，往往很多事物都被过分模板化了，而忽略了人脑和人性中复杂幽微的那一面。从生物本源的角度上说，这可能是人类进化出的规避危险的措施——强化特征，例如悬崖很高很高，海面很大很大……使人望而却步。&lt;/p&gt;
+&lt;p&gt;突然转念一想，强调复杂性自己本身是不是一种模板化呢？或者构建“概念”本身就是有悖于对形而上学的批判的，就像阿多诺所说的那样？&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.08.18/featured.png" />
+    </item>
+    
+    <item>
+      <title>Annealed Polity Emerges</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.08.11/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.08.11/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;左右退火，政治飞升 
+    &lt;div id=&#34;左右退火政治飞升&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%b7%a6%e5%8f%b3%e9%80%80%e7%81%ab%e6%94%bf%e6%b2%bb%e9%a3%9e%e5%8d%87&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;我们设想有两座城市，城市里的人分为喜欢靠左走路和喜欢靠右走路两种。而城市需要规定马路要靠左或者靠右走。现在两个城市各有五个市民，三个喜欢靠左，两个喜欢靠右。如果我们采取全民公投（采纳半数及以上），那么两个城市都会选择靠左，每座城市都有两个人没有得到满足。（来自 Tiebout 模型，尽管其用以说明公共产品可以像私人产品一样由社区提供，但这里换一个不同的视角）&lt;/p&gt;
+&lt;p&gt;设想市民可以低成本的在两个地方迁徙。比如因为某种原因，一个城市的靠右走居民跑到另一个来了，现在三比四（三比三也可），于是这个城市便选择靠右走，而原本那个城市仍然靠左。这就把现在这里的三个靠左走的居民全气跑了，他们迁到了那个左走的城市里——现在所有人都满意了。&lt;/p&gt;
+&lt;p&gt;我想说的是什么呢？原本这个模型阻滞在一个并非最优的状态里。通过允许迁移的突变，系统进入了一个更优解。复杂系统由大量个体交互连结而成，此处系统作为一个整体需要决定如何处理靠左走还是靠右走的议题，如何在城市间妥善配置市民，这里会产生均衡，会有动力学，也会有循环、控制与混沌，这是原本个体的理论所无法预见且解释的。个体的行为学、心理学与群体的社会学、政治学仍然存在巨大的鸿沟，我们需要新的方法、新的科学范式。&lt;/p&gt;
+&lt;p&gt;当然可以扩大这个问题。可以有很多很多的市民，很多很多的城市与议题，还可以有各种各样的决策机制。计算机模拟给出了这样的结果：&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.8.11.jpg&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;（‘直接竞争’指党派竞争，由获胜党的纲领决定。‘比例代表制’为多党各占据一定席位，且按比例部分实施其纲领。）&lt;/p&gt;
+&lt;p&gt;我们知道远离非平衡态的热力学结构保持自组织的条件之一即是涨落。（Dissipative system by Prigogine, 1977 Nobel Prizer. \({\frac  {dV(x(t))}{dt}}\leq u(t)\cdot y(t)\) ）优秀的机制应该能在市内偏好异质时诱发更大的调整，在近于同质时具有稳定的负反馈。&lt;/p&gt;
+&lt;p&gt;我们已经看到，引入结构工整的噪声能导向更优的均衡、更具鲁棒性的状态。随着市民配置逐渐合理，城市机制将促使政策更加吻合相对同质的市民们的偏好，逐渐退火系统行为。（退火：将金属加温到高于再结晶温度的某一温度并维持一段时间，破坏了内部原子间的排列顺序，然后缓慢冷却，释放残留内应力，产生更加紧密的结构。算法中早有借鉴。）毋庸置疑，计算模型下的复杂系统给予了我们更广的视角。不过我们习惯了形式化的建模和基于第一性原理的理论，可能一时不愿接受也无法理解计算系统带来的结论和发现。&lt;/p&gt;
+&lt;p&gt;政治的本义（严格说，始终没有一个确切公认的定义——wiki）大概包括由个人及团体组成的集体的组织制度、治理监管、利益分配等作用关系。借某游戏名言“血肉苦弱，机械飞升”，标题想表达的即是一个社会复杂系统研究的视角：无数人类个体交互而成的复杂系统，含有一系列类似左右的议题，这个耗散结构在局部平稳实又混沌的变动和争斗中演化、自组织，那些退火过的结果方能优良而长久。这是系统的涌现（Emergence）、文明的飞升。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Miller, J. &amp;amp; Page, S. (2007). &lt;em&gt;Complex Adaptive Systems: An Introduction to Computational Models of Social Life&lt;/em&gt;. Princeton: Princeton University Press.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.08.11/featured.png" />
+    </item>
+    
+    <item>
+      <title>WeRun Pattern</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.08.04/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.08.04/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;步数模式 
+    &lt;div id=&#34;步数模式&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%ad%a5%e6%95%b0%e6%a8%a1%e5%bc%8f&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;晚上有时候会看微信步数榜单，大概能注意到很多人的步数是有规律的。步数能告诉一个人的多少信息？（两万以上可能在出游，一千以下大概率是没出门啦！）&lt;/p&gt;
+&lt;p&gt;我想一周中各时段的步数变化大概是有规律的（天的变化、一天中的变化）。波动不大的话可能还可以预测某个人明天的步数。（当然由于我列表里学生较多，寒暑假等大时段背景也要考虑。）不同人步数的模式不同，是不是可以提取出典型的因子呢？每个人由这些因子按一定权重组成。（比如上班族：周一到周五上下午有通勤的步数；夜跑族：晚上有运动；学生族：饭点步数，假期可能宅家等等）还可以结合对应好友的朋友圈来解释某些步数特征或异常点（旅游去了之类的）。反过来，是不是可以根据一个好友步数模式的情况推断他是上述哪种类型的人？（准确率多高呢？等我统计几个星期再来😋！）&lt;/p&gt;
+&lt;p&gt;（……这个话题并不新鲜，甚至是老套路）这让我想起一个有人做的类似的主题，大概是对Github上的程序猿们的工作时间图（contribution graph on your profile）作了统计聚类，大致有这么些典型形态：&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.8.4.png&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;（而我，是周五一条线😋）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;插播：Ad Hoc Theory and Tautology&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;关于”23.7.7 优秀的博弈家“那篇，突然发现张五常的《经济解释》里讲述了相近的内容（第一卷第三节），即两个极端——特殊理论与套套逻辑。一个优秀的理论必然要介于二者之间。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.08.04/featured.png" />
+    </item>
+    
+    <item>
+      <title>Meme Alive</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.07.28/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.07.28/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;流行的生命机制 
+    &lt;div id=&#34;流行的生命机制&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%b5%81%e8%a1%8c%e7%9a%84%e7%94%9f%e5%91%bd%e6%9c%ba%e5%88%b6&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;我想用一个 Prevalence 流行这个名词来一网打尽所有与人有关会重复出现的事物。后来想起模因论本身就比较契合——可以仿照从生命的角度来解释，但概念可以推的比 meme 更广泛一点，不仅仅是从一个人脑复制到另一个人脑的文化或语言事物（韦氏词典 meme: an idea, behavior, style, or usage that spreads from one person to another in a culture）。 比如一个人经常使用某个梗或沉迷某件事，他会在时间维度上呈现一个流行从兴起到爆发再到衰落的过程，不妨也认为是某种‘流行基因’的增殖。例子可以非常广泛，包括但不限于一项新技术的传播、一首榜单流行歌曲、一个微博热搜、以及传统模因论域中的如 ikun……&lt;/p&gt;
+&lt;p&gt;模因论指出的三要素为保真性 Fidelity、长寿性 longevity、多产性 Fecundity。流行依靠复制而生存，从这点来说其繁殖和生存，与一般生物不同，是强正相关的。但这个繁殖亦即传播有两种，一是本人的重复，二是人与人之间的传播。保真性并不排斥变异，相反流行的不断筛选演变的包装也是其作为生命的一个体现。说是生命的角度本质上仍然源于其繁衍具有生物的形态和过程——如单流行下的逻辑斯蒂方程。同理还可以研究多个流行的竞争和迭代，类似于生态系统中种群的竞争和共存；纳入群体传播的因素和一些统计学上的假定还可以研究群体流行的强度分布、方差的演变，回归得到不同社群的因子参数等等。需要指出的是，完整的演变还应描述种群的衰退，这通常由于时间增长后其激励不足（腻烦）即正反馈下降，从而热搜下跌，流行退流。&lt;/p&gt;
+&lt;p&gt;（&lt;em&gt;实证研究也尚未做。下面是一个简单的开头&lt;/em&gt;）&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.7.28.png&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.7.28%282%29.png&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[1] Richard Dawkins. The selfish gene. Oxford university press, 2016.&lt;/p&gt;
+&lt;p&gt;[2] Kleber A. Oliveira. Modelling meme popularity with networks. page 3558205 Bytes, 2023. Artwork Size: 3558205 Bytes Publisher: University of Limerick.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.07.28/featured.png" />
+    </item>
+    
+    <item>
+      <title>Winner-Take-All Game</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.07.21/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.07.21/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;一个游戏 
+    &lt;div id=&#34;一个游戏&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%b8%80%e4%b8%aa%e6%b8%b8%e6%88%8f&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;我曾在高中设计过一个“大型田忌赛马”的纸牌游戏：每张上面写以一个’东西‘，’东西‘有大小排序，类似上等马中等马劣等马（但是等级更多），再规定最小的牌胜于最大的牌。玩家随机分牌，同时出牌，最大者获得所有的牌。（准确来说不是田忌赛马——它是计赢的局数，每局出过的牌要丢弃）。但是赢者通吃这样的机制降低了趣味性，一旦你有很多大子之后只需要不断地尽力的大即可，弱势方根本没有翻盘的机会。于是后来附加了炸弹、换牌、抵挡等技能牌；不过只要炸弹等特殊子不够多，玩家就只有出大牌的激励，比如不停出第二大的牌。（这还可以用军旗玩，地雷等同炸弹，但工兵可以挖去地雷，该局其他人的子拿回。实际玩的效果非常好。）&lt;/p&gt;
+&lt;p&gt;为了克服机制上的缺点，本周的栏目想又来尝试性的设计一个简单的游戏！：&lt;/p&gt;
+&lt;p&gt;棋子分为红子、黑子、炸弹三种。每个玩家初始各一定量的红子和黑子（相同），炸弹子分为红炸弹、黑炸弹、双色炸弹三种（也可以只取一两种、个数初步打算一至二个）。&lt;/p&gt;
+&lt;p&gt;玩家自主决定出一定量的红子和一定量的黑子，不一定数量要相同（也可以只出一个颜色的子，另一个颜色视作出0个）。同时亮子，黑子数量最多者取走全部红子，红子数量最多者取走全部黑子。若红子最多有多个人，则这几个人的黑子对掉（舍弃），其余人拿回黑子，颜色反之同理。若存在红/黑炸弹，则所有红/黑子丢弃（双色全部丢弃）。&lt;/p&gt;
+&lt;p&gt;（想法是黑子优势化为红子，红子优势化为黑子；玩家需要平衡二色；绝对优势建立在双色均多的基础上，且受到炸弹干扰）（欢迎新想法和改进！）&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.07.21/featured.png" />
+    </item>
+    
+    <item>
+      <title>Semantic Information</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.07.14/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.07.14/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;语义信息量 
+    &lt;div id=&#34;语义信息量&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%af%ad%e4%b9%89%e4%bf%a1%e6%81%af%e9%87%8f&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;顺着 Research 里的红楼梦统计学讲，自然而然想到一个问题：怎么考察语言风格？是用词、用句、章法结构、信息量吗？这里想讨论一下我们怎么评估一个句子的信息量。&lt;/p&gt;
+&lt;p&gt;一个微观的角度从句子出发：&lt;/p&gt;
+&lt;p&gt;$$
+I = I(主) I(谓) I(宾) + I(定) I(宾) + I(状) I(谓) + I(谓) I(补) + \cdots
+$$&lt;/p&gt;
+&lt;p&gt;这个定义方式保证同样的几个实词，分成两句说和一句说有相同的信息量。&lt;/p&gt;
+&lt;p&gt;虚词应该直接定义为信息量为0的词，如 \(I(但)=0\) \(I(也)=0\)。这个角度来说，&amp;lsquo;是&amp;rsquo;不能算虚词。&lt;/p&gt;
+&lt;p&gt;目前认为 \(I(是) = I(一定) = 1\)、\(I(有) = I(存在) = 1\) 而 \(I(不是) =  I(一定不) = 0\)、\(I(可能) &amp;lt; 0\)（到底多少还应细化可能的含义才可以确定）&lt;/p&gt;
+&lt;p&gt;以上关键词的信息量推导自众所周知的香农的概念，他的信息量无关语义，这里可以构造出对接的地方。我得到的是 \(I(p) = p\log p + p\)（具体过程问我）。&lt;/p&gt;
+&lt;p&gt;容我解释一下，这个负信息量是有一定道理的。&lt;/p&gt;
+&lt;p&gt;$$ I(它不是红色) = 0 &amp;amp; \left{
+\begin{aligned}
+I(它可能是红色) &amp;lt; 0 \\
+I(而它不是红色) &amp;gt; 0
+\end{aligned}
+\right.
+$$&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.07.14/featured.png" />
+    </item>
+    
+    <item>
+      <title>Excellent Player</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.07.07/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.07.07/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;优秀的博弈家 
+    &lt;div id=&#34;优秀的博弈家&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bc%98%e7%a7%80%e7%9a%84%e5%8d%9a%e5%bc%88%e5%ae%b6&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;见到一个家长和幼儿的经典场景：小孩哭哭唧唧死活不走，家长苦口婆心拉来拽去，后又丢下不管……感觉正可以视作一场博弈。&lt;/p&gt;
+&lt;p&gt;那么这番流程是否是家长和小孩的精炼贝叶斯均衡呢？&lt;/p&gt;
+&lt;p&gt;婴儿哭闹也是类似，所以婴儿是精通博弈论的优秀玩家吗？我们喜欢用效用函数刻画人可能的行为，但似乎总是根据观察到的结果（均衡），套进理性的理论反过来估计或修正效用值，从而给予行为合理的解释——你看，就是这样吧！可是这是一个深度的博弈，婴儿不会讨论分析各个选项也不会写贝叶斯公式。&lt;/p&gt;
+&lt;p&gt;我们能在或应该在多大程度上描述效用（如果直接等同于做事的冲动大小）？婴儿会按自己的不一定理性的准则评估各个选择，这有多大程度是因为他是优秀的博弈家？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;插播：Continuation of Moments Entropy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;关于”23.5.19 朋友圈熵“那篇，惊讶的发现有人竟然有相似的想法，附于此：&lt;/p&gt;
+&lt;p&gt;[1] &lt;a
+  href=&#34;http://blog.ciaochaos.com/2020/02/paper/&#34;
+    target=&#34;_blank&#34;
+  &gt;http://blog.ciaochaos.com/2020/02/paper/&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;（分析的角度更加精细，提出了“注意熵”）&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.07.07/featured.png" />
+    </item>
+    
+    <item>
+      <title>How to Get a Path</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.06.30/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.06.30/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;路在何方 
+    &lt;div id=&#34;路在何方&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%b7%af%e5%9c%a8%e4%bd%95%e6%96%b9&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;（晚上无聊逛公园，记录一个无聊的小思考。）&lt;/p&gt;
+&lt;p&gt;我在公园里迷路乱走，发现路迂回曲折。忽然想起鲁迅先生的话：“世界上本没有路，走的人多了，也便成了路。”不过似乎公园里的草坪没有人走出来的路嘛，只有铺好的混乱的石板路。曾有故事说园区设计路线，结果设计师全部铺满了草坪最终人们自然走出了路——很难令人信服——一块巨大的草坪显然只会成为像光草一样的野餐好去处。或者证明了人尽皆知的两点之间直线最短罢了。&lt;/p&gt;
+&lt;p&gt;仔细思考一下，“成了路”的条件似乎不少，一是“本没有路”，至少人要走或另辟蹊径的地方本没有路（废话）；二是“走的人多了“。&lt;/p&gt;
+&lt;p&gt;这看上去是个有用的条件。首先我们需要大量的人，参与或必须经过（公园当然没有这么多人）。其次是人的同质性。大家都会用同样或类似的标准规划自己的路线，因而产生重叠。我想这两个条件很重要——试问真的所有市场的自发均衡都达到福利最优了吗？&lt;/p&gt;
+&lt;p&gt;这里已经指出了另一个问题：大家规划路线难道仅仅根据自己吗？从众的影响不可忽略。如果一览无余，那么大家都是极好的数学家（人们去向不同、各类直线都有的话最后只会成为光草或者光秃秃的草坪）。可是公园有各种建筑，有遮挡——大部分人不能很好的预知接下来的地方是什么样的——大家倾向于模仿，或参照已有的东西。这看上有一股辩证的味道，我们需要把控一个规划的东西到何种程度呢？&lt;/p&gt;
+&lt;p&gt;这里甚至有更多隐含的条件。人走过的路应该变得更加好走才对。走草坪要有成本（比如不喜欢把脚踩入毛扎扎的有许多蚊虫的草地中）。甚至还有人改变习惯的成本（反作用值得注意）。那么“成了路”仿佛正是极化的表现，就像垄断厂商具有的规模经济一样。 如果极化带来了实切的危害，那么有可能会限制路线（管理员Sherman立了一块牌子“这边要被踩秃啦”）或提前铺好石板路——就像计划经济、计划配置那样。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.06.30/featured.png" />
+    </item>
+    
+    <item>
+      <title>Hype Significance</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.06.23/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.06.23/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;显著你的显著 
+    &lt;div id=&#34;显著你的显著&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%98%be%e8%91%97%e4%bd%a0%e7%9a%84%e6%98%be%e8%91%97&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;（本周打算记录一个发生的小讨论，同时发表一点浅薄的见解）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;S&lt;/strong&gt;：我来考你一个问题（双信封悖论）：两个盒子，一个盒子里装的钱是另一个两倍。现在挑了一个打开发现有100元。主持人问你，你要不要换？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：随便。直觉感觉没有差别。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;S&lt;/strong&gt;：那我问你另一个盒子的期望是多少？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：(200+50)/2。看上去要换。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：等一下，这个期望是怎么来的，样本空间是什么？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;S&lt;/strong&gt;：你说的不对，这个问题有问题。当你认为另一个盒子有50%是200元，50%是50元时候已经默认了（x,2x）是均匀出现的。可是这个问题无法存在一个先验分布。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：你说得对，无限的\(\mathbb{Z}^+\)上无法定义一个等概率的分布。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：但是你这么想，当两个盒子钱装好后（&lt;strong&gt;固定&lt;/strong&gt;），我随机选一个，那么(200+50)/2是解释的通的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;S&lt;/strong&gt;：那我这么想，请问你看到100元获得了什么信息吗？那看到多少钱为什么能作为换不换的依据？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：从信息论的角度你不对。100确实没有用，但两个箱子有互信息，现在另一个箱子对我有一个条件熵。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;S&lt;/strong&gt;：我不太理解，感觉不是问题的关键。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：总之我想概率首先并不是一个能简简单单定义下来的东西，这个题目缺失了整个机制发生的背景空间而产生了悖论。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：当你问出换不换时，肯定是想说哪个行动收益更高——这必须重复实验，那么&lt;strong&gt;如何重复&lt;/strong&gt;就成为了关键，可惜问题没说。比如当两个盒子钱装好后，我还是倾向于那个简单计算，换一个。如果是一个有限区域内随机装入钱，我想就是最开始的回答，没有区别（或者像有些回答套了全概率公式）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：我发现这个争论的本质极其类似于传统统计推断里的参数估计，带有哲学色彩。我们都知道有三大流派。如果放到一切（比如这个节目搞了好多遍）金额下，这是Bayes的角度，大家开始强调并追究先验分布。如果是贝叶斯，那我想没必要什么收不收敛，它就有概念叫”广义先验分布“，还经常取1。你的观点跟Fisher是一致的，他的信念学派类似于一个均匀的先验分布，根据测得统计量反导出一个所谓的”信念分布“，于是嚷嚷出了悖论。但，我们最常用的还是Pearson（奈-皮）的理论体系。它的置信区间假定了固定的\(\mu\)，重复的是构造区间的过程。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：假设检验也一样。我必须假定零假设发生，假定盒子装好（x,2x）之后，我再来讨论统计量的分布。那么我想经过一次轮换和不经过不对称是有道理的，前者的比较起点是第一次手里的钱。但主要提出者Fisher并没有告诉我们零假设发生的概率是多少，就像95%的置信区间从来没说它有95%概率包含\(\mu\)一样。见下。&lt;/p&gt;
+&lt;p&gt;（知乎上也有不少讨论和更高的视角，可惜我（&lt;strong&gt;L&lt;/strong&gt;）现在不会测度论……）&lt;/p&gt;
+&lt;p&gt;我不认为完全搞懂了这个悖论，欢迎薄纱。不过这让我想到了之前在返朴公众号上看的一篇文章&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;，正好也指出了&lt;strong&gt;L&lt;/strong&gt;所讲的这件事：How to use significance.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./graph/23.6.23.jpg&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;（&lt;em&gt;Nature上发表的联名评论，呼吁摈弃统计显著/不显著的二分思维&lt;/em&gt;）&lt;/p&gt;
+&lt;p&gt;Mindless Statistics 很明显是危险的，公众号里表示其做过的一项调查显示所有受访人群均有80%-90%以上的人无法正确解读P值和CI。&lt;/p&gt;
+&lt;p&gt;P值无法给出原假设成立的概率，也不应仅仅依靠P值作下论断或判断模型的好坏。过分且片面的追求显著只会招致 p-hacking、publication bias 等等负面现象。&lt;/p&gt;
+&lt;p&gt;这个被忽视的局限性我想反映的跟双信封悖论相差不大。在Two Envelop Problem里大家cannot accept 125&amp;gt;100 with their Bayes&amp;rsquo; eyes，却在Hypothesis Testing里hype their significance p&amp;lt;0.05 like a Fisher。&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a
+  href=&#34;https://mp.weixin.qq.com/s/qBqnbgApI7Wuwv2zIu-8ww&#34;
+    target=&#34;_blank&#34;
+  &gt;https://mp.weixin.qq.com/s/qBqnbgApI7Wuwv2zIu-8ww&lt;/a&gt;
+&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.06.23/featured.png" />
+    </item>
+    
+    <item>
+      <title>Homomorphic Observation</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.06.16/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.06.16/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;观测同态 
+    &lt;div id=&#34;观测同态&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%a7%82%e6%b5%8b%e5%90%8c%e6%80%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;上厕所时想到一个问题（另一个问题是为什么我在厕所有这么多问题&amp;hellip;）：&lt;/p&gt;
+&lt;p&gt;如果我是一个害羞的尿频患者，我不想让人发现我尿频，但我应该恐慌从而尽量减少去厕所的次数吗？如果别人能发现我尿频——那一定是常常在厕所看到我——那他为什么常常在厕所——他至少比我频。想到这里，害羞的尿频患者可能就长呼一口气放心的频频去厕所了。&lt;/p&gt;
+&lt;p&gt;这是我想说的观测同态。我能发现你经常去厕所的前提是我也经常去厕所。知道我半夜翻墙多半你半夜也在墙边图谋不轨。只有跟对方“一条道子”的人才看得到或者看得懂对方。&lt;/p&gt;
+&lt;p&gt;抽象概括起来，观测和被观测者需要经历同样的过程、要求或处于同样的状态。破解的办法有什么呢？可以寻找获取额外的 “迹 Trace”。比如我老是去上厕所需要走过某窗户边，那人在教室老是看到我上厕所自然就好奇我大致是尿频了。&lt;/p&gt;
+&lt;p&gt;由于经验不足，我暂时一下子想不到观测同态在社会、经济等其他方面的例子（笑），但大概存在更宏大、更富有意义的应用。（欢迎提出）&lt;/p&gt;
+&lt;p&gt;容我再形而上学的追思一下：为什么有观测同态？一个事物，它的了解（少量运作）和运作（大量运作）两个交互状态可能无法区分（也许它的了解具有门槛或需要一定运作，比如我必须进到厕所才能看到你）（运作就是使用、执行等发挥事物原本功能的概念集合体）。但由于缺乏区分身份的信息或 Trace，大家会根据自己所得（自己参与少量或大量运作所观测到的）把少量的人当作了解者而把大量的人自动视作运作者。好比案发现场，有你你就具有嫌疑。而你频频出现在杀人地点附近，你会被路人当作路人，被检查官当作杀人犯。（笑）&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.06.16/featured.png" />
+    </item>
+    
+    <item>
+      <title>Dots and Boxes</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.06.09/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.06.09/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;划线围格 
+    &lt;div id=&#34;划线围格&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%88%92%e7%ba%bf%e5%9b%b4%e6%a0%bc&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;这是一个曾在我高中时流行的简单的纸笔小游戏。经过搜索叫做点格棋 Dots and Boxes，由法国数学家Lucas在1891年推出（原本以为没名字，自己取了中文名划线围格和英文名Grid Enclosing）（失望的发现已经是一个经典的Computer Games项目了，但还是坚持完成本篇吧）。游戏进程如下：有 \(n \times n\) 大小的网格，双方玩家互相沿着某一条直线划线（一次划一个单位小格的边），当某块区域被合拢围起来时，内部格数归最后一笔合拢的玩家所有，此时该玩家必须再走一步棋（直至没有产生围格为止）。到最后棋面被完全瓜分成若干个完整区域（最外的边线也要一笔笔划上），计算玩家得分（所占格数）判断胜利。&lt;/p&gt;
+&lt;p&gt;这里简单介绍我的一小部分想法：将游戏局面转化为连接图。（便于计算机存储、处理并设计算法；目前网上可以搜到最好的程序是alpha-beta search）&lt;/p&gt;
+&lt;p&gt;从每个边界开口进去，经过所有奇性格（四边中只有两条边被划过的格子），到达一处格子（小于等于一条边被划过的），称为中心格。中心格用圈表示，圈之间用直线连接，线旁标上连接管的格子长度（0长可不写）。每一步都是cut off一段直线并把其上数字归为己有。若一个圈只有两条线连接了，它将消失并与两边的线联合起来成为新的更长的管。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.6.9.jpg&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;（右上角笔误，斜线上写1）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;（原谅我有点懒，这之中还有很多定义和定理要详细证明，有时间单独发到research栏目里）&lt;/p&gt;
+&lt;p&gt;（图论及其矩阵的方式并不是很好，鉴于节点会消灭&amp;hellip;）&lt;/p&gt;
+&lt;p&gt;肯定有人想，这个想法很不错啊，为什么不继续？原因同开头——已经有人做过了！Elwyn R. Berlekamp 在[1]的前言中提到，自己在小时候便对点格棋产生了极大的兴趣，随后在当大学教授期间与学生Conway合作共同研究了相关理论[1] [2]。（有时间我再比较一下理论的异同）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;reference&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[1] Berlekamp, Elwyn R. &lt;em&gt;The dots and boxes game: sophisticated child&amp;rsquo;s play&lt;/em&gt;. CRC Press, 2000.&lt;/p&gt;
+&lt;p&gt;[2] Berlekamp, Elwyn R., John H. Conway, and Richard K. Guy. &lt;em&gt;Winning Ways for Your Mathematical Plays, Volume 3&lt;/em&gt;. CRC Press, 2018.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.06.09/featured.png" />
+    </item>
+    
+    <item>
+      <title>Choose Your Seat</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.06.02/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.06.02/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;占有空位子 
+    &lt;div id=&#34;占有空位子&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%8d%a0%e6%9c%89%e7%a9%ba%e4%bd%8d%e5%ad%90&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;大部分教学楼的座椅都是翻翻椅，上课时想到如果在座椅上装个传感器计数（甚至计时）翻下的次数和时间，可能可以获得大量有丰富内容的数据，我们可以以此探究教室受欢迎的座位和已有人坐的情况下大家选位的倾向。&lt;/p&gt;
+&lt;p&gt;这并不是一个新话题，（注意本段话有气味）毕导就有一个视频讲男生在小便池上的站位分布。我高中也提出过类似的，小便池的使用概率可能与隐私因子和方便因子有关，（使用频率不妨与尿渍面积挂钩）从而可以构造并分析隐私因子与位置的影响关系，如墙面、墙角和总体布局。&lt;/p&gt;
+&lt;p&gt;总之这是一个人类普遍面对的问题，有限的资源如何被最大的分配（就像鲁迅说的，走的人多了，自然就出结果了，所以我们要统计翻翻椅）。前提是环境已知（无危险性），人类便会四散而开，以保证自己最大限度的（隐性的）占有可能享用的资源（也有隐私的考虑），同时不会特别靠近边界。一个简单的想法是，对每一个点 \(\mathop{min}\limits_i\ d_i = d_k\) 归属于离它最近的\(k\)的人，衡量每个人最终占有的面积——这等价于多条中垂线交成的多边形以及部分的边界，并且这是一个不断加入的动态的过程。接着我们要对不同位置加以权重，毕竟像小便池一样，这些位置本身可能有好有坏，受到一些因子影响，面积需要改成积分（那么距离是否需要呢？）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;插播：Thermodynamic Cars&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今天看到同学介绍，热力学与统计物理可以有效的模拟交通状况（微观的车视作一个个分子），可以套入热传导（车从 heat 拥堵处向 cold 畅通处移动）、波尔兹曼公式（\(S = k ln W_{cars}\)）、甚至露点（有 article 说 traffic jam can be regarded as condensation），挺有趣的。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.06.02/featured.png" />
+    </item>
+    
+    <item>
+      <title>Introduction to Roll Theory</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.05.26/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.05.26/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;选课学导论 
+    &lt;div id=&#34;选课学导论&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%80%89%e8%af%be%e5%ad%a6%e5%af%bc%e8%ae%ba&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;（或许可以更广一些，所有带有一定公开机制、多人参与、多个选项且选项非全同的 game 都属于摇号论 roll theory 的研究范围，如房地产摇号、购车摇号、升学摇号等等）&lt;/p&gt;
+&lt;p&gt;鉴于🥚的绩点制度（省略一万字），如何选好课对于🥚的学生来说显得尤为重要。按照我目前（完全不成熟）的理论，分为三轮的选课只讨论第一轮。第二轮主要是开始那一刻一哄而上（可以视为是一种无 opening 的 roll，roll 的是网速），跟第三轮一样都有容量人数限制，不存在 roll 的过程。&lt;/p&gt;
+&lt;p&gt;这里空间太小，我只分享一些最初的想法。我们把一轮选课的 roll 机制视作单次的等注的完全的可以无限更改的 roll（必修课的模型符合程度会更高，毕竟有些选修课可能最后直接就不上了），每个人有一个预先的知识/信息（这个老师怎么样？）\(u_{0i}\) 表示\(i\)从1到n的所有 choices 的 priori scores，在 opening 即信息公开、众人博弈阶段的人数和课程容量分别为 \(x_i\) 和 \(c_i\)，这个预选概率为 \(p_i = c_i / x_i\)（可以大于1），它同样对决策起到影响——信息既有自己找的，也有通过人数反映的（从众？）——很明显不同人对二者偏倚程度不同，给出一个 \(s\) 以描述偏向 \(p_i\) 的程度。那么 posteriori scores 可以是一个函数 \(f(u_{0i},p_i,s)\) ，它带来的预期收益还要乘以roll上概率的作用——按照行为心理学（行为经济学），来一个概率加权函数 \(P(p_i)\) 是比较合适的（具体形式自行参考），如果简便起见直接理性人假设（大学选课还算接近？）那么就等于 \(p_i\)。\(f(u_{0i},p_i,s)\) 我暂时未经考证的猜测作 \(f = u_{0i}^{1-s} p_i^s\)。&lt;/p&gt;
+&lt;p&gt;那么每个人可以近似的认为追求效用最大化 \( u_i = f(u_{0i},p_i,s) P(p_i)\)（注意乘法是未经考虑的），\(\mathop{max}\limits_i \ u_i\) 的 choice \(i = i^*\)。进一步如果时间足够，可以解出群体的稳态解（或许不止一个）并视为达到稳态。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.05.26/featured.png" />
+    </item>
+    
+    <item>
+      <title>Moments Entropy</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.05.19/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.05.19/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;朋友圈熵 
+    &lt;div id=&#34;朋友圈熵&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%9c%8b%e5%8f%8b%e5%9c%88%e7%86%b5&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;身边似乎有无数持续的或快或慢的 random number generator，朋友圈只是其中之一。它能够在 0-24h 内的时间中随机性的产生新的朋友圈——当然，这取决于不同人的偏好和他的好友的偏好（以及屏蔽某些好友朋友圈的偏好）。或许傍晚时分和饭点的朋友圈数量比较密集。于是乎每个人都可以给出自己的朋友圈（微分）熵 \(H = \int p(t) \log p(t) dt\) 那么互信息 \(I(x;y)\)，不能说（几乎可以说）是两人共友的程度，也至少是别人朋友圈与你相仿的程度。还可以用相对熵量化各个朋友圈之间的距离，再做聚类，实现朋友圈画像的提取。（不过，以上并未考虑朋友圈的内容，我想可以增加一个维度的变量以表示朋友圈的各个类型，具体操作在此略去。）&lt;/p&gt;
+&lt;p&gt;（好吧，其实我觉得即使泊松过程也比这个好……）&lt;/p&gt;
+&lt;p&gt;还没完！这似乎是一个相当大且复杂的话题——一个邻接矩阵的有向图结构上附加了一定的发朋友圈概率发布和一定的刷朋友圈概率分布和因人而异的一定的点赞概率分布。例如研究点赞时间距朋友圈发出时间的分布（朋友圈点赞熵），别人给别人点赞后给你现在朋友圈点赞的概率分布……&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.05.19/featured.png" />
+    </item>
+    
+    <item>
+      <title>Touter or Scalper</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.05.12/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.05.12/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;进校权限市场 
+    &lt;div id=&#34;进校权限市场&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%bf%9b%e6%a0%a1%e6%9d%83%e9%99%90%e5%b8%82%e5%9c%ba&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;学校开放后实行学生免费无限预约访客进校的制度。大学校园具有的特质使其一定垄断性的面对远大于供的需求。于是某些平台上出现了销售进校权限的帖子（价格不断压低，并遭到一定程度的举报）。还有相当一部分游客直接到门口拦学生邀请，据我观察基本上拦上三四个就能找到好心人帮忙进校。（似乎也有专门在校门口卖权限的人）&lt;/p&gt;
+&lt;p&gt;其实更原本的问题自然是大学校园是否应该开放？开放是否应该收费？应收多少费？如果我是一个新古典的经济学家，我大概率会建议让市场定价——这很明显是扭曲的，首先这是一个信息不够流通的市场，既有touter也有scalper的存在（甚至应该分为线上线下两半）；其次学生只要动动手指即可预约入校，而进校人员的不确定性与其带来的拥堵、挤占公共资源的成本无法在进校权限价格里反映。一个想法是，学校公开对外限价销售，学生具有固定配额的亲友免费预约以保障其学生地位的权力。甚至可以按进校时长进行分段收费，达到更好的效果（激励游客不做长时间停留）。不过这个利润理论上应部分的给予校内受到影响的学生（比如食堂补贴）。同时将外来游客通过统一渠道管理的另一个好处是出现意外事件如盗窃时或许可以更好的追查。定价本身我觉得可以从设施维护、食堂用餐等附加成本和面对的需求情况做考量。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.05.12/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

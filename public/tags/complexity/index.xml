@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Complexity on 球面镜</title>
+    <link>http://localhost:1313/SphereMirror/tags/complexity/</link>
+    <description>Recent content in Complexity on 球面镜</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
+    <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
+    <copyright>© 2025 SphereMirror</copyright>
+    <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/complexity/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New Game of Life</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.09.08/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.09.08/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;新生命游戏 
+    &lt;div id=&#34;新生命游戏&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%96%b0%e7%94%9f%e5%91%bd%e6%b8%b8%e6%88%8f&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;Conway 的生命游戏是一个零玩家的元胞自动机（cellular automata）。每个单元格即一个细胞，其有生死两种状态； 当细胞的周围少于两个活细胞时，其会死于孤立；周围多于三个活细胞时，其会死于拥挤；两个或三个时能继续存活；当死细胞周围刚好有三个活细胞时，其会被繁殖激活。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.9.8.gif&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;（涌现出了的各式各样的模式，上图为滑翔者枪 glider gun）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;（有非常多网页实现此程序，推荐一个 conwaylife.com）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;（灵感来自军训时的迷彩服）我想把生命游戏扩展到多种类（部落），它们以不同颜色表示。下面以双色为例。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.9.8%282%29.png&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;除了单色下已有的模式，列举一个新发现的模式：&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.9.8%285%29.gif&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;（\(2\times2\)方块具有很强的稳定性，几乎不会被吞噬；吐司、灯塔、蜂巢等稳定结构均可以充当飞船反射镜，将另一个颜色的宇宙飞船以\(45^{\circ}\)角反弹为滑翔机，或称拓荒者；风车、四风车均能被拓荒者侵占）&lt;/p&gt;
+&lt;p&gt;（将规则中允许 cell that has 4 living same-color cells around keep alive 还能看到领地的城墙、界河等等现象）&lt;/p&gt;
+&lt;p&gt;可能还具有一些研究和现实的意义，在此按下不表。程序附于页末（py tk库制作）。&lt;/p&gt;
+&lt;p&gt;这里再发散一下，其实我们还可以多样化。棋盘可以使用各种密铺图形，它们不必相同，甚至可以模拟各种地理环境；规则也可以因此更加复杂，并向现实匹配；还可以增高维度，变成立方的生命游戏……&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.9.8%283%29.png&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;（一种不完全正镶嵌——中间的大多边形会是城堡吗？）&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a
+  href=&#34;./23.9.8.zip&#34;&gt;新生命游戏(双色)&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;界面如下：&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.9.8%284%29.png&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.09.08/featured.png" />
+    </item>
+    
+    <item>
+      <title>Annealed Polity Emerges</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.08.11/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.08.11/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;左右退火，政治飞升 
+    &lt;div id=&#34;左右退火政治飞升&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%b7%a6%e5%8f%b3%e9%80%80%e7%81%ab%e6%94%bf%e6%b2%bb%e9%a3%9e%e5%8d%87&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;我们设想有两座城市，城市里的人分为喜欢靠左走路和喜欢靠右走路两种。而城市需要规定马路要靠左或者靠右走。现在两个城市各有五个市民，三个喜欢靠左，两个喜欢靠右。如果我们采取全民公投（采纳半数及以上），那么两个城市都会选择靠左，每座城市都有两个人没有得到满足。（来自 Tiebout 模型，尽管其用以说明公共产品可以像私人产品一样由社区提供，但这里换一个不同的视角）&lt;/p&gt;
+&lt;p&gt;设想市民可以低成本的在两个地方迁徙。比如因为某种原因，一个城市的靠右走居民跑到另一个来了，现在三比四（三比三也可），于是这个城市便选择靠右走，而原本那个城市仍然靠左。这就把现在这里的三个靠左走的居民全气跑了，他们迁到了那个左走的城市里——现在所有人都满意了。&lt;/p&gt;
+&lt;p&gt;我想说的是什么呢？原本这个模型阻滞在一个并非最优的状态里。通过允许迁移的突变，系统进入了一个更优解。复杂系统由大量个体交互连结而成，此处系统作为一个整体需要决定如何处理靠左走还是靠右走的议题，如何在城市间妥善配置市民，这里会产生均衡，会有动力学，也会有循环、控制与混沌，这是原本个体的理论所无法预见且解释的。个体的行为学、心理学与群体的社会学、政治学仍然存在巨大的鸿沟，我们需要新的方法、新的科学范式。&lt;/p&gt;
+&lt;p&gt;当然可以扩大这个问题。可以有很多很多的市民，很多很多的城市与议题，还可以有各种各样的决策机制。计算机模拟给出了这样的结果：&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./23.8.11.jpg&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;（‘直接竞争’指党派竞争，由获胜党的纲领决定。‘比例代表制’为多党各占据一定席位，且按比例部分实施其纲领。）&lt;/p&gt;
+&lt;p&gt;我们知道远离非平衡态的热力学结构保持自组织的条件之一即是涨落。（Dissipative system by Prigogine, 1977 Nobel Prizer. \({\frac  {dV(x(t))}{dt}}\leq u(t)\cdot y(t)\) ）优秀的机制应该能在市内偏好异质时诱发更大的调整，在近于同质时具有稳定的负反馈。&lt;/p&gt;
+&lt;p&gt;我们已经看到，引入结构工整的噪声能导向更优的均衡、更具鲁棒性的状态。随着市民配置逐渐合理，城市机制将促使政策更加吻合相对同质的市民们的偏好，逐渐退火系统行为。（退火：将金属加温到高于再结晶温度的某一温度并维持一段时间，破坏了内部原子间的排列顺序，然后缓慢冷却，释放残留内应力，产生更加紧密的结构。算法中早有借鉴。）毋庸置疑，计算模型下的复杂系统给予了我们更广的视角。不过我们习惯了形式化的建模和基于第一性原理的理论，可能一时不愿接受也无法理解计算系统带来的结论和发现。&lt;/p&gt;
+&lt;p&gt;政治的本义（严格说，始终没有一个确切公认的定义——wiki）大概包括由个人及团体组成的集体的组织制度、治理监管、利益分配等作用关系。借某游戏名言“血肉苦弱，机械飞升”，标题想表达的即是一个社会复杂系统研究的视角：无数人类个体交互而成的复杂系统，含有一系列类似左右的议题，这个耗散结构在局部平稳实又混沌的变动和争斗中演化、自组织，那些退火过的结果方能优良而长久。这是系统的涌现（Emergence）、文明的飞升。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Miller, J. &amp;amp; Page, S. (2007). &lt;em&gt;Complex Adaptive Systems: An Introduction to Computational Models of Social Life&lt;/em&gt;. Princeton: Princeton University Press.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.08.11/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

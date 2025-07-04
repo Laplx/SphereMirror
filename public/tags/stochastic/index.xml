@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stochastic on 球面镜</title>
+    <link>http://localhost:1313/SphereMirror/tags/stochastic/</link>
+    <description>Recent content in Stochastic on 球面镜</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
+    <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
+    <copyright>© 2025 SphereMirror</copyright>
+    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/stochastic/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>随机分析（上）</title>
+      <link>http://localhost:1313/SphereMirror/notes/stochastic-analysis/part1/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/notes/stochastic-analysis/part1/</guid>
+      <description>&lt;p&gt;
+
+$$
+F. \langle M\rangle
+$$&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/stochastic-analysis/part1/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

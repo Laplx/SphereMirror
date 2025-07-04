@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Numerical on 球面镜</title>
+    <link>http://localhost:1313/SphereMirror/tags/numerical/</link>
+    <description>Recent content in Numerical on 球面镜</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
+    <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
+    <copyright>© 2025 SphereMirror</copyright>
+    <lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/numerical/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>共轭梯度法（CG Method）</title>
+      <link>http://localhost:1313/SphereMirror/notes/numerical/cg/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/notes/numerical/cg/</guid>
+      <description>&lt;p&gt;
+
+如果初始点的选择不好或者函数行为不好时，最速下降法可能并不理想。我们先从几何和直觉上展示共轭梯度法，同时可以在后文理清数学逻辑后再来看看这两张图。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;CG&#34; src=&#34;./CG.jpg&#34;&gt;
+
+  
+    &lt;figcaption&gt;CG Sketch for memory&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;对于精确线搜索，最速下降法的前后两步的下降方向必定是垂直的，从而导致了可能的 zigzag 现象。共轭梯度法所选择的共轭方向 \(p_i\) 更加具备全局性；例如图中的二次函数 \(f=\frac{1}{2}x^\prime Ax-b^\prime x,\ \nabla f = Ax-b\)，第二步的方向一定指向最优点 \(Ax^*=b\)。右图可见共轭方向并不一定垂直，而是 \(A\) 意义下的垂直：\(p_i^\prime Ap_j = 0,\ i\neq j\)。注意到对于 \(A\in \mathbb{S}_+\)，易证这一组 \(\{p_i\}_{i=1}^n\) 线性独立，我们希望逐步获得 \(x^*\) 在这组基上的表示。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;我们先考虑线性版本（即上面的 \(f\)）。&lt;/p&gt;
+&lt;p&gt;$$
+\dots \overset{p_{i-1}}{\longrightarrow} x_i \overset{p_{i}}{\longrightarrow} \dots
+$$&lt;/p&gt;
+&lt;p&gt;假装我们能获取每一步的搜索方向 \(p_i\)，那么由精确线搜索知 \(p_i \perp -\nabla f_{i+1}\)，其中 \(\nabla f_{i+1} := \nabla f(x_{i+1})\)，且 \(x_i = x_0 + \sum_{j=0}^{i-1}\alpha_j p_j\)，\(\alpha_i\) 记步长。&lt;/p&gt;
+&lt;p&gt;同时我们可以直接得到一个关于搜索步长的表达式，对 \(f(x_i + \alpha_i p_i) = g(\alpha_i),\ g^\prime (\alpha_i) = 0\) 得到&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/numerical/cg/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

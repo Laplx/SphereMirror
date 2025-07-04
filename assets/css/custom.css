@@ -1,0 +1,9 @@
+/* @font-face {
+    font-family: font;
+    src: url('/fonts/font.ttf');
+} */
+
+html {
+    font-family: "PingFang SC", "Microsoft YaHei", "Hiragino Sans GB", 
+    "WenQuanYi Micro Hei", sans-serif;
+}

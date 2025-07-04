@@ -1,0 +1,161 @@
+colorScheme = "blowfish"
+
+enableSearch = true
+enableCodeCopy = true
+
+replyByEmail = false
+
+defaultBackgroundImage = "/img/background.svg"
+defaultFeaturedImage = "/img/featured.png"
+# defaultSocialImage = 
+
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = false
+
+mainSections = ["notes"]
+
+[homepage]
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  # homepageImage = "/img/iceland.jpg" # used in: hero, and card
+
+  showRecent = true
+  showMoreLink = true
+  showMoreLinkDest = "essays"
+
+  cardView = true
+  cardViewScreenWidth = false
+
+  layoutBackgroundBlur = true # only used when layout equals background
+  disableHeroImageFilter = false # only used when layout equals hero
+
+[header]
+  layout = "fixed" # valid options: basic(default), fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[article]
+  showDate = true
+  showViews = false # need Firebase
+  showLikes = false # need Firebase
+  showComments = true
+
+  showDateOnlyInArticle = true
+  showDateUpdated = false
+
+  showAuthor = false # default author SphereMirror
+  showAuthorBottom = true
+
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+
+  layoutBackgroundBlur = true # only used when heroStyle equals background
+  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+
+  showBreadcrumbs = true
+  showDraftLabel = true
+
+  showEdit = false
+  editURL = "https://github.com/Laplx/blogo/tree/main/content"
+  editAppendPath = true
+
+  seriesOpened = false
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+
+  showReadingTime = true
+
+  showTableOfContents = true
+  showRelatedContent = true
+  relatedContentLimit = 3
+
+  showTaxonomies = true 
+  showAuthorsBadges = false # requires the setup of multiple authors and the authors taxonomy
+  showWordCount = false # enable hasCJKLanguage in hugo.toml
+
+  sharingLinks = ["email", "twitter", "facebook", "telegram", "reddit", "whatsapp", "linkedin", "bluesky", "pinterest", "line"]
+  showZenMode = true
+
+[list]
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background
+  layoutBackgroundHeaderSpace = false
+
+  showBreadcrumbs = false
+  showSummary = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = true
+
+  showCards = false
+  orderByWeight = true
+  groupByYear = false
+
+  cardView = false
+  cardViewScreenWidth = false
+  constrainItemsWidth = false
+
+[sitemap]
+  excludedKinds = []
+
+[taxonomy]
+  showTermCount = true
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+
+  showBreadcrumbs = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = true
+
+  cardView = false
+
+[term]
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+
+  showBreadcrumbs = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = true
+
+  groupByYear = false
+
+  cardView = true
+  cardViewScreenWidth = false
+  
+[firebase]
+  # apiKey = 
+  # authDomain = 
+  # projectId = 
+  # storageBucket = 
+  # messagingSenderId = 
+  # appId = 
+  # measurementId = 
+
+[buymeacoffee]
+  # identifier = 
+  # globalWidget = true
+  # globalWidgetMessage = ""
+  # globalWidgetColor = "#FFDD00"
+  # globalWidgetPosition = "Right"
+
+[verification]
+  # google = ""
+  # bing = ""
+  # pinterest = ""
+  # yandex = ""
+
+[rssnext]
+  # feedId = ""
+  # userId = ""
+
+[advertisement]
+  # adsense = ""

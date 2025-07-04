@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics on 球面镜</title>
+    <link>http://localhost:1313/SphereMirror/tags/statistics/</link>
+    <description>Recent content in Statistics on 球面镜</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
+    <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
+    <copyright>© 2025 SphereMirror</copyright>
+    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Transportation Cost</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/24.01.12/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.01.12/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;交通成本 
+    &lt;div id=&#34;交通成本&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%ba%a4%e9%80%9a%e6%88%90%e6%9c%ac&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;买车票时发现快车价格高、慢车价格低（废话），心想会跟不同人单位时间的利用效率有关吗？来看一看我们搭乘交通工具时付出了哪些成本：&lt;/p&gt;
+&lt;p&gt;$$
+f + w t
+$$&lt;/p&gt;
+&lt;p&gt;\(w\) 表示了乘车时间造成的成本，不仅仅是工作薪资的机会成本，还包括人们本身对时间的偏好，也反映在长时间待在交通工具造成的不愉快上。如果一个交通工具环境比较不舒服的话，其 \(w\) 很可能要大一些。不妨猜测&lt;/p&gt;
+&lt;p&gt;$$
+f_0 + As + wt + be^{\gamma t} + p \approx Const
+$$&lt;/p&gt;
+&lt;p&gt;其中 \(f= f_0 +As\)，\(f_0\) 表示机场、火车站安检进站等固定成本，\(s\) 为机场、火车站的距离，\(A\) 则与城市交通能力有关。除了工资 \(w\) 的机会成本外，环境造成的成本也许是指数形式的 \(be^{\gamma t}\)。&lt;/p&gt;
+&lt;p&gt;不过！——国铁的定价基本是统一按照一定的计算规则来的（部分广铁除外）。时速 300 km/h 及以上的线路，G 字头车二等座票价率一般为 0.46 元/公里，D 字头为 0.31 或 0.37 元/公里；并递远递减，分段计价；一等座、特等座和商务座的票价，则分别按照二等座票价的 1.6 倍、1.8 倍和 3 倍计算。而机票甚至还有价格走势；同时还要剔除凌晨、饭点等起抵时间对作息和行程安排的影响。德国和日本或许是最佳的样本，一方面铁路客运发达，一方面相较而言市场化一点。京沪高铁等几条线路这些年开始推动市场化浮动定价，我们可以姑且作个初步的观察。我从12306网站上爬取了上海至北京的车次票价 \(p\) 和用时 \(t\)，\(w\) 的回归结果约为 0.72 元/分钟（\(R^2 = 0.64\)，二等座），而商务座 \(w\) 约为 2.63 元/分钟（一天工作9小时，相当于11万和38万的年薪）。并且 \(v\) 对各舱位来说相近，确实是 \(b\) 的差别。单就线性回归而言，飞机的 \(w\) 可能在 2.3 元/分钟附近（飞机经济舱的数据更加复杂，这样子做意义不大），确实比铁路要小一些，说明乘坐环境大概没有高铁舒服吧。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.01.12/featured.png" />
+    </item>
+    
+    <item>
+      <title>The Apple that Never Lands</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.11.17/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.11.17/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;永不落地的苹果 
+    &lt;div id=&#34;永不落地的苹果&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%b0%b8%e4%b8%8d%e8%90%bd%e5%9c%b0%e7%9a%84%e8%8b%b9%e6%9e%9c&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;（更多关于民科的了解可以查看“其他收录”中的民科小传一篇，其末尾还有本人的一些讨论）&lt;/p&gt;
+&lt;p&gt;我在想一个&lt;/p&gt;
+&lt;p&gt;$$
+\text{Scipop Paradox}:\\
+\frac{PseudoPaper_i}{Population_i} = \sum\limits_{t\in T} \beta_t \frac{ScipopWork_{i,t}}{Population_{i,t}} + \gamma&amp;rsquo;\mathcal{X}_{i} + \alpha_i + u
+$$&lt;/p&gt;
+&lt;p&gt;\(Scipop\) 指的是 science popularization，科普的一种翻译。但国外 scientific literacy 科学素养使用的更多（用此关键词搜索文章也与科普更为相关）。&lt;/p&gt;
+&lt;p&gt;这里采用省截面数据（\(i\)），\(ScipopWork\) 指各省发行出版或流通的科普性质的作品量，\(PseudoPaper\) 指民科的生产量——这从哪里来呢？把时间背景（\(T\)）放到上世纪80-90年代左右，中科院研究所每天都要收到大量信件宣称自己造出了永动机或解决了哥德巴赫猜想之类的……可以统计其寄件人的省份分布得到。（当然还有不少自费出版的民科书籍可以统计；再不济还能看新闻里的主人公来自哪里……）\(\mathcal{X}\) 为控制变量，可能包含人均产出、城市化水平、科教院所数量等。我的 prediction 为：\(\beta_t\) 在1978年“科学的春天”后的十余年里显著为正。亦即一个看上去像是悖论的命题：当时的科普风气越盛，民科数量反而越多。&lt;/p&gt;
+&lt;p&gt;进一步的 endogeneity concern or robustness 暂且略去。比如寻找 \(ScipopWork\) 可能的工具变量；考虑 \(ScipopAuthor\) 科普作者的地区分布；回归 \(\frac{TruePaper}{Population}_i\) ，也许存在着负向关联放大悖论。&lt;/p&gt;
+&lt;p&gt;科普历来是争论的话题。在我眼里，就像 scientific literacy 一样，科普本身即应该定义为科学的末端，无非是让不了解此领域的人能以科学的视角和方法正式的纳入一些有关此领域的基础知识罢了。可这是需要基本的教育去提供基本的理性素养的。&lt;/p&gt;
+&lt;p&gt;而当下的科普不是去关注苹果落地后发生的事，却只着重宣传苹果掉落的瞬间。科学理论本身是理性且严肃的，其宣传却夹杂着浪漫与造神主义；美其名曰加入科学史和人文元素，却只剩下了科学史和人文元素。思而不学，不接受真正的科学普及而仅仅凭着一些类科普提供的模糊面貌和一些内心的激情与偏执大肆幻想，便成为了民科。&lt;/p&gt;
+&lt;p&gt;（虽然还没实证确定呢！）我想说的只是，这个看起来就很伪的悖论告诉大家：科普何以存在？没有坚实的教育和素质基础，没有合格的传播和内容关注，科普便会永远停留在伪命题上，apples will never on the ground。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.11.17/featured.png" />
+    </item>
+    
+    <item>
+      <title>Measure Design</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.09.22/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.09.22/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;建筑设计的计量 
+    &lt;div id=&#34;建筑设计的计量&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%bb%ba%e7%ad%91%e8%ae%be%e8%ae%a1%e7%9a%84%e8%ae%a1%e9%87%8f&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;我记得有种说法：高度发达的文明其艺术品的设计往往开始做“减法”，不再不断地添加繁复的雕刻和装饰，而是有意的简化和突出。这让我想到当下大城市里开始涌现的现代建筑和后现代建筑，想来我们可以去计量一个地区的艺术水平——似乎有些困难？不如先从建筑设计的水平开始。&lt;/p&gt;
+&lt;p&gt;不是美是稀缺的，而是稀缺造就美。&lt;/p&gt;
+&lt;p&gt;审美的本质是什么恐怕不是一个能在这里简简单单就讨论完的东西。我现在比较武断的做出以上论断，是为了进一步发展指标。我倾向于认为是人类具有“审美的需求”——这个需求在日常的普遍的生活中没有得到满足——这正是稀缺性的意义。（我还要提到一个反驳的角度：这个价值与创造性价值尚有区分。如果我们纳入时间变量，那么富有创造性价值的事物在其之前极其稀缺，而在之后带动了大量的模仿者，或者说自己成为了开创者，那么它显然具有美的价值。但当这个事物的元素在生活中俯拾即是的时候，大家自然不再对其审美敏感。）&lt;/p&gt;
+&lt;p&gt;以此逻辑为基础，我们同时也需要一些事先由美学专家（建筑设计家）挑出的评价维度，它反映了人类共性的审美需求。例如建筑的几何外形、色彩、结构、纹理（\(X_1, X_2, X_3, X_4, \ldots\)）。借助计算机技术，我们可以获取一个街区的实景图，将各个建筑依照各个维度，进行数学上（计算机视觉上）的相似计算 \(r_{ij1}, r_{ij2}, \ldots\) ，再按一定方式如加权得到一个合并的建筑 \(i\) 和建筑 \(j\) 的相似系数 \(r_{ij} = f(r_{ij1}, r_{ij2}, \ldots)\) 。&lt;/p&gt;
+&lt;p&gt;我们定义一个建筑对于一整个要考察的建筑群（称背景或参考基）的设计价值（审美价值）\(v_i\) 为&lt;/p&gt;
+&lt;p&gt;$$
+v_i = \sum_j \frac{r_{ij}}{v_j}
+$$&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;（\(j\) 的遍历包括 \(i\) 自身，需要自己给自己“壮胆”）（通过联立群体内全部建筑求解）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;我未经严格考证的认为它确实具有 1. 给离群点赋以高值 2. 给群聚性缓慢提高值 等等合理的数学性质。&lt;/p&gt;
+&lt;p&gt;上述把稀缺性挂钩审美价值的作法受到质疑大概来自这两个方面：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;日常的（普遍的）到底是什么？&lt;/li&gt;
+&lt;li&gt;古怪的垃圾品？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;建筑可以近乎完美的解决这两个问题，而绘画、音乐等艺术还需进一步考量。我们考虑全部的建筑具有一定的可行性，它们就是大家生活中接触到的建筑物的全集，那么一个标新立异的富有变异感的设计可以被视为高审美价值的。古怪的垃圾品鉴于建筑的规划、审批、施工需要层层把关实现，不大可能出现彻底的丑，何况不走寻常路可能本身就是艺术呢（比如争论中的行为艺术）。而画作、曲作的对比背景应该是人的日常生活，所以人们会喜欢欣赏画喜欢听音乐，我想这个指标可能需要做改进。&lt;/p&gt;
+&lt;p&gt;从这个指标出发，那么研究空间就大了。我抛砖引玉一个：&lt;/p&gt;
+&lt;p&gt;现在的城市建筑都由设计院、建筑事务所设计。最终整个城市或某个空间区域分布里的总设计度 \(V = \sum v\) 与它们花费的总设计费用 \( C = \sum c\) 的比值 \( \zeta = \frac{V}{C}\) 表示了一单位费用下产生的艺术效用，称作 \( conservative\ factor \ \zeta\)  保守度——因为建设过程是甲乙双方协商的结果，文化保守的地区在变异程度上要弱于开放的地区，可能也是人均 GDP 高的地区。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.09.22/featured.png" />
+    </item>
+    
+    <item>
+      <title>Hype Significance</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/23.06.23/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.06.23/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;显著你的显著 
+    &lt;div id=&#34;显著你的显著&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%98%be%e8%91%97%e4%bd%a0%e7%9a%84%e6%98%be%e8%91%97&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;（本周打算记录一个发生的小讨论，同时发表一点浅薄的见解）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;S&lt;/strong&gt;：我来考你一个问题（双信封悖论）：两个盒子，一个盒子里装的钱是另一个两倍。现在挑了一个打开发现有100元。主持人问你，你要不要换？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：随便。直觉感觉没有差别。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;S&lt;/strong&gt;：那我问你另一个盒子的期望是多少？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：(200+50)/2。看上去要换。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：等一下，这个期望是怎么来的，样本空间是什么？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;S&lt;/strong&gt;：你说的不对，这个问题有问题。当你认为另一个盒子有50%是200元，50%是50元时候已经默认了（x,2x）是均匀出现的。可是这个问题无法存在一个先验分布。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：你说得对，无限的\(\mathbb{Z}^+\)上无法定义一个等概率的分布。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：但是你这么想，当两个盒子钱装好后（&lt;strong&gt;固定&lt;/strong&gt;），我随机选一个，那么(200+50)/2是解释的通的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;S&lt;/strong&gt;：那我这么想，请问你看到100元获得了什么信息吗？那看到多少钱为什么能作为换不换的依据？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：从信息论的角度你不对。100确实没有用，但两个箱子有互信息，现在另一个箱子对我有一个条件熵。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;S&lt;/strong&gt;：我不太理解，感觉不是问题的关键。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：总之我想概率首先并不是一个能简简单单定义下来的东西，这个题目缺失了整个机制发生的背景空间而产生了悖论。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：当你问出换不换时，肯定是想说哪个行动收益更高——这必须重复实验，那么&lt;strong&gt;如何重复&lt;/strong&gt;就成为了关键，可惜问题没说。比如当两个盒子钱装好后，我还是倾向于那个简单计算，换一个。如果是一个有限区域内随机装入钱，我想就是最开始的回答，没有区别（或者像有些回答套了全概率公式）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：我发现这个争论的本质极其类似于传统统计推断里的参数估计，带有哲学色彩。我们都知道有三大流派。如果放到一切（比如这个节目搞了好多遍）金额下，这是Bayes的角度，大家开始强调并追究先验分布。如果是贝叶斯，那我想没必要什么收不收敛，它就有概念叫”广义先验分布“，还经常取1。你的观点跟Fisher是一致的，他的信念学派类似于一个均匀的先验分布，根据测得统计量反导出一个所谓的”信念分布“，于是嚷嚷出了悖论。但，我们最常用的还是Pearson（奈-皮）的理论体系。它的置信区间假定了固定的\(\mu\)，重复的是构造区间的过程。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&lt;/strong&gt;：假设检验也一样。我必须假定零假设发生，假定盒子装好（x,2x）之后，我再来讨论统计量的分布。那么我想经过一次轮换和不经过不对称是有道理的，前者的比较起点是第一次手里的钱。但主要提出者Fisher并没有告诉我们零假设发生的概率是多少，就像95%的置信区间从来没说它有95%概率包含\(\mu\)一样。见下。&lt;/p&gt;
+&lt;p&gt;（知乎上也有不少讨论和更高的视角，可惜我（&lt;strong&gt;L&lt;/strong&gt;）现在不会测度论……）&lt;/p&gt;
+&lt;p&gt;我不认为完全搞懂了这个悖论，欢迎薄纱。不过这让我想到了之前在返朴公众号上看的一篇文章&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;，正好也指出了&lt;strong&gt;L&lt;/strong&gt;所讲的这件事：How to use significance.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./graph/23.6.23.jpg&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;（&lt;em&gt;Nature上发表的联名评论，呼吁摈弃统计显著/不显著的二分思维&lt;/em&gt;）&lt;/p&gt;
+&lt;p&gt;Mindless Statistics 很明显是危险的，公众号里表示其做过的一项调查显示所有受访人群均有80%-90%以上的人无法正确解读P值和CI。&lt;/p&gt;
+&lt;p&gt;P值无法给出原假设成立的概率，也不应仅仅依靠P值作下论断或判断模型的好坏。过分且片面的追求显著只会招致 p-hacking、publication bias 等等负面现象。&lt;/p&gt;
+&lt;p&gt;这个被忽视的局限性我想反映的跟双信封悖论相差不大。在Two Envelop Problem里大家cannot accept 125&amp;gt;100 with their Bayes&amp;rsquo; eyes，却在Hypothesis Testing里hype their significance p&amp;lt;0.05 like a Fisher。&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a
+  href=&#34;https://mp.weixin.qq.com/s/qBqnbgApI7Wuwv2zIu-8ww&#34;
+    target=&#34;_blank&#34;
+  &gt;https://mp.weixin.qq.com/s/qBqnbgApI7Wuwv2zIu-8ww&lt;/a&gt;
+&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.06.23/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

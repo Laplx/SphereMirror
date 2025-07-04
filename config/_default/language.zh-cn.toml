@@ -1,0 +1,18 @@
+title = '球面镜'
+
+languageCode = 'zh-cn'
+languageName = '中文'
+
+[params]
+  displayName = '简体中文'
+
+[params.author]
+  name = "SphereMirror"
+  email = "spheremirror@outlook.com"
+  image = "/img/author.png"
+  # headline = ""
+  links = [
+    { email = "spheremirror@outlook.com" },
+    { X-twitter = "https://twitter.com/SphereMirror" },
+    { github = "https://github.com/Laplx/SphereMirror" },
+  ]

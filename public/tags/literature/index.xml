@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Literature on 球面镜</title>
+    <link>http://localhost:1313/SphereMirror/tags/literature/</link>
+    <description>Recent content in Literature on 球面镜</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
+    <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
+    <copyright>© 2025 SphereMirror</copyright>
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/literature/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Geometric Hermeneutics</title>
+      <link>http://localhost:1313/SphereMirror/essays/frivols/25.01.10/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <author>spheremirror@outlook.com (SphereMirror)</author>
+      <guid>http://localhost:1313/SphereMirror/essays/frivols/25.01.10/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;语言的几何学阐释 
+    &lt;div id=&#34;语言的几何学阐释&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%af%ad%e8%a8%80%e7%9a%84%e5%87%a0%e4%bd%95%e5%ad%a6%e9%98%90%e9%87%8a&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;./25.1.10.jpg&#34;&gt;
+
+  
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h4 class=&#34;relative group&#34;&gt;Meaning 
+    &lt;div id=&#34;meaning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#meaning&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h4&gt;
+&lt;p&gt;我们不能理解完全不依靠&lt;strong&gt;现实&lt;/strong&gt;的意义。（现实指的不一定就是真实存在发生的，而是一种类似生活经验的东西）所有的意思（意义，关于另外一种 “意义” 见下一小节）都指代了一系列可能的现实世界过程（称作&lt;strong&gt;宇宙&lt;/strong&gt; \(u\)）。某一时刻的宇宙 \(u(t)\) 称作世界，是一系列状态信息的集合（能想象到的所有信息都可以如此纳入）\({\pi^1,\pi^2,\dots}\)（暂时先把不可数的打包在一起，写成可数的形式；注意我们可以想象虚空中的抽象状态，但它仍然是一个与其他事实状态无二的东西）。一个半宇宙（前向/后向宇宙）指 \({u_t}&lt;em&gt;{t\ge 0}\) 或 \({u_t}&lt;/em&gt;{t\le 0}\)，包含一个给定的始终点 \(u_0\)。注意我们目前没说 \(u(t)\) 随时间的变化满足一定的规律（比如 Newton&amp;rsquo;s Law），它允许了一切天马行空的假设与想象力。所有这些平行宇宙的集合 \(\mathcal{O}\) 称作&lt;strong&gt;客观集&lt;/strong&gt;，鉴于它们都是思考的对象（因此可能可以认为启蒙运动是在扩展客观集）。建模时状态是&lt;strong&gt;外禀&lt;/strong&gt;的；例如总有人知道电场的存在，有人的世界里是不知道的（“因为太愚昧或太聪明而获得自由的幻象” 亨利·詹姆斯《使节》）。对于某个读者来说，他所能理解的一切宇宙集合记作&lt;strong&gt;知识域&lt;/strong&gt; \(\mathcal{K}=\hat{\mathcal{O}}\)。但这里面有一些宇宙大概是符合一些规律的，我们把符合该规律的集合称作&lt;strong&gt;真域&lt;/strong&gt; \(\mathcal{T}\)；同样，比方说或许有人眼里 Newton&amp;rsquo;s Law 和大家的不一样，故每个读者都有自己认为的真域 \(\mathcal{U}=\hat{\mathcal{T}}\)。&lt;strong&gt;意思空间&lt;/strong&gt; \(\mathcal{M}=\mathcal{P}(\mathcal{O})\)，真理空间 \(\mathcal{M}_T=\mathcal{P}(\mathcal{T})\)。意思之间存在包含关系 \(m_1\subset m_2\)；空/&lt;strong&gt;无知&lt;/strong&gt;意思点 \(0\in \mathcal{M}\) 表示全集背景，无穷远/&lt;strong&gt;未知&lt;/strong&gt;意思点 \(\infty\) 代表空集，其没有任何可理解的意义。&lt;/p&gt;
+&lt;p&gt;我们可以对意思之间进行简单的运算，包括&lt;strong&gt;反义&lt;/strong&gt; \(m^c\)、&lt;strong&gt;且（独立）&lt;/strong&gt;\(m_1\cap m_2\)、&lt;strong&gt;或&lt;/strong&gt; \(m_1\cup m_2\)。如果 \(m_1, m_2\) 对应的文本是 \(w_1, w_2\)，总文本 \(w=w_1w_2\) 对应的（作者的）意思是 \(m\)，\(m\) 不一定是 \(m_1\cap m_2\)。&lt;strong&gt;顺序和&lt;/strong&gt; \(m_1+m_2\)，我们需要定义嵌入映射 \(\phi:u \mapsto u^+/u^-\) 将时间压缩进半宇宙内，以实现时间上的先后关系，故 \(m_1+m_2\) \(={u\in m_1\cap m_2: \exists \phi_1,\phi_2,u_1\in m_1,u_2\in m_2 \text{ s.t. }u=\phi_1(u_1)+\phi_2(u_2)}\) 对应于顺叙的文本 \(w\)。（对于始终点的衔接问题，设想一群在 \(T\) 后就暂停演化的宇宙；即使受到真视域的限制，注意到人脑中状态序列的有限性和模糊性，这一点仍然可以成立。）&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/25.01.10/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
