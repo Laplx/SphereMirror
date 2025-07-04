@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sam on 球面镜</title>
-    <link>http://localhost:1313/SphereMirror/authors/sam/</link>
+    <link>https://laplx.github.io/SphereMirror/authors/sam/</link>
     <description>Recent content in Sam on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Mon, 04 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/authors/sam/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/authors/sam/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>十字路口的选择</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/rglights/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/rglights/</link>
       <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/rglights/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/rglights/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;最简单的模型 
     &lt;div id=&#34;最简单的模型&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -35,7 +35,7 @@ x + y + z = n
 \end{array}
 $$&lt;/p&gt;
 &lt;p&gt;是一组不定方程。C(1， -2， 1)&lt;!-- raw HTML omitted --&gt;T&lt;!-- raw HTML omitted --&gt; 是齐次方程的通解。我们希望总共的等待时间 \(T = x + y\) 最小，就是希望 z 最大，x 最大，y 最小，得到一个显然但不是那么有用的结论：我们应该优先选择左转或右转，尽量减少直行。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/rglights/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/rglights/featured.png" />
     </item>
     
   </channel>

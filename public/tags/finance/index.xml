@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Finance on 球面镜</title>
-    <link>http://localhost:1313/SphereMirror/tags/finance/</link>
+    <link>https://laplx.github.io/SphereMirror/tags/finance/</link>
     <description>Recent content in Finance on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/finance/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Astrofinance</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/24.01.19/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/24.01.19/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.01.19/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/24.01.19/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;天体金融学 
     &lt;div id=&#34;天体金融学&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -47,15 +47,15 @@
 &lt;p&gt;既然物理定律在所有参考系皆等价成立，不妨猜想所有星球都有相近的生产能力和无风险利率 \(r\) 。即使我们的证券等金融手段为本星结算，套利也会出现：（\(T = 2*8.6/0.6 = 28.67\)）&lt;/p&gt;
 &lt;p&gt;我们在 Rover 出发时在 Earth 买入并在 Rover 卖出等额的零息债，无论我本人跟随 Rover 还是留在 Earth，在其回来的时候必然存在 \(e^{rT}\) 和 \(e^{r\frac{T}{\gamma}}\) 的差别。&lt;/p&gt;
 &lt;p&gt;解决方法可以是考虑货币的作用。我们假设存在美元 USD 和琉球美元 RVD。其汇率 \(e\) 在不同时刻会不同，以使上述利差为 0。具体来说，应有 \(\frac{e_t}{e_0} = e^{-r(1-\frac{1}{\gamma})}\)，\(e_t\) 为 \(t\) 时刻美元的间接汇率。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.01.19/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/24.01.19/featured.png" />
     </item>
     
     <item>
       <title>CC Theorem</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/24.01.05/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/24.01.05/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.01.05/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/24.01.05/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;CC 定理 
     &lt;div id=&#34;cc-定理&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -81,15 +81,15 @@ $$&lt;/p&gt;
 &amp;amp;\text{ Proposition: Free Course Market }
 \end{align}
 $$&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.01.05/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/24.01.05/featured.png" />
     </item>
     
     <item>
       <title>Dividend Signaling Model</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.12.15/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.12.15/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.12.15/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.12.15/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;一个股利信号模型 
     &lt;div id=&#34;一个股利信号模型&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -117,15 +117,15 @@ $$&lt;/p&gt;</description>
 &lt;p&gt;我们纳入代理问题的考量。存在投资者（外部股权）和内部代理人（经理，可能持有股份）两方，公司正在经营一个新项目。这里关键的假设有：风险中性（贝叶斯均衡）；风险项目的产出简化为两点分布，以一定概率 \(\alpha\) 获得现值 \(R\)，\(1-\alpha\) 概率亏空为 \(0\)；私人收益线性函数（见下）。&lt;/p&gt;
 &lt;p&gt;当下第一期实现了收入 \(R_0\)，但之后仍然存在风险：好项目获得 \(R\) 的概率为 \(\alpha_H - \tau \theta\)（\(0\) 的概率为 \(1-\alpha_H+ \tau \theta\)），坏项目获得 \(R\) 的概率为 \(\alpha_L - \tau \theta\)，且 \(\alpha_H &amp;gt; \alpha_L\)。其中 \(\theta\) 为经理的偷懒程度，\(\theta \in [0,1]\)，\(\theta = 0\) 为认真工作；\(\tau\) 表示了偷懒对项目经营的危险程度。&lt;/p&gt;
 &lt;p&gt;这里的信息不对称表现为外部投资者不清楚 \(\alpha\) 并赋以 \(\alpha_H\) 概率 \(\gamma\)（\(\alpha_L\) 概率 \(1-\gamma\)），而经理知道自己是 \(\alpha_H\) 还是 \(\alpha_L\)。经理决定股利分配政策，实施发放股利 \(D\)，为市场所观测。之后由董事会（投资者控制）决定经理报酬方案 \(R^a\)（根据信号 \(D\) 和未来项目收入 \(R\) 获得报酬，即 \(R^a(D,R)\) 且默认失败没有补偿 \(R^a(D,0) = 0\)）。最后项目执行，经理选择 \(\theta\) 并最终依概率得到 \(R\) 或 \(0\)。（流程可见上图）&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.12.15/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.12.15/featured.png" />
     </item>
     
     <item>
       <title>Red-light Preference</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.10.27/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.10.27/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.10.27/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.10.27/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;抢红灯偏好 
     &lt;div id=&#34;抢红灯偏好&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -141,7 +141,7 @@ $$&lt;/p&gt;</description>
 &lt;p&gt;这里 \(B\) 的定义参考 \(A\) 的方法，我们认为决策者的效用到达时刻 \(t_u = E(t) - \frac{1}{2} B \sigma^2_t\)（\(t\) 指到达路口时信号灯的时间，正为绿灯，负为红灯——当然，纳入黄灯结论更为丰富）。于是决策者的预期加速度 \(a\) 满足匀加速运动的方程 \(t_u = \frac{x}{v+\frac{at_u}{2}}\) 即 \(a=\frac{2}{t_u^2}(x-vt_u)\)（显然这是一个简化的思考）。关于 \(t\) 的分布是与 \(a\)、\(x\)、\(v\)、\(T\)（此时的绿灯剩余秒数）有关的，例如 \(t \sim \mathbb{N} (T-t_0(a,x,v),\sigma^2)\)，\(where\ t_0\ is\ the\ solution\ of\ \)\(constant\ acceleration\ motion\)，联立即可得到 \(a\)。&lt;/p&gt;
 &lt;p&gt;这是（连续的）均衡的方式。（我觉得离散的决策也是有道理的。）通过测量这些投资者过路口时运动的物理数据，我们大概可以估计出他们的 \(\sigma^2\) 和 \(B\)。或许 \(B\) 为负数的人在股市上更可能表现出风险偏好的倾向。&lt;/p&gt;
 &lt;p&gt;（好吧照这个逻辑也许还有很多生活中的行为都可以……）&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.10.27/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.10.27/featured.png" />
     </item>
     
   </channel>

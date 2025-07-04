@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notion on 球面镜</title>
-    <link>http://localhost:1313/SphereMirror/tags/notion/</link>
+    <link>https://laplx.github.io/SphereMirror/tags/notion/</link>
     <description>Recent content in Notion on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/notion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/notion/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Geometric Hermeneutics</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/25.01.10/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/25.01.10/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/25.01.10/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/25.01.10/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;语言的几何学阐释 
     &lt;div id=&#34;语言的几何学阐释&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -51,15 +51,15 @@
 &lt;/h4&gt;
 &lt;p&gt;我们不能理解完全不依靠&lt;strong&gt;现实&lt;/strong&gt;的意义。（现实指的不一定就是真实存在发生的，而是一种类似生活经验的东西）所有的意思（意义，关于另外一种 “意义” 见下一小节）都指代了一系列可能的现实世界过程（称作&lt;strong&gt;宇宙&lt;/strong&gt; \(u\)）。某一时刻的宇宙 \(u(t)\) 称作世界，是一系列状态信息的集合（能想象到的所有信息都可以如此纳入）\({\pi^1,\pi^2,\dots}\)（暂时先把不可数的打包在一起，写成可数的形式；注意我们可以想象虚空中的抽象状态，但它仍然是一个与其他事实状态无二的东西）。一个半宇宙（前向/后向宇宙）指 \({u_t}&lt;em&gt;{t\ge 0}\) 或 \({u_t}&lt;/em&gt;{t\le 0}\)，包含一个给定的始终点 \(u_0\)。注意我们目前没说 \(u(t)\) 随时间的变化满足一定的规律（比如 Newton&amp;rsquo;s Law），它允许了一切天马行空的假设与想象力。所有这些平行宇宙的集合 \(\mathcal{O}\) 称作&lt;strong&gt;客观集&lt;/strong&gt;，鉴于它们都是思考的对象（因此可能可以认为启蒙运动是在扩展客观集）。建模时状态是&lt;strong&gt;外禀&lt;/strong&gt;的；例如总有人知道电场的存在，有人的世界里是不知道的（“因为太愚昧或太聪明而获得自由的幻象” 亨利·詹姆斯《使节》）。对于某个读者来说，他所能理解的一切宇宙集合记作&lt;strong&gt;知识域&lt;/strong&gt; \(\mathcal{K}=\hat{\mathcal{O}}\)。但这里面有一些宇宙大概是符合一些规律的，我们把符合该规律的集合称作&lt;strong&gt;真域&lt;/strong&gt; \(\mathcal{T}\)；同样，比方说或许有人眼里 Newton&amp;rsquo;s Law 和大家的不一样，故每个读者都有自己认为的真域 \(\mathcal{U}=\hat{\mathcal{T}}\)。&lt;strong&gt;意思空间&lt;/strong&gt; \(\mathcal{M}=\mathcal{P}(\mathcal{O})\)，真理空间 \(\mathcal{M}_T=\mathcal{P}(\mathcal{T})\)。意思之间存在包含关系 \(m_1\subset m_2\)；空/&lt;strong&gt;无知&lt;/strong&gt;意思点 \(0\in \mathcal{M}\) 表示全集背景，无穷远/&lt;strong&gt;未知&lt;/strong&gt;意思点 \(\infty\) 代表空集，其没有任何可理解的意义。&lt;/p&gt;
 &lt;p&gt;我们可以对意思之间进行简单的运算，包括&lt;strong&gt;反义&lt;/strong&gt; \(m^c\)、&lt;strong&gt;且（独立）&lt;/strong&gt;\(m_1\cap m_2\)、&lt;strong&gt;或&lt;/strong&gt; \(m_1\cup m_2\)。如果 \(m_1, m_2\) 对应的文本是 \(w_1, w_2\)，总文本 \(w=w_1w_2\) 对应的（作者的）意思是 \(m\)，\(m\) 不一定是 \(m_1\cap m_2\)。&lt;strong&gt;顺序和&lt;/strong&gt; \(m_1+m_2\)，我们需要定义嵌入映射 \(\phi:u \mapsto u^+/u^-\) 将时间压缩进半宇宙内，以实现时间上的先后关系，故 \(m_1+m_2\) \(={u\in m_1\cap m_2: \exists \phi_1,\phi_2,u_1\in m_1,u_2\in m_2 \text{ s.t. }u=\phi_1(u_1)+\phi_2(u_2)}\) 对应于顺叙的文本 \(w\)。（对于始终点的衔接问题，设想一群在 \(T\) 后就暂停演化的宇宙；即使受到真视域的限制，注意到人脑中状态序列的有限性和模糊性，这一点仍然可以成立。）&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/25.01.10/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/25.01.10/featured.png" />
     </item>
     
     <item>
       <title>Regression on Channel</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/24.04.26/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/24.04.26/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.04.26/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/24.04.26/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;回归在信道上 
     &lt;div id=&#34;回归在信道上&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -73,15 +73,15 @@
 &lt;p&gt;我们假想我们做的回归 \(Y\) 对 \(X\) 其实由一个高斯信道 \(X\rightarrow Y\) 把控。如果事实上机制就是这样，那么估计的信道容量会趋向真实值 \(\hat{C}\rightarrow C=-\frac{1}{2}\ln(1-R^2)\)，这也是最大可能达到的码率——这里就有事了，我们正是依靠\(X\)的行为传递的信息去判别\(Y\)​。&lt;/p&gt;
 &lt;p&gt;若连续变量 \(X\) 确实按照高斯分布，那么理论上我们能无限量的发出信息；但这并没有用，鉴于信道的限制，我们相当于以至少存在 \(D_{min}=\sigma_X^2(1-R^2)\) 的均方误差进行测量。（\(R(D)=\frac{1}{2}\ln\frac{\sigma_X^2}{D}&amp;lt;C\)）&lt;/p&gt;
 &lt;p&gt;如果形式的分组（就像处理微分熵那样），那么我们有 \(\lfloor \frac{1}{\sqrt{1-R^2}}\rfloor\) units。于是相关系数 \(R\ge \frac{\sqrt{3}}{2}=0.866\) 尚才1个bit的定性判断。否则在样本量趋向于无穷时候，结果落在典型集中的概率会趋向于0，亦即此时用以预测其实跟打奖没什么区别呃呃。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.04.26/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/24.04.26/featured.png" />
     </item>
     
     <item>
       <title>Infinite Turing Machine</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/24.01.26/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/24.01.26/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.01.26/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/24.01.26/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;无限图灵机 
     &lt;div id=&#34;无限图灵机&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -110,15 +110,15 @@
 &lt;p&gt;&lt;strong&gt;Church-Turing Thesis:&lt;/strong&gt; A function can be calculated by an effective method if and only if it is computable by a Turing machine.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dual Church-Turing Thesis:&lt;/strong&gt; A relation can be understanded by an effective way if and only if it is realized by a infinite Turing machine.&lt;/p&gt;
 &lt;p&gt;\(RE\) 表示全部图灵可识别语言（Chomsky 形式语法 type-0），\(TE\) 表示 Turing Emergenable（大概需要一个自然语言的语法层级），全部图灵可涌现识别的语言。对应通用图灵机 \(\mathcal{U}\) 的为通用无限图灵机 \(\tilde{\mathcal{U}}\)。（由于至少一种图灵机 \(M_\infty\) 有无限个，我们需要指明输入参数、算法指派的模式作为在无穷网络上的输入。）不仅 \( \tilde{\mathcal{U}} = F(\mathcal{U})\)，\(\mathcal{U} = F(\tilde{\mathcal{U}})\)​ 亦成立。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.01.26/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/24.01.26/featured.png" />
     </item>
     
     <item>
       <title>Leaning, Gluing</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.12.22/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.12.22/</link>
       <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.12.22/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.12.22/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;斜塔，粥 
     &lt;div id=&#34;斜塔粥&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -134,15 +134,15 @@
 &lt;p&gt;合约即部分权力的让渡与赋予。它会形成一定的策略空间，对它们赋以（带随机性的）效用。体系可能运行到某些状态下，各个层级的合约都有策略移动的倾向（甚至违约的倾向）；且最上方的合约形变达到最大，下方会依次产生递减的形变（倾向），就像一堆倾斜的积木或者比萨斜塔。而当世界（未来预期）产生变动时，就像拨动斜塔，虽然顶端最为严重，倒塌却是一起的——在高倾斜度下，整个合约架构很容易一举崩溃——例如金融危机爆发（甚至政权合约遭到颠覆）。&lt;/p&gt;
 &lt;p&gt;但这个 collapse 的过程还有类似于 congee 一些黏糊糊的粥的性质。想象当你用勺子捞了粥抬起来的时候，一部分粥会收回勺内，一部分粥会落回碗中。合约同样具有粘性（韧性），且随着基础性和规模的扩大粘性逐渐增大。在斜塔倒下的片刻，上层的合约会连贯倾倒，下层的合约通过甩掉形变力往往会被拉回正轨。例如在复杂的金融工具架构中，随着泡沫或违约风险的爆裂，底部的银行和金融机构往往能得到救助和调整，以部分的维持合约体系。&lt;/p&gt;
 &lt;p&gt;（对不起，感觉有点狂想……不过还挺符合原本栏目简介里说的嘛）&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.12.22/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.12.22/featured.png" />
     </item>
     
     <item>
       <title>Settability</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.12.08/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.12.08/</link>
       <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.12.08/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.12.08/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;可设性 
     &lt;div id=&#34;可设性&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -171,15 +171,15 @@
 &lt;p&gt;（其实还有一种可能的情况是 reciprocated variables。X 和 Y 会互相作用、互为因果。比如随机动力系统？）&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;插播：Centroid of Mass People&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;坐在食堂吃饭，突然想到：如果知道一个时刻食堂里的人的分布，我们似乎可以计算一个食堂的重心——它在整个饭点时段里估计会摆来摆去（或许有某种运动规律）……嗯，我们还可以画出整个地球的人们的重心（我猜猜，在中亚嘛？），还可以画出全球财富的重心，它们之间有多少距离，又如何演变的呢？&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.12.08/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.12.08/featured.png" />
     </item>
     
     <item>
       <title>Weighted Synchronicity</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.11.10/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.11.10/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.11.10/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.11.10/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;加权共时 
     &lt;div id=&#34;加权共时&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -191,15 +191,15 @@
 &lt;/h3&gt;
 &lt;p&gt;这个名字取得不是很恰当，不过我老是沿用脑子里第一次直觉冒出的概念名，于是就这么叫了。说的是什么呢？我们考虑两个地区——比如湖南省与上海市、卢森堡与奥地利之类的——它们在历史上被同一个政治体统治过的时间总和。加权指的是，我们可以给较久远的如公元前的时间赋以小权值而靠近近代的时间赋以大权值（具体可能要调试）。&lt;/p&gt;
 &lt;p&gt;这反映了什么呢？我想用其简单的描述一下两地区的文化差异程度（或者至少说，定义有文化差异度，并且它大概与加权共时值呈负相关）。不止是加权共时反映了文化差异度，两地距离（靠的近自然受到对方文化的感染）等等都会影响（当然，大家都看到这里的内生性问题了……）。一个可能的实证如下（请批判）：我们找出一些欧洲相邻的小国（鉴于我们没有地区的这样的数据），统计其文化产业（各国统计标准有别）进口结构——各进口国进口量与其 GDP 比值作为参考，比较两地结构差异（做一个指标 \(D_{culture}\)），其与加权共时 \(X_{syn}\) 回归显著（控制两地距离 \(X_{dis}\) 等）。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.11.10/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.11.10/featured.png" />
     </item>
     
     <item>
       <title>Theory of Theory</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.10.20/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.10.20/</link>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.10.20/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.10.20/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;理论的理论 
     &lt;div id=&#34;理论的理论&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -215,15 +215,15 @@
 \mathcal{X} \rightarrow X \rightarrow \boxed{\mathbb{T}} \rightarrow Y \rightarrow \mathcal{Y}
 $$&lt;/p&gt;
 &lt;p&gt;\(\mathcal{X} \rightarrow X\) 和 \(\mathcal{Y} \rightarrow Y\) 都是概念化 Conceptualize 的过程。\(\mathcal{X}\) 和 \(\mathcal{Y}\) 是现实世界的对象或情形，\(X\) 和 \(Y\) 是我们理论的输入和输出。（注意\(X\)可以不仅仅是某个数值变量“政府年度固定投资额”，还可以是“财政政策不变”这样更为抽象的输入或问询。）科学理论的核心是相关与因果。仅相关的关联性可以做到预测，而因果性（并不是一个容易论断的东西）可以做控制和应用。中间的模型机制 Laws or Theorems \(T\) 和概念 Concepts \(C\) 组成了一个完整的理论 \(\mathbb{T}={T_1,\cdots,T_i,C_1,\cdots,C_j}\) 。每个定理（或定理的一部分）都可以写成 \(c = T(c_1,\cdots,c_n)\)，其中 \(c\) 是 \(C\) 的具象输入。我们这里缺少了几个理论里常见的模块，但其实已经纳入机制 \(T\) 内了，包括假设 Assumption 和公理 Axiom ——一种未经验证的假定的\(C\)之间的关联性；引理 Lemma 和推论 Corollary ——也是定理们特定的同义重复。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.10.20/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.10.20/featured.png" />
     </item>
     
     <item>
       <title>Knoid</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.10.06/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.10.06/</link>
       <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.10.06/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.10.06/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;知子网 
     &lt;div id=&#34;知子网&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -265,15 +265,15 @@ $$&lt;/p&gt;
 &lt;p&gt;我们借鉴了以太坊（Etherum）的基础。所有行动将被广播，每经过固定时间将创建下一个提交，所有知识的拥有者都将写入一份同全网络历史一模一样的副本。知识的产权不容纂改。&lt;/p&gt;
 &lt;p&gt;网络可以本地化，大学等学术机构可以接入并构造属于自己内部的知识生态，这只需要若干合约。&lt;/p&gt;
 &lt;p&gt;知子网正在 Github 上启动。大信息时代的知识交流期待新的范式，期待您的参与。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.10.06/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.10.06/featured.png" />
     </item>
     
     <item>
       <title>Measure Design</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.09.22/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.09.22/</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.09.22/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.09.22/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;建筑设计的计量 
     &lt;div id=&#34;建筑设计的计量&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -301,15 +301,15 @@ $$&lt;/p&gt;
 &lt;p&gt;建筑可以近乎完美的解决这两个问题，而绘画、音乐等艺术还需进一步考量。我们考虑全部的建筑具有一定的可行性，它们就是大家生活中接触到的建筑物的全集，那么一个标新立异的富有变异感的设计可以被视为高审美价值的。古怪的垃圾品鉴于建筑的规划、审批、施工需要层层把关实现，不大可能出现彻底的丑，何况不走寻常路可能本身就是艺术呢（比如争论中的行为艺术）。而画作、曲作的对比背景应该是人的日常生活，所以人们会喜欢欣赏画喜欢听音乐，我想这个指标可能需要做改进。&lt;/p&gt;
 &lt;p&gt;从这个指标出发，那么研究空间就大了。我抛砖引玉一个：&lt;/p&gt;
 &lt;p&gt;现在的城市建筑都由设计院、建筑事务所设计。最终整个城市或某个空间区域分布里的总设计度 \(V = \sum v\) 与它们花费的总设计费用 \( C = \sum c\) 的比值 \( \zeta = \frac{V}{C}\) 表示了一单位费用下产生的艺术效用，称作 \( conservative\ factor \ \zeta\)  保守度——因为建设过程是甲乙双方协商的结果，文化保守的地区在变异程度上要弱于开放的地区，可能也是人均 GDP 高的地区。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.09.22/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.09.22/featured.png" />
     </item>
     
     <item>
       <title>Templatization</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.08.18/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.08.18/</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.08.18/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.08.18/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;模板化 
     &lt;div id=&#34;模板化&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -322,15 +322,15 @@ $$&lt;/p&gt;
 &lt;p&gt;这是一个简单的概念随想……我想把一些现象或性质解释为“模板化”。指的是人的思维倾向于将一些事物、特征模板化、固定且凸出化。&lt;/p&gt;
 &lt;p&gt;模板本质上具有同一性，希望将新事物的出现套入已有的认知当中，因此人们向往规律、科学。模板本质上也排除不确定性、复杂和中间状态，人们经常将新事物露出的一角扩大到全部，并强化、凸出化。“宏大叙事”大概也有一定关联，有些人热衷于军事、政治、历史等话题，往往很多事物都被过分模板化了，而忽略了人脑和人性中复杂幽微的那一面。从生物本源的角度上说，这可能是人类进化出的规避危险的措施——强化特征，例如悬崖很高很高，海面很大很大……使人望而却步。&lt;/p&gt;
 &lt;p&gt;突然转念一想，强调复杂性自己本身是不是一种模板化呢？或者构建“概念”本身就是有悖于对形而上学的批判的，就像阿多诺所说的那样？&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.08.18/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.08.18/featured.png" />
     </item>
     
     <item>
       <title>Meme Alive</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.07.28/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.07.28/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.07.28/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.07.28/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;流行的生命机制 
     &lt;div id=&#34;流行的生命机制&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -372,15 +372,15 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;[1] Richard Dawkins. The selfish gene. Oxford university press, 2016.&lt;/p&gt;
 &lt;p&gt;[2] Kleber A. Oliveira. Modelling meme popularity with networks. page 3558205 Bytes, 2023. Artwork Size: 3558205 Bytes Publisher: University of Limerick.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.07.28/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.07.28/featured.png" />
     </item>
     
     <item>
       <title>Hype Significance</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.06.23/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.06.23/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.06.23/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.06.23/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;显著你的显著 
     &lt;div id=&#34;显著你的显著&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -437,15 +437,15 @@ $$&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.06.23/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.06.23/featured.png" />
     </item>
     
     <item>
       <title>Homomorphic Observation</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/23.06.16/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/23.06.16/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/23.06.16/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/23.06.16/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;观测同态 
     &lt;div id=&#34;观测同态&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -461,7 +461,7 @@ $$&lt;/p&gt;
 &lt;p&gt;抽象概括起来，观测和被观测者需要经历同样的过程、要求或处于同样的状态。破解的办法有什么呢？可以寻找获取额外的 “迹 Trace”。比如我老是去上厕所需要走过某窗户边，那人在教室老是看到我上厕所自然就好奇我大致是尿频了。&lt;/p&gt;
 &lt;p&gt;由于经验不足，我暂时一下子想不到观测同态在社会、经济等其他方面的例子（笑），但大概存在更宏大、更富有意义的应用。（欢迎提出）&lt;/p&gt;
 &lt;p&gt;容我再形而上学的追思一下：为什么有观测同态？一个事物，它的了解（少量运作）和运作（大量运作）两个交互状态可能无法区分（也许它的了解具有门槛或需要一定运作，比如我必须进到厕所才能看到你）（运作就是使用、执行等发挥事物原本功能的概念集合体）。但由于缺乏区分身份的信息或 Trace，大家会根据自己所得（自己参与少量或大量运作所观测到的）把少量的人当作了解者而把大量的人自动视作运作者。好比案发现场，有你你就具有嫌疑。而你频频出现在杀人地点附近，你会被路人当作路人，被检查官当作杀人犯。（笑）&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/23.06.16/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/23.06.16/featured.png" />
     </item>
     
   </channel>

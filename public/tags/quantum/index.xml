@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantum on 球面镜</title>
-    <link>http://localhost:1313/SphereMirror/tags/quantum/</link>
+    <link>https://laplx.github.io/SphereMirror/tags/quantum/</link>
     <description>Recent content in Quantum on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/quantum/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/quantum/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>量子力学的形式理论</title>
-      <link>http://localhost:1313/SphereMirror/notes/quantum_form/</link>
+      <link>https://laplx.github.io/SphereMirror/notes/quantum_form/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/notes/quantum_form/</guid>
+      <guid>https://laplx.github.io/SphereMirror/notes/quantum_form/</guid>
       <description>&lt;p&gt;
 
 系统的运动状态&lt;strong&gt;由 Hilbert 空间（所有平方可积函数构成的线性空间）中的一个矢量 \(\ket{ \mathfrak{I} }\) 描述&lt;/strong&gt;。&lt;/p&gt;
@@ -29,7 +29,7 @@
 &lt;p&gt;$$
 \ket{ \mathfrak{I} } = \sum_{a} \ket{a} \braket{ a | \mathfrak{I} }
 $$&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/notes/quantum_form/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/notes/quantum_form/featured.png" />
     </item>
     
   </channel>

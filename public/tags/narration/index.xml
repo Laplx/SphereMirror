@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Narration on 球面镜</title>
-    <link>http://localhost:1313/SphereMirror/tags/narration/</link>
+    <link>https://laplx.github.io/SphereMirror/tags/narration/</link>
     <description>Recent content in Narration on 球面镜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>spheremirror@outlook.com (SphereMirror)</managingEditor>
     <webMaster>spheremirror@outlook.com (SphereMirror)</webMaster>
     <copyright>© 2025 SphereMirror</copyright>
-    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/SphereMirror/tags/narration/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://laplx.github.io/SphereMirror/tags/narration/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How Wenzhou Develops</title>
-      <link>http://localhost:1313/SphereMirror/essays/frivols/24.02.02/</link>
+      <link>https://laplx.github.io/SphereMirror/essays/frivols/24.02.02/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
       <author>spheremirror@outlook.com (SphereMirror)</author>
-      <guid>http://localhost:1313/SphereMirror/essays/frivols/24.02.02/</guid>
+      <guid>https://laplx.github.io/SphereMirror/essays/frivols/24.02.02/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;温州，如何介绍你？ 
     &lt;div id=&#34;温州如何介绍你&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -70,7 +70,7 @@
 &lt;p&gt;浙江的许多县域、村镇都凭借专业化的特色产业集群发展，温州当时有诸如桥头纽扣、永强阀门、塘下汽摩配、柳市低压电器、萧江塑编……因此涌现了所谓“中国鞋都”“中国泵阀之都”“中国纽扣之都”“中国汽摩配之都”等等一众招牌（现在来看几乎都是盛名之下，其实难副了）。&lt;/p&gt;
 &lt;p&gt;举个例子，原本进口单价至少4元的电子打火器，温州工坊自制最初只需2元左右，规模生产后价格进一步降到0.3元以下。（入世第一案即发生在此，2002年欧盟对中国出口的打火机进行反倾销立案调查，但最终官司取得胜利，温州烟具行业协会这一民间团体功不可没——尽管没阻止住欧盟两年后再次通过）&lt;/p&gt;
 &lt;p&gt;考虑到当时的环境，姓资姓社等争论不休（基本要到94年十四届三中全会才尘埃落定），这些种种仍然过于超前或“资本主义”了。与“傻子瓜子”类似（傻子瓜子雇佣了百来名员工，被当作资本主义典型告到邓那里，最终拍板放过），“八大王”事件（包括五金大王胡金林在内的八位个私经济领头人以“投机倒把罪”被捕，沉重打击兴起的家庭工业，后平反）也是一场思想上的风波，温州模式的一次破壳。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/SphereMirror/essays/frivols/24.02.02/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://laplx.github.io/SphereMirror/essays/frivols/24.02.02/featured.jpg" />
     </item>
     
   </channel>
